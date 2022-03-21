@@ -7,7 +7,19 @@ With Juncture you can create a single essay or build a full website consisting o
 More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
 
 Student essays:
-* [Student A](student-a).
-* [Student B](student-b).
-* [Student C](student-c).
-* [Student D](student-d).
+* [Catlett](catlett).
+* [Haines](haines).
+* [Herzig](herzig).
+* [Jacob](jacob).
+* [Jhangiani](jhangiani).
+* [Johnson](johnson).
+* [Kuhn](Kuhn).
+* [Kuhn-Mary](kuhn-mary).
+* [Liebman](liebman).
+* [Maupin](maupin).
+* [Norviel](norviel).
+* [Preslar](preslar).
+* [Rhea](rhea).
+* [Rossi](rossi).
+* [Tschurr](tschurr).
+* [Wang](wang).
