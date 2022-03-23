@@ -23,3 +23,4 @@ Student essays:
 * [Rossi](rossi).
 * [Tschurr](tschurr).
 * [Wang](wang).
+* [Walsh Test](walsh-test).
