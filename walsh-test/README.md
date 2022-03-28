@@ -107,6 +107,11 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
+## Harrison test
+
+This is a test of Harrison Map
+<param ve-map center="38.0360825,-78.5080211" zoom="11" show-labels marker-type="circle" radius="8">
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
