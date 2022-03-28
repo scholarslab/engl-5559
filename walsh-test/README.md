@@ -37,7 +37,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 ## Harrison test
 
 This is a test of Harrison Map
-<param ve-map center="38.0360825,-78.5080211" zoom="11" show-labels marker-type="circle" radius="40">
+<param ve-map center="38.0360825,-78.5080211" zoom="11" show-labels marker-style="circle" radius="40">
 
 # References
 
