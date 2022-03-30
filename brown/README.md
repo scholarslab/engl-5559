@@ -23,9 +23,9 @@ Here I'll put basic info on Dore in my essay. I can add a [link](https://digital
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/Gustave_Dor%C3%A9_by_Nadar_-_Getty_Museum.jpg">   
 
-## *The Raven *
+## *The Raven*
 
-Dore created illustrations for several Victorian editions of Coleridge's *The Rime of the Ancient Mariner*.[^1]
+Dore created illustrations for several Victorian editions of Edgar Allan Poe's *The Raven*. Dore did other illustrations. [^1]
 <param ve-image 
        label="Cover of *The Raven*" 
        description="Dore's cover illustration for Edgar Allan Poe's *The Raven*" 
