@@ -1,5 +1,5 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-Gustave Doré
+
 <param ve-config 
        title="Gustave Doré's Gothic Art"
        author="Sherri"
