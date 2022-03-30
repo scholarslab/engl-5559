@@ -4,8 +4,8 @@
        title="Gardening in the weather of Anti-Blackness" 
        banner="URL
 : 
-https://commons.wikimedia.org/wiki/user:Uleli" 
-       layout="vertical">
+[https://commons.wikimedia.org/wiki/user:Uleli" 
+       layout]="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
