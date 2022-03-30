@@ -9,16 +9,21 @@ Gustave Doré
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param title="Gustave Doré" eid="Q6682" alias="engraver">
+<param title="Strasbourg" eid="Q6602">
+<param title="Romanticism" eid="Q37068">
 
-# Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+# Doré's Illustrations 
+
+Here I'll put basic info on Dore in my essay. I can add a [link](https://digital.lib.buffalo.edu/collection/LIB-SC001/) for examples. 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="Gustave Dore"
+       description="photograph by Felix Nadar" 
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Gustave_Dor%C3%A9_by_Nadar_-_Getty_Museum.jpg">
+     
+       
 
 # Basic usage
 
