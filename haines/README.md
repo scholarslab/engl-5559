@@ -30,7 +30,7 @@ Peonies are beautiful and attractive flowers.[^1]
        label="Peonies" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/3/31/%E7%89%A1%E4%B8%B9%E3%81%AB%E5%AD%94%E9%9B%80%E5%9B%B3-Peacocks_and_Peonies_MET_DT5293.jpg">
+       url="haines/746px-牡丹に孔雀図-Peacocks_and_Peonies_MET_DT5293.jpg">
 
 ## Map
 
