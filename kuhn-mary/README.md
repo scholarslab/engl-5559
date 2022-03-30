@@ -23,7 +23,7 @@ Start of essay.  Complete [Documentation](https://juncture-digital.org/docs) and
 
 # Domestic Applications // Paints and Wallpapers
 
-## Image
+# Image
 
 .Here is a place to drop in a quote from Allewaert on insects. [^1]
 <param ve-image 
@@ -32,12 +32,12 @@ Start of essay.  Complete [Documentation](https://juncture-digital.org/docs) and
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
+# Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
+# Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
