@@ -30,7 +30,7 @@ Dore created illustrations for several Victorian editions of Coleridge's *The Ri
        label="Cover of *The Raven*" 
        description="Dore's cover illustration for Edgar Allan Poe's *The Raven*" 
        license="PD" 
-       rotate="90"
+       rotate=90
        url="Dore_Raven.jpg">
 
 ## Map
