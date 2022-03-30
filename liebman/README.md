@@ -16,8 +16,8 @@
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
-       label="Susan" 
-       description="painting by Eric Alfaro" 
+       label="Purple gem-like blossoms..." 
+       description="painting by Eric Alfaro titled Susan" 
        license="public domain" 
        url="AlfaroSusan.webp">
 
