@@ -32,8 +32,8 @@ Discuss the history of botanical gardens in Padua and the Mediterranean. [link](
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+"Rappaccini's Daughter" is set in Padua, Italy.
+<param ve-map center="Q617" zoom="10"
 
 ## Multiple viewers
 
