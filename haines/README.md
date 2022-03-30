@@ -39,7 +39,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 
 ## Map 2
 blah blah blah
-<paramve-map center="38.036025, -78.5080211 zoom="11">
+
 
 ## Multiple viewers
 
