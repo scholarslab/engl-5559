@@ -9,16 +9,17 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param title="Rappaccini's Daughter" eid="Q3822374">
+<param title="Padua" eid="Q617">
 
-# Sample visual essay
+# Padua's Botanical Gardens
 
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+Discuss the history of botanical gardens in Padua and the Mediterranean. [link](https://www.wikidata.org/wiki/Q617)
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="Padua's Gardens"
+       description="photograph by Wikimedia"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Botanical_garden_of_Padua_105.jpg"
 
 # Basic usage
 
