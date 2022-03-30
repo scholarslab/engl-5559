@@ -3,7 +3,8 @@
 <param ve-config 
        title="Burnett's The Secret Garden" 
        author="Krysten Kuhn"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rose_rouge.JPG/240px-Rose_rouge.JPG" 
+       banner="https://iiif.juncture-digital.org/banner/?
+url=https://https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rose_rouge.JPG/240px-Rose_rouge.JPG" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
