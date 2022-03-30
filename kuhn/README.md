@@ -35,7 +35,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 ## Map
 
 Burnett was born in Cheetham Hill, Manchester, UK.
-<param ve-map center="Q18125" zoom="11" prefer-geojson>
+<param ve-map center="Q18125" zoom="11">
 
 ## Multiple viewers
 
