@@ -14,14 +14,14 @@
 <param title= eid="Q221092"> <!-- Mauritshuis -->
 <param title= eid="Q36600"> <!-- The Hague -->
 
-# First section of essay
+# History of Pesticides
 
 Start of essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
        manifest="https://en.wikipedia.org/wiki/Paris_green#/media/File:Paris_Green_(Schweinfurter_Gr%C3%BCn).JPG">
        url="https://en.wikipedia.org/wiki/Paris_green#/media/File:Paris_Green_(Schweinfurter_Gr%C3%BCn).JPG"
 
-# Basic usage
+# Domestic Applications // Paints and Wallpapers
 
 ## Image
 
