@@ -23,6 +23,8 @@ Start of essay.  Complete [Documentation](https://juncture-digital.org/docs) and
 
 # Domestic Applications // Paints and Wallpapers
 
+# A New Section
+
 # Image
 
 .Here is a place to drop in a quote from Allewaert on insects. [^1]
