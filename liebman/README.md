@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Nathaniel Hawthorne's Rappaccini's Daughter" 
+       title="Rappaccini's Daughter" 
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/c/c4/John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg" layout="vertical"
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
