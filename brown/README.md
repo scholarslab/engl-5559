@@ -35,11 +35,12 @@ Dore created illustrations for several Victorian editions of Edgar Allan Poe's *
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Gustave Dore was born in the city of Strasbourg in eastern France. blah blah . . . 
+<param ve-map center="Q6602" zoom="11">
+
 
 ## Multiple viewers
+
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
