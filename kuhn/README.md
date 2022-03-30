@@ -1,8 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Burnett's The Secret Garden" 
+       author="Krysten Kuhn"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rose_rouge.JPG/240px-Rose_rouge.JPG" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
