@@ -16,7 +16,7 @@
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
-       manifest="Alfaro,_Susan.webp">
+       manifest="AlfaroSusan.webp">
 
 # Basic usage
 
