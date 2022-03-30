@@ -21,11 +21,9 @@ Discuss the history of botanical gardens in Padua and the Mediterranean. [link](
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Botanical_garden_of_Padua_105.jpg"
 
-# Basic usage
+## *The Scarlet Letter*
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+1850 novel by Nathaniel Hawthorne[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -46,4 +44,4 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: The Scarlet Letter](https://en.wikipedia.org/wiki/The_Scarlet_Letter)
