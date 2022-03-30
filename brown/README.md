@@ -21,17 +21,11 @@ Here I'll put basic info on Dore in my essay. I can add a [link](https://digital
        label="Gustave Dore"
        description="photograph by Felix Nadar" 
        license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Gustave_Dor%C3%A9_by_Nadar_-_Getty_Museum.jpg">
-     
-       
+       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Gustave_Dor%C3%A9_by_Nadar_-_Getty_Museum.jpg">   
 
-# Basic usage
+## *The Rime of the Ancient Mariner*
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Dore created illustrations for several Victorian editions of Coleridge's *The Rime of the Ancient Mariner*.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -54,4 +48,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Gustave Dore](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
