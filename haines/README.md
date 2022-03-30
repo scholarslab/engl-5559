@@ -37,6 +37,10 @@ Peonies are beautiful and attractive flowers.[^1]
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q6602" zoom="11">
 
+## Map 2
+blah blah blah
+<paramve-map center="38.036025,-78.5080211" zoom="11">
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
