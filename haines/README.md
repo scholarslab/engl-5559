@@ -23,16 +23,14 @@ Here I'll discuss the aesthetic qualities of the peony. I can add a link to the 
        licence="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/6/60/Peonies_MET_DP123836.jpg">
 
-# Horticultural History of peonies
+## *Peonies in Japanese Art*
 
-## Image
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+Peonies are beautiful and attractive flowers.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Peonies" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/3/31/%E7%89%A1%E4%B8%B9%E3%81%AB%E5%AD%94%E9%9B%80%E5%9B%B3-Peacocks_and_Peonies_MET_DT5293.jpg">
 
 ## Map
 
@@ -48,4 +46,4 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Peony](https://en.wikipedia.org/wiki/Peony)
