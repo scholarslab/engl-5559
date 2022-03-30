@@ -38,6 +38,10 @@ Dore created illustrations for several Victorian editions of Edgar Allan Poe's *
 Gustave Dore was born in the city of Strasbourg in eastern France. blah blah . . . 
 <param ve-map center="Q6602" zoom="11">
 
+## Map 2 
+I found Dores works in the Harrison-Small collection at the University of Virginia.
+<param ve-map center="38.0360825,-78.5080211" zoom="11">
+
 
 ## Multiple viewers
 
