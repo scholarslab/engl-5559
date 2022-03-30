@@ -1,7 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring" 
+       title="Peonies" 
+       author="Rachel"
        banner="https://upload.wikimedia.org/wikipedia/commons/6/65/Paeonia_suffruticosa_red070503B.jpg" 
        layout="vertical">
 
@@ -13,13 +14,16 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# The aesthetic quality of peonies
 
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+Here I'll discuss the aesthetic qualities of the peony. I can add a link to the ways peonies have been depicted in art. [link](link here) here.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="Peonies in paintings" 
+       description="painting by Manet"
+       licence="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/60/Peonies_MET_DP123836.jpg">
 
-# Basic usage
+# Horticultural History of peonies
 
 ## Image
 
