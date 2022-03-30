@@ -2,10 +2,8 @@
 
 <param ve-config 
        title="Gardening in the weather of Anti-Blackness" 
-       banner="URL
-: 
-[https://commons.wikimedia.org/wiki/user:Uleli" 
-       layout]="vertical">
+       banner="URL 
+[[File:Anne Bethel Spencer in her wedding dress.jpg|Anne_Bethel_Spencer_in_her_wedding_dress]]>
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
