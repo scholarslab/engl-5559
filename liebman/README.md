@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Rappaccini's Daughter" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/c/c4/John_William_Waterhouse_-_The_Soul_of_the_Rose%2C_1903.jpg" layout="vertical"
+       banner="RappaccinisDaughter.webp" layout="vertical"
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
