@@ -23,14 +23,14 @@ Here I'll put basic info on Dore in my essay. I can add a [link](https://digital
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/Gustave_Dor%C3%A9_by_Nadar_-_Getty_Museum.jpg">   
 
-## *The Rime of the Ancient Mariner*
+## *The Raven *
 
 Dore created illustrations for several Victorian editions of Coleridge's *The Rime of the Ancient Mariner*.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       label="Cover of *The Raven*" 
+       description="Dore's cover illustration for Edgar Allan Poe's *The Raven*" 
+       license="PD" 
+       url="Dore_Raven.jpg">
 
 ## Map
 
