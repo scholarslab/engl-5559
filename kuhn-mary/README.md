@@ -46,7 +46,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 # Map 2
 
 Bryan Hall VA
-<param ve-map center=> "38.0332951,-78.5081631"
+<param ve-map center=> "38.0332951,-78.5081631">
 
 # Multiple viewers
 
