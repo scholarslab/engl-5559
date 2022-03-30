@@ -23,7 +23,11 @@ Start of essay.  Complete [Documentation](https://juncture-digital.org/docs) and
 
 # Domestic Applications // Paints and Wallpapers
 
+here's some content on candies and papers and stuff that had arsenic in it.
+
 # A New Section
+
+about advertisements for paris green and about visuals of spraying
 
 # Image
 
