@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Combatting the Clock: Plants as Time Machines in Caribbean Literature" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="*Butterfly Clock*" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
