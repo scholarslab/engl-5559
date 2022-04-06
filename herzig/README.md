@@ -25,8 +25,8 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as This One Sky Day) is written by Leone Ross. [^1]
 <param ve-image 
-       label="Different Covers, Different Art, Different Aesthetics" 
-       description="painting by Johannes Vermeer" 
+       label="Linear Time" 
+       description="Clock Encased in Totara Burr Tree Bark" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 
