@@ -28,7 +28,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as 
        label="Different Covers, Different Art, Different Aesthetics" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 
 ## Map
 
