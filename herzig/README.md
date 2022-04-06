@@ -53,6 +53,14 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
+## Marvelous Equations of the Dread
+Written by Marcia Douglas, the axis mundi that controls time travel is the silk cotton tree here
+<param ve-image
+       label="Douglas' Half-Way Tree"
+       description="Silk Cotton Tree; Ceiba"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
