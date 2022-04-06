@@ -22,6 +22,8 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 # Basic usage
 
+## Wicked Weeds
+
 ## Popisho
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as This One Sky Day) is written by Leone Ross. [^1]
