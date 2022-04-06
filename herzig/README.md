@@ -2,8 +2,9 @@
 
 <param ve-config 
        title="Combatting the Clock: Plants as Time Machines in Caribbean Literature" 
-       banner="*Butterfly Clock*" 
+       banner="Cover of *Butterfly Clock*" 
        layout="vertical">
+       url="Butterfly Clock.jpg">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
