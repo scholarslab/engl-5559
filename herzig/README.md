@@ -24,6 +24,13 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 ## Wicked Weeds
 
+This work is by Pedro Cabiya
+<param ve-image
+       label="Cashew Plant"
+       description="Anacardium"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
+
 ## Popisho
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as This One Sky Day) is written by Leone Ross. [^1]
