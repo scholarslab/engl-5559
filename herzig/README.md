@@ -39,7 +39,7 @@ This work is by Pedro Cabiya
 
        
 ## Hadriana
-This work, Hadriana in All My Dreams, is by René Depestre, and Hadriana is transformed into a zombie by lemons
+This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons
 <param ve-image
        label="Lemon Plant"
        description="Citrus Tree"
@@ -47,12 +47,11 @@ This work, Hadriana in All My Dreams, is by René Depestre, and Hadriana is tran
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
        
 <param title="René Depestre" eid="Q59581">
-<param title="Hadriana in All My Dreams" eid="Q3125591" alias="Hadriana">
 <param title="zombie" eid="Q9406">
               
 ## Popisho
 
-Popisho (also known as This One Sky Day) is written by Leone Ross.
+*Popisho* (also known as *This One Sky Day*) is written by Leone Ross.
 
 <param title="Leone Ross" eid="Q16206929">
 <param title="Popisho" eid="Q110892608">
@@ -65,7 +64,7 @@ Popisho (also known as This One Sky Day) is written by Leone Ross.
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 ## Midnight Robber's New Half-Way Tree
-Nalo Hopkinson's work Midnight Robber is emblematic of space-time, or the chronotope
+Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
 
 <param title="Nalo Hopkinson" eid="Q270204">
 <param title="Midnight Robber" eid="Q15035019">
