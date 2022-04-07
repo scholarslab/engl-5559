@@ -47,7 +47,7 @@ This work, Hadriana in All My Dreams, is by René Depestre, and Hadriana is tran
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
        
 <param title="René Depestre" eid="Q59581">
-<param title="Hadriana in All My Dreams" eid="Q3125591">
+<param title="Hadriana in All My Dreams" eid="Q3125591" alias="Hadriana">
 <param title="zombie" eid="Q9406">
               
 ## Popisho
