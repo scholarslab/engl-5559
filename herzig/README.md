@@ -47,9 +47,10 @@ This work is by Rene Depestre, and Hadriana is transformed into a zombie by lemo
 
 ## Popisho
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as This One Sky Day) is written by Leone Ross.
+Popisho (also known as This One Sky Day) is written by Leone Ross.
 
 <param title="Leone Ross" eid="Q16206929">
+<param title="Popisho" eid="Q110892608">
 
 
 ## Map
