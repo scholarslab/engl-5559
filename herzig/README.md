@@ -20,6 +20,11 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param ve-entity eid="Q16206929"> <!--Leone Ross-->
+<param ve-image 
+       label="Clock Encased in Totara Burr Tree Bark" 
+       description="Clock Encased in Totara Burr Tree Bark" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 
 # Basic usage
 
@@ -42,12 +47,10 @@ This work is by Rene Depestre, and Hadriana is transformed into a zombie by lemo
 
 ## Popisho
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as This One Sky Day) is written by Leone Ross. [^1]
-<param ve-image 
-       label="Clock Encased in Totara Burr Tree Bark" 
-       description="Clock Encased in Totara Burr Tree Bark" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) Popisho (also known as This One Sky Day) is written by Leone Ross.
+
+<param title="Leone Ross" eid="Q16206929">
+
 
 ## Map
 
