@@ -36,15 +36,19 @@ This work is by Pedro Cabiya
        description="Anacardium"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
+
        
 ## Hadriana
-This work is by Rene Depestre, and Hadriana is transformed into a zombie by lemons
+This work, Hadriana in All My Dreams, is by René Depestre, and Hadriana is transformed into a zombie by lemons
 <param ve-image
        label="Lemon Plant"
        description="Citrus Tree"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
-
+       
+<param title="René Depestre" eid="Q59581">
+<param title="Hadriana in All My Dreams" eid="Q3125591">
+              
 ## Popisho
 
 Popisho (also known as This One Sky Day) is written by Leone Ross.
@@ -57,14 +61,20 @@ Popisho (also known as This One Sky Day) is written by Leone Ross.
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
+## Midnight Robber's New Half-Way Tree
+Nalo Hopkinson's work Midnight Robber is emblematic of space-time, or the chronotope
 
-## Marvelous Equations of the Dread
+<param title="Nalo Hopkinson" eid="Q270204">
+<param title="Midnight Robber" eid="Q15035019">
+
+## Marvelous Equations of the Dread's Half-Way Tree
 Written by Marcia Douglas, the axis mundi that controls time travel is the silk cotton tree here
 <param ve-image
        label="Douglas' Half-Way Tree"
        description="Silk Cotton Tree; Ceiba"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
+<param title="Marcia Douglas" eid="Q54999406">
 
 ## Multiple viewers
 
