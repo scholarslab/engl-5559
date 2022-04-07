@@ -56,7 +56,10 @@ Popisho (also known as This One Sky Day) is written by Leone Ross.
 <param title="Leone Ross" eid="Q16206929">
 <param title="Popisho" eid="Q110892608">
 
-<param ve-compare curtain
+<param ve-compare sync
+       url="Popisho.jpg">
+<param ve-compare
+       url="This_One_Sky_Day.avif">
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
