@@ -16,7 +16,7 @@
 
 # Appropriation of Indigenous Botanical Knowledge
 
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+The long history of colonial botany is discussed by Mimi Sheller.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param ve-entity eid="Q16206929"> <!--Leone Ross-->
@@ -25,7 +25,7 @@ This is a sample visual essay demonstrating a few key features of a visual essay
        description="Clock Encased in Totara Burr Tree Bark" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
-
+<param title="Mimi Sheller" eid="Q6862191">
 # Basic usage
 
 ## Wicked Weeds
