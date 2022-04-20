@@ -131,22 +131,38 @@ I want to end with this title, given to the event by George Taber, and now the u
  
 
 # References
+	
 Boehm, Dwight, and Swartz, Edward. “Jefferson The Theory of Degeneracy.” American Quarterly, vol. 9, no. 4, 1957, pp 448-453.
+	
 Blume, Mary. “The Cheers for Red White and Cru.” The Los Angeles Times, 13 June, 1976, p.42.
-"The Concord Grape", New England Farmer: A Semi-Monthly Journal; Devoted to Agriculture, Horticulture & Their Kindred Arts & Sciences; Embellished & Illustrated with Numerous Beautiful Engravings. April 1, 1854. 161—162. 
-“The Concord Grape” Advertisement. March 1859. The New England Historical Society. 
+	
+"The Concord Grape", New England Farmer: A Semi-Monthly Journal; Devoted to Agriculture, Horticulture & Their Kindred Arts & Sciences; Embellished & Illustrated with Numerous Beautiful Engravings. April 1, 1854. 161—162.
+	
+“The Concord Grape” Advertisement. March 1859. The New England Historical Society.
+	
 “Gardens Image Gallery.” Monticello, https://www.monticello.org/house-gardens/farms-gardens/gardens-image-gallery/.
-Hannickel, Erica. Empire of Vines: Wine Culture in America. University of Pennsylvania Press, 2013. 
-Johnson, Hugh, and Robinson, Jancis. The World Atlas of Wine. 8th ed., Octopus Publishing, 2019. 
+	
+Hannickel, Erica. Empire of Vines: Wine Culture in America. University of Pennsylvania Press, 2013.
+	
+Johnson, Hugh, and Robinson, Jancis. The World Atlas of Wine. 8th ed., Octopus Publishing, 2019.
+	
 	Pauly, Phillip J. Fruits and Plains: The Horticultural Transformation of America. Harvard University Press, 2007. 
+	
 "Sneering at ‘Common Fruits’.", Western Rural: Weekly Journal for the Farm & Fireside. July 31, 1875. 243—243.
+	
 Taber, George M. Judgment of Paris: California vs France and the Historic 1976 Paris Tasting That Revolutionized Wine. Scriber, 2005. 
+	
 "Taste in Food.", Cultivator & Country Gentleman. October 26, 1876. 686—686.
+	
 “Virginia Dare Ad.” Vintage Ad Browser, https://www.vintageadbrowser.com/.
+	
 Viticulture France. Wikipedia Commons, https://upload.wikimedia.org/wikipedia/commons/7/73/Viticulture_France.svg
+	
 Washington, George. To Philip Mazzei. 1 July, 1779. https://founders.archives.gov/documents/Washington/03-21-02-0266. 
+	
 Rubens, Peter Paul. The Judgment of Paris. 1638/9, Museo del Prado, Madrid. 
+	
 “Untitled.” Mount Vernon, https://www.mountvernon.org/the-estate-gardens/gardens-landscapes/washingtons-vineyard/. 
-![image](https://user-images.githubusercontent.com/102606973/164339182-313c37ec-a84e-40c9-b876-4f2c031bb629.png)
+
 
 
