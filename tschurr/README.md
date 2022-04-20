@@ -53,6 +53,8 @@ The narrative of this story is triumphant; while others declared the American gr
        url="https://www.williamreesecompany.com/pictures/WRCAM55633.jpg?v=1591106925"
        
 ##Section 3
+
+
 While efforts to grow wine on the east coast, not only in Virginia but in Pennsylvania and New York, failed, the dream of American wine expanded across the continent with the empire. In the early 19th century, there were unsuccessful attempts to grow wine in the Midwest (Citation). But by the time America expanded to the west coast, another colonial state had already been growing grapes for a century.
 Spanish missionary Junipero Serra, a Franciscan, wrote back to Spain about the natural occurrence of grapes in California, and with the establishment of missions came vineyards (Citation). Here European grapes, vinis vinifera, could grow, with a transplant vine from Spain, known as Mission grapes, became the staple of the winemaking industry for the next century and a half (Citation). 
 In 1826, the first American planted vines in Los Angeles, and in 1863 a settler-colonist got a grant from Mexico for eleventh thousand acres in Napa Valley and soon after planted vines.
