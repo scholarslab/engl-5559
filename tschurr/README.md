@@ -28,6 +28,13 @@ Wine has been tied up with the cultural imaginary of empire in the west for mill
    
  ## Section 2
  It is no surprise, considering the implications and entanglements of viticulture with empire, that producing grapes has been an American obsession since colonists arrived and grew with the imperial aspirations of the country. While early colonists found many wild grapevines, “European vinifera vines…withered up and died” (Johnson & Robinson 289). But colonists continued to try. Two of the most notable attempts came in the period came from two of America’s founding statemen, George Washington and Thomas Jefferson. In 1760, Washington tried planting Madeira grapes at Mount Vernon. (Citation) This experiment evidently failed, as eight years later, he wrote to a trading company in Madeira for more vine clippings. (Citation) These failed as well, and Washington turned to try to cultivate wild American grapes for his purposes. However, even as late as 1779, Washington had not given up hope, writing to Phillip Mazzei, an Italian living in Albemarle County on land given to him by Thomas Jefferson, about his attempts to grow Old-World grapes in America:
+ 
+ 
+<param ve-image
+       label="Washington's Failed Vinard"
+       license="public domain"
+       url="https://mtv-main-assets.mountvernon.org/files/callout/text-image-block-full/image/2015-04-15-102102.jpg"
+
 
 I thank you for your obliging acct of the culture of the Vine, and am happy to hear that your plantation of them is in so prosperous a way. I have long been of opinion from the spontaneous growth of the vine, that the climate and soil in many parts of Virginia were well fitted for Vineyards & that Wine, sooner or later would become a valuable article of produce—The relation of your experiments convince me I was right. (From George Washington to Phillip Mazzei, 1 July 1779)
 
@@ -35,9 +42,9 @@ Not only was the cultivation of grapes of significant interest to George Washing
 
 
 <param ve-image
-       label="Washington's Failed Vinard"
+       label="Moticello's Northeast Vineyards"
        license="public domain"
-       url="https://mtv-main-assets.mountvernon.org/files/callout/text-image-block-full/image/2015-04-15-102102.jpg"
+       url="https://monticello-www.s3.amazonaws.com/files/old/uploaded-content-images/vineyard.jpg"
 
 
 ## Section 3
