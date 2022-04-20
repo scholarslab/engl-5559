@@ -15,6 +15,11 @@ France occupies the first section in the world Atlas of Wine; the section begins
        label="Map of Wine Regions of France"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/7/73/Viticulture_France.svg"
+      
+## Section 2
+       
+Wine has been tied up with the cultural imaginary of empire in the west for millennia; a book about wine in America attributed the quote “Nothing more excellent or valuable than wine was ever granted by the god to man” to Plato. Whether or not he said that (it seems unlikely ), the implication is of America carrying on some classical practice or thought, placing wine as a through line connecting a series of empires. Not only this there a romantic notion of wine and its place in the west, but the qualities of what makes a great wine, decided upon by this empire, are, in fact, an expression of imperial power—classification, large amounts of land over various climates, regulation, worldwide trade, and bureaucracy. Pictured are two wines from “We the People” winery, a politically conservative producer that donates part of its profits to causes that “reflect our values.” How did wine get enmeshed with American supremacy and empire such that this group selling abhorrent values would use wine as its vehicle? ![image](https://user-images.githubusercontent.com/102606973/164264890-fa744cbf-48e3-4bbf-afa3-1e6607849b3d.png)
+
  
 
 # References
