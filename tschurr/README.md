@@ -108,8 +108,7 @@ Finally, through government control, imperial affluence, bureaucracy, expansion 
 <param ve-image
        label="Los Angeles Times' Headline"
        license="public domain"
-       url="https://www.proquest.com/hnplatimes/docview/158046573/pageviewPDF/28E49ED6D9784D2APQ/1?accountid=14678&parentSessionId=v3XWkceO2NkqztEDkSmqOAqoX4px2iYk%2F1h5lCLDf7M%3D"                                                               
-                                                                   
+       url="https://img.newspapers.com/img/thumbnail/165908870/400/400/0_0_2574_3196.jpg?cs=604800"
                                                               
                                                                                                                                                                                                                                                                       
 ## Section 8
