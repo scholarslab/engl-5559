@@ -112,7 +112,17 @@ America’s imperial affluence also transformed America’s wine industry. Trave
                                                                    
                                                               
                                                                                                                                                                                                                                                                       
-
+## Section 8
+  
+I want to end with this title, given to the event by George Taber, and now the universal name for the tasting. The name comes from Greek mythology, the story of Paris trying to secure his fate by gifting a golden apple to one of the Goddesses. Paris picks Aphrodite, who makes Helen fall in love with him, leading to the Trojan War and the destruction of his empire. The event is most popularly depicted in the Peter Paul Rubens painting The Judgment of Paris (1639), a commission by King Phillip IV of Spain. Even this name is tied up in centuries of the entanglements between empire and plants and shows a thread of imperial power and imperial right coming from the cultivation and use of plants; Paris loses an empire, Phillip adorns his, and America asserts its supremacy. 
+                                
+                     
+ <param ve-image
+       label="The Judgment of Paris (1639)"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_Paul_Rubens_115.jpg"                                                               
+                                                                   
+                              
  
 
 # References
