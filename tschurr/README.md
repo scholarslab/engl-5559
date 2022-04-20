@@ -57,7 +57,7 @@ The narrative of this story is triumphant; while others declared the American gr
 <param ve-image
        label="The Concord Grape"
        license="public domain"
-       url="https://imageserver.ebscohost.com/img/imageqv/archive/8adb/18540401/15080232.jpg?ephost1=dGJyMMTo50Sepq84v%2bbwOLCmsEqepq5Srqa4SK6WxWXS"
+       url="https://www.newenglandhistoricalsociety.com/wp-content/uploads/2014/09/Concord-Grape-Advertisement.jpg"
        
 ## Section 5
 
