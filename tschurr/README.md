@@ -75,6 +75,18 @@ During this time, winemaking exploded in California and the Napa Valley, only to
        label=" Phyllroxa and it's effect on the vine"
        license="public domain"
        url="https://www.guildsomm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-71/Phylloxera-leaf.png"
+                                                                                                                                     
+ ## Section 6
+In the years after Prohibition, Americans’ taste in wine was strong and cheap; nothing “fine.” In response, research that had been ordered under the 1887 Pure Wine Law began in earnest, with the University of California setting up a research station in Davis, right next to the capital. Professionalization began rapidly, with students learning about viticulture at Davis and taking their knowledge to vineyards across the state. In this way, legislation informed the public school system, which created a generation of vintners who desired to make “fine” wines. 
+This government-sponsored exceptionalism transformed the wine-making industry in California, with professors guiding the Napa Valley Vintners group towards wine exceptionalism through interventions in control: nitrogen blanketing, induced fermentation, and glass and steel fermentation tanks. One vintner, James D. Zellerbach, was made ambassador to Italy by President Eisenhower and began importing wine to serve at state dinners (Citation). 
+America’s imperial affluence also transformed America’s wine industry. Travel exposed Americans to European food and drink; Julia Child led a revolution of French food into the home kitchen, and Jackie Kennedy hired a French chef for the Whitehouse. Exposure and affluence led to changing tastes, in 1967, for the first time since Prohibition, table wines surpassed high-alcohol sweet wines. 
+
+  
+<param ve-image
+       label="Virinia Dare Wine"
+       license="public domain"
+       url="https://file.vintageadbrowser.com/l-js376uz0lx9kb3.jpg"
+                                                                                                                                                                                                                                                                      
 
  
 
