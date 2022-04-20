@@ -57,7 +57,7 @@ The narrative of this story is triumphant; while others declared the American gr
 <param ve-image
        label="The Concord Grape"
        license="public domain"
-       url="https://www.williamreesecompany.com/pictures/WRCAM55633.jpg?v=1591106925"
+       url="https://imageserver.ebscohost.com/img/imageqv/archive/8adb/18540401/15080232.jpg?ephost1=dGJyMMTo50Sepq84v%2bbwOLCmsEqepq5Srqa4SK6WxWXS"
        
 ## Section 5
 
