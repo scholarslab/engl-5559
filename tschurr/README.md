@@ -52,7 +52,7 @@ The narrative of this story is triumphant; while others declared the American gr
        license="public domain"
        url="https://www.williamreesecompany.com/pictures/WRCAM55633.jpg?v=1591106925"
        
-##Section 3
+## Section 4
 
 
 While efforts to grow wine on the east coast, not only in Virginia but in Pennsylvania and New York, failed, the dream of American wine expanded across the continent with the empire. In the early 19th century, there were unsuccessful attempts to grow wine in the Midwest (Citation). But by the time America expanded to the west coast, another colonial state had already been growing grapes for a century.
