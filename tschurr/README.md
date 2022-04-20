@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="American, the Charge of Degeneration, and Wine" 
+       title="America, the Charge of Degeneration, and Wine" 
        banner="https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_Paul_Rubens_115.jpg" 
        layout="vertical">
 
@@ -42,9 +42,9 @@ Not only was the cultivation of grapes of significant interest to George Washing
 
 
 <param ve-image
-       label="Moticello's Northeast Vineyards"
+       label="Moticello's South Vineyards"
        license="public domain"
-       url="https://monticello-www.s3.amazonaws.com/files/old/uploaded-content-images/vineyard.jpg"
+       url="https://monticello-www.s3.amazonaws.com/files/callouts/classic-sml-orchard-berry-squares-vineyard-veg-garden.jpg"
 
 
 ## Section 3
