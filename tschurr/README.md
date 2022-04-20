@@ -86,6 +86,31 @@ America’s imperial affluence also transformed America’s wine industry. Trave
        label="Virinia Dare Wine"
        license="public domain"
        url="https://file.vintageadbrowser.com/l-js376uz0lx9kb3.jpg"
+                                                                   
+                                                                   
+                                                                   
+  ## Section 7
+                                                                   
+     Finally, through government control, imperial affluence, bureaucracy, expansion across a continent, and no doubt the destruction of Europe's viticulture through invasive species, Americans felt ready to prove false the claim of degeneration levied by European writers two centuries earlier. The event was informal and unsanctioned: Patricia Gallagher and Steve Spurrier organized it, buying bottles of wines themselves at vineyards across France and California, renting a room in a hotel, and inviting a panel of illustrious French wine experts for what they were told was just a tasting California wine. Attention was focused on attracting the French Press, especially Le Monde and Le Figaro—the biggest newspapers in Paris, but neither paper sent journalists. Afterward, the event got two small mentions in those two papers, dismissing the event as insignificant and “silly.”
+
+
+<param ve-image
+       label="The Day of the Tasting"
+       license="public domain"
+       url="https://file.vintageadbrowser.com/l-js376uz0lx9kb3.jpg"
+                                                                   
+                                                                   
+                                                                   
+ ##  Section 8
+ From America, one journalist covered the event, a writer from Time. After a short article was published in the next month’s issue of Time, stories began to appear in newspapers across the nation, like the Los Angeles Times, The New York Times, and the New Orleans Times-Picayune. The Los Angeles Times article features a cartoon of a cowboy, cigarette in mouth, and a six-shooter aimed at a Frenchman dressed in 19th-century garb and holding a 19th-century gun. The message is clear: America no longer represents degeneracy but strength—Europe is now backward and left behind. Even stranger than this cartoon is the framing of the article—the first paragraph claims that the French are more invested in America’s bicentennial than Americans are and claim credit for America’s independence. The victory of American wines is payback for this imposition and shows that France has nothing to offer America that it cannot provide for itself. In the intervening years, this event has been memorialized with replications at the ten- and thirty-year anniversaries: the American wines continued to win at each event. The tasting has become known by the title of the first American article written about it in Time: The Judgement of Paris.
+
+    
+<param ve-image
+       label="Los Angeles Times' Headline"
+       license="public domain"
+       url="https://www.proquest.com/hnplatimes/docview/158046573/pageviewPDF/28E49ED6D9784D2APQ/1?accountid=14678&parentSessionId=v3XWkceO2NkqztEDkSmqOAqoX4px2iYk%2F1h5lCLDf7M%3D"                                                               
+                                                                   
+                                                              
                                                                                                                                                                                                                                                                       
 
  
