@@ -20,7 +20,7 @@ France occupies the first section in the world Atlas of Wine; the section begins
 <param ve-image
        title="Map of Wine Regions of France"
        license: "public domain"
-       url: https://upload.wikimedia.org/wikipedia/commons/7/73/Viticulture_France.svg
+       url: "https://upload.wikimedia.org/wikipedia/commons/7/73/Viticulture_France.svg"
  
 
 # References
