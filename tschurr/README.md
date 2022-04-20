@@ -35,10 +35,11 @@ Not only was the cultivation of grapes of significant interest to George Washing
 
 
 <param ve-image
-       label="'We the People' Wine"
+       label="Washington's Failed Vinard"
        license="public domain"
-       url="https://wethepeople.wine/wp-content/uploads/2020/10/The-History-Behind-We-The-People-Wine.jpg"
-       
+       url="https://mtv-main-assets.mountvernon.org/files/callout/text-image-block-full/image/2015-04-15-102102.jpg"
+
+
 ## Section 3
 One of the heights of this obsession with grapes in America came in the form of the cultivation, popularity, and exultation of the Concord Grape in the 19th century as a distinctly American cultivar that could be used as both a wine and table grape. The Concord was central to American grape exceptionalism; in seed catalogs of the time, it was the standard of all American grapes. Its creation and rise to prominence are truly mythic and were lauded and disseminated widely at the time. The inventor of the cultivar, Ephraim Bull, lives next to Emerson, Bronson Alcott, and a brief distance from Henry David Thoreau. He began cultivating vines from seedlings that had been “dropped there by birds or carried up the river by local boys” (Pauly 75). After several years of breeding and tending, he developed a grape variety that was “large, good tasting, and hearty” (Pauly 75). This grape skyrocketed to success as both a table and wine grape and propelled its inventor to a political career. (Pauly 76). Contemporary reports on the grape are even more flattering; the following is the first and last paragraph from a full-page story about the grape in The New England Farmer in 1854:
 'Long ago impressed with the opinion that our native grape with incapable of being ameliorated and improved, through seeds, Mr. E.W. Bull turned his attention to their production and now has growing more than 2000 seedling plants from some of which he hopes to even beat himself. It will take a long time to prove them all, but the result cannot be otherwise than important; for the natural habit of the vine once changed or broken, variation takes place in such a manner that no opinion can be formed of the product. His success in raising the Concord Grape is the best proof of this. 
