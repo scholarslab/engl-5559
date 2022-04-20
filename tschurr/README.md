@@ -34,6 +34,8 @@ Wine has been tied up with the cultural imaginary of empire in the west for mill
        label="Washington's Failed Vinard"
        license="public domain"
        url="https://mtv-main-assets.mountvernon.org/files/callout/text-image-block-full/image/2015-04-15-102102.jpg"
+       
+## Section 3
 
 Not only was the cultivation of grapes of significant interest to George Washington, but Thomas Jefferson made an explicitly imperial project of it, writing about and attempting to do so to refute a charge of American degeneracy made by prominent European writers like the Abbe de Pauw, the Count de Buffon, and the Abbe Raynal (citation). This theory, which posited that the American climate contributed to degeneracy in Europeans who moved there and the flora and fauna of the continent, was a direct point of contention in Jefferson’s Notes of the State of Virginia, in which he cataloged and mapped the state. This work is at once an attempt to show that physically the new world was not degenerate—smaller, less populated, or less moral—as well as an explicit act of the kind of definition, classification, and control over the natural world associated with good wine-making. For Jefferson, the cultivation of fruit, in general, was evidence to resist this charge of degeneracy: “Vision of cosmopolitanism, rural happiness, and profitable transatlantic trade were intertwined with grape vines, olives, and oranges being planted at Monticello…”(Pauly 10). Of these, grapes were the most important example; he imported Phillip Mazzei and gave him land near his own, hoping to recreate Piedmont in central Virginia. For two years in a row, they attempted plantings at their estates, and in both years, frost killed the entire crop—Washington must have heard something else (Pauly 26). These early attempts failed, but Americans did not give up attempting to cultivate grapes. The plant, and its cultivation, were and are too wrapped up in imperial power and desires; as Pauly puts it, “Vinifera was the indicated species of culture, a climate that fostered fine grapes was a prima facie good one” (Pauly 29). 
 
@@ -44,7 +46,7 @@ Not only was the cultivation of grapes of significant interest to George Washing
        url="https://monticello-www.s3.amazonaws.com/files/callouts/classic-sml-orchard-berry-squares-vineyard-veg-garden.jpg"
 
 
-## Section 3
+## Section 4
 One of the heights of this obsession with grapes in America came in the form of the cultivation, popularity, and exultation of the Concord Grape in the 19th century as a distinctly American cultivar that could be used as both a wine and table grape. The Concord was central to American grape exceptionalism; in seed catalogs of the time, it was the standard of all American grapes. Its creation and rise to prominence are truly mythic and were lauded and disseminated widely at the time. The inventor of the cultivar, Ephraim Bull, lives next to Emerson, Bronson Alcott, and a brief distance from Henry David Thoreau. He began cultivating vines from seedlings that had been “dropped there by birds or carried up the river by local boys” (Pauly 75). After several years of breeding and tending, he developed a grape variety that was “large, good tasting, and hearty” (Pauly 75). This grape skyrocketed to success as both a table and wine grape and propelled its inventor to a political career. (Pauly 76). Contemporary reports on the grape are even more flattering; the following is the first and last paragraph from a full-page story about the grape in The New England Farmer in 1854:
 'Long ago impressed with the opinion that our native grape with incapable of being ameliorated and improved, through seeds, Mr. E.W. Bull turned his attention to their production and now has growing more than 2000 seedling plants from some of which he hopes to even beat himself. It will take a long time to prove them all, but the result cannot be otherwise than important; for the natural habit of the vine once changed or broken, variation takes place in such a manner that no opinion can be formed of the product. His success in raising the Concord Grape is the best proof of this. 
 “The great want of this country in the latitude is a good table and wine grape, which should be early, hardy, and prolific. The Concord Grape fulfills these conditions and I will sincere pleasure in offering it to my countrymen” E.W. Bull (New England Farmer 1854)'
@@ -57,7 +59,7 @@ The narrative of this story is triumphant; while others declared the American gr
        license="public domain"
        url="https://www.williamreesecompany.com/pictures/WRCAM55633.jpg?v=1591106925"
        
-## Section 4
+## Section 5
 
 
 While efforts to grow wine on the east coast, not only in Virginia but in Pennsylvania and New York, failed, the dream of American wine expanded across the continent with the empire. In the early 19th century, there were unsuccessful attempts to grow wine in the Midwest (Citation). But by the time America expanded to the west coast, another colonial state had already been growing grapes for a century.
@@ -70,7 +72,7 @@ In 1826, the first American planted vines in Los Angeles, and in 1863 a settler-
        license="public domain"
        url="https://cdn.shopify.com/s/files/1/0527/6177/products/Wine-Map-of-California_AAA_e28dd66b-1856-49ef-9a45-4b1e186fb5db_700x.jpg?v=1594723294"
        
-## Section 5
+## Section 6
 
 Soon after, the process of making wine became wrapped up in the tools of empire, as Governor John Downey sent a leading vintner, Agoston Haraszthy, to Europe to research how to improve grape-growing practices in California. Instead, he collected (according to him) 100,000 vines from 1,400 varieties to bring back to California. In his report back to the state, he advocated for developing state-run agricultural stations for viticulture research. 
 Soon after this trip, the status of California wines rose because of the unintentional impact of America’s empire and plant culture: vine cuttings from America in the 1850s brought an aphid, grape phylloxera, now able to survive the much shorter journey across the Atlantic by steamship, and decimated grapevines across Europe and especially France. In a strange twist of fate, the vines were saved by transplanting American rootstock, unaffected by the aphid, into French vineyards; almost all vines in France and Europe have American origins. 
@@ -81,7 +83,7 @@ During this time, winemaking exploded in California and the Napa Valley, only to
        license="public domain"
        url="https://www.guildsomm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-71/Phylloxera-leaf.png"
                                                                                                                                      
- ## Section 6
+ ## Section 7
 In the years after Prohibition, Americans’ taste in wine was strong and cheap; nothing “fine.” In response, research that had been ordered under the 1887 Pure Wine Law began in earnest, with the University of California setting up a research station in Davis, right next to the capital. Professionalization began rapidly, with students learning about viticulture at Davis and taking their knowledge to vineyards across the state. In this way, legislation informed the public school system, which created a generation of vintners who desired to make “fine” wines. 
 This government-sponsored exceptionalism transformed the wine-making industry in California, with professors guiding the Napa Valley Vintners group towards wine exceptionalism through interventions in control: nitrogen blanketing, induced fermentation, and glass and steel fermentation tanks. One vintner, James D. Zellerbach, was made ambassador to Italy by President Eisenhower and began importing wine to serve at state dinners (Citation). 
 America’s imperial affluence also transformed America’s wine industry. Travel exposed Americans to European food and drink; Julia Child led a revolution of French food into the home kitchen, and Jackie Kennedy hired a French chef for the Whitehouse. Exposure and affluence led to changing tastes, in 1967, for the first time since Prohibition, table wines surpassed high-alcohol sweet wines. 
@@ -94,7 +96,7 @@ America’s imperial affluence also transformed America’s wine industry. Trave
                                                                    
                                                                    
                                                                    
-  ## Section 7
+  ## Section 8
                                                                    
 Finally, through government control, imperial affluence, bureaucracy, expansion across a continent, and no doubt the destruction of Europes viticulture through invasive species, Americans felt ready to prove false the claim of degeneration levied by European writers two centuries earlier. The event was informal and unsanctioned: Patricia Gallagher and Steve Spurrier organized it, buying bottles of wines themselves at vineyards across France and California, renting a room in a hotel, and inviting a panel of illustrious French wine experts for what they were told was just a tasting California wine. Attention was focused on attracting the French Press, especially Le Monde and Le Figaro—the biggest newspapers in Paris, but neither paper sent journalists. Afterward, the event got two small mentions in those two papers, dismissing the event as insignificant and “silly.”
 
@@ -106,7 +108,7 @@ Finally, through government control, imperial affluence, bureaucracy, expansion 
                                                                    
                                                                    
                                                                    
- ##  Section 8
+ ##  Section 9
  From America, one journalist covered the event, a writer from Time. After a short article was published in the next month’s issue of Time, stories began to appear in newspapers across the nation, like the Los Angeles Times, The New York Times, and the New Orleans Times-Picayune. The Los Angeles Times article features a cartoon of a cowboy, cigarette in mouth, and a six-shooter aimed at a Frenchman dressed in 19th-century garb and holding a 19th-century gun. The message is clear: America no longer represents degeneracy but strength—Europe is now backward and left behind. Even stranger than this cartoon is the framing of the article—the first paragraph claims that the French are more invested in America’s bicentennial than Americans are and claim credit for America’s independence. The victory of American wines is payback for this imposition and shows that France has nothing to offer America that it cannot provide for itself. In the intervening years, this event has been memorialized with replications at the ten- and thirty-year anniversaries: the American wines continued to win at each event. The tasting has become known by the title of the first American article written about it in Time: The Judgement of Paris.
 
     
@@ -116,7 +118,7 @@ Finally, through government control, imperial affluence, bureaucracy, expansion 
        url="https://img.newspapers.com/img/thumbnail/165908870/400/400/0_0_2574_3196.jpg?cs=604800"
                                                               
                                                                                                                                                                                                                                                                       
-## Section 8
+## Section 10
   
 I want to end with this title, given to the event by George Taber, and now the universal name for the tasting. The name comes from Greek mythology, the story of Paris trying to secure his fate by gifting a golden apple to one of the Goddesses. Paris picks Aphrodite, who makes Helen fall in love with him, leading to the Trojan War and the destruction of his empire. The event is most popularly depicted in the Peter Paul Rubens painting The Judgment of Paris (1639), a commission by King Phillip IV of Spain. Even this name is tied up in centuries of the entanglements between empire and plants and shows a thread of imperial power and imperial right coming from the cultivation and use of plants; Paris loses an empire, Phillip adorns his, and America asserts its supremacy. 
                                 
