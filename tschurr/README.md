@@ -146,7 +146,7 @@ Hannickel, Erica. Empire of Vines: Wine Culture in America. University of Pennsy
 	
 Johnson, Hugh, and Robinson, Jancis. The World Atlas of Wine. 8th ed., Octopus Publishing, 2019.
 	
-	Pauly, Phillip J. Fruits and Plains: The Horticultural Transformation of America. Harvard University Press, 2007. 
+Pauly, Phillip J. Fruits and Plains: The Horticultural Transformation of America. Harvard University Press, 2007. 
 	
 "Sneering at ‘Common Fruits’.", Western Rural: Weekly Journal for the Farm & Fireside. July 31, 1875. 243—243.
 	
