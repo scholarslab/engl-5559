@@ -64,7 +64,17 @@ In 1826, the first American planted vines in Los Angeles, and in 1863 a settler-
        label="Wine Map of California"
        license="public domain"
        url="https://cdn.shopify.com/s/files/1/0527/6177/products/Wine-Map-of-California_AAA_e28dd66b-1856-49ef-9a45-4b1e186fb5db_700x.jpg?v=1594723294"
+       
+## Section 5
 
+Soon after, the process of making wine became wrapped up in the tools of empire, as Governor John Downey sent a leading vintner, Agoston Haraszthy, to Europe to research how to improve grape-growing practices in California. Instead, he collected (according to him) 100,000 vines from 1,400 varieties to bring back to California. In his report back to the state, he advocated for developing state-run agricultural stations for viticulture research. 
+Soon after this trip, the status of California wines rose because of the unintentional impact of America’s empire and plant culture: vine cuttings from America in the 1850s brought an aphid, grape phylloxera, now able to survive the much shorter journey across the Atlantic by steamship, and decimated grapevines across Europe and especially France. In a strange twist of fate, the vines were saved by transplanting American rootstock, unaffected by the aphid, into French vineyards; almost all vines in France and Europe have American origins. 
+During this time, winemaking exploded in California and the Napa Valley, only to fall due to years of natural disasters (fires, frosts, and earthquakes), depression, and Prohibition, as the French vines recovered.
+
+<param ve-image
+       label=" Phyllroxa and it's effect on the vine"
+       license="public domain"
+       url="https://www.guildsomm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-03-71/Phylloxera-leaf.png"
 
  
 
