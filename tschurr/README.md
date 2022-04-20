@@ -144,6 +144,8 @@ Blume, Mary. “The Cheers for Red White and Cru.” The Los Angeles Times, 13 J
 	
 Hannickel, Erica. Empire of Vines: Wine Culture in America. University of Pennsylvania Press, 2013.
 	
+Hilgard, W. Eugene. Drawing from: “The Phylloxera or Grapevine Louse, and the Remedies for its Ravages.” Report to the Board of Regents of The University of California College of Agriculture, 1880. 
+	
 Johnson, Hugh, and Robinson, Jancis. The World Atlas of Wine. 8th ed., Octopus Publishing, 2019.
 	
 Pauly, Phillip J. Fruits and Plains: The Horticultural Transformation of America. Harvard University Press, 2007. 
