@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="America, the Charge of Degeneration, and Wine" 
+       title="The Structure of Wine: Empire, Industry, and America"
        banner="https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_Paul_Rubens_115.jpg" 
        layout="vertical">
 
