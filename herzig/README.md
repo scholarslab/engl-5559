@@ -29,6 +29,7 @@ Planting a  garden is very much imagining something that's not there...You're pu
 "To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
 and strive in time frames that often evade humans" (Forbes 49).
 
+<param ve-image
        label="Time makes Plants"
        description="Floral Clock, Edinburgh"
        license="public domain"
