@@ -58,6 +58,12 @@ Time and space are inherently interconnected
        description="Salvador Dali's The Persistence of Memory"
        license="public domain"
            url="https://upload.wikimedia.org/wikipedia/commons/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png">
+           
+# New Times, New Spaces
+
+<param ve-config
+       title="Many Times, More Worlds, More Voices"
+       
 
 ## Wicked Weeds
 
