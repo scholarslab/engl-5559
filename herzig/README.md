@@ -75,6 +75,15 @@ This work is by Pedro Cabiya
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
 
+## Mapping Wicked Weeds
+
+Mapping Time through Space, Isadore is Haitian, but __
+<param ve-map center="Q790" zoom="11">
+
+## Isadore's Travels
+ 
+Cashew trees exist between these two countries, problematizing these borders
+<param ve-map center="Q786" zoom="11">
        
 ## Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons
@@ -97,15 +106,6 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 <param ve-image
        url="Popisho.jpg">
 
-## Mapping Wicked Weeds
-
-Mapping Time through Space, Isadore is Haitian, but __
-<param ve-map center="Q790" zoom="11">
-
-## Isadore's Travels
- 
-Cashew trees exist between these two countries, problematizing these borders
-<param ve-map center="Q786" zoom="11">
                                             
 ## Midnight Robber's New Half-Way Tree
 Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
