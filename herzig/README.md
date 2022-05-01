@@ -101,6 +101,10 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 
 Mapping Time through Space
 <param ve-map center="Q790" zoom="11">
+
+## Isadore's Travels
+ 
+Cashew trees exist between these two countries, problematizing these borders
                                             
 ## Midnight Robber's New Half-Way Tree
 Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
