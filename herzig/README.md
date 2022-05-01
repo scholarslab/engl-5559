@@ -14,17 +14,28 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Appropriation of Indigenous Botanical Knowledge
+# Plants in Time and Space
 
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is borth entirely different from the thing which will arive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
 
+<param ve-image
+       label="Plants make Time"
+       descirption="Flora Clock, Palmeira Square"
+       liscence="public domain"
+            url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
+            
+## Human vs Plant Time
+
 "To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
 and strive in time frames that often evade humans" (Forbes 49).
+
+#Appropriation of  Indigenous Botanical Knowledge
 
 The long history of colonial botany is discussed by Mimi Sheller.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param ve-entity eid="Q16206929"> <!--Leone Ross-->
+
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
        description="Clock Encased in Totara Burr Tree Bark" 
