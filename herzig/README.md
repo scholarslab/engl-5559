@@ -105,6 +105,7 @@ Mapping Time through Space
 ## Isadore's Travels
  
 Cashew trees exist between these two countries, problematizing these borders
+<param ve-map center="Q786" zoom="11">
                                             
 ## Midnight Robber's New Half-Way Tree
 Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
