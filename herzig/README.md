@@ -64,7 +64,7 @@ Time and space are inherently interconnected
 <param ve-image
        label="Many Times, More Worlds, More Voices"
        description="Black Timescapes"
-       url="New_Times.jpg">
+       url="New Times.jpg">
 
 ## Wicked Weeds
 
