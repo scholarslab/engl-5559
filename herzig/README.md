@@ -97,10 +97,11 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 <param ve-image
        url="Popisho.jpg">
 
-## Map
+## Mapping Wicked Weeds
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Mapping Time through Space
+<param ve-map center="19°12'23.364"N, 71°37'18.588"W" zoom="11">
+                                            
 ## Midnight Robber's New Half-Way Tree
 Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
 
