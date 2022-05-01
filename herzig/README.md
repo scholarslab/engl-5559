@@ -83,8 +83,8 @@ Jacmel
 
 ## Mapping Wicked Weeds
 
-Mapping Time through Space, Isadore is Haitian, but __
-<param ve-map center="Q790" zoom="11">
+Mapping Time through Space, Isadore is Haitian, and the specific place seems to be Arroyo Manzano
+<param ve-map center="Q4796247" zoom="11">
 
 ## Isadore's Travels
  
