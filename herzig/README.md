@@ -80,14 +80,6 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 Jacmel
 <param ve-map center="Q923362" zoom="11">
 
-# Wicked Weeds
-
-This work is by Pedro Cabiya
-<param ve-image
-       label="Cashew Plant"
-       description="Anacardium"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
 
 ## Mapping Wicked Weeds
 
@@ -99,7 +91,14 @@ Mapping Time through Space, Isadore is Haitian, but __
 Cashew trees exist between these two countries, problematizing these borders
 <param ve-map center="Q786" zoom="11">
        
+# Wicked Weeds
 
+This work is by Pedro Cabiya
+<param ve-image
+       label="Cashew Plant"
+       description="Anacardium"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
               
 ## Popisho
 
