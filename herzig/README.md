@@ -31,7 +31,14 @@ The long history of colonial botany is discussed by Mimi Sheller.  Complete [Doc
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param title="Mimi Sheller" eid="Q6862191">
-# Basic usage
+# The Chronotope
+
+Time and space are inherently interconnected
+<param ve-image
+       label="Melted Time is Melted Space"
+       description="Salvador Dali's The Persistence of Memory"
+       license="public domain"
+           url="https://upload.wikimedia.org/wikipedia/commons/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png">
 
 ## Wicked Weeds
 
