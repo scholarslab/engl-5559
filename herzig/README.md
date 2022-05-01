@@ -61,7 +61,7 @@ Time and space are inherently interconnected
            
 # New Times, New Spaces
 
-<param ve-config
+<param ve-image
        label="Many Times, More Worlds, More Voices"
        description="Black Timescapes"
        url="New_Times.jpg">
