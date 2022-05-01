@@ -20,8 +20,8 @@ Planting a  garden is very much imagining something that's not there...You're pu
 
 <param ve-image
        label="Plants make Time"
-       descirption="Flora Clock, Palmeira Square"
-       liscence="public domain"
+       description="Flora Clock, Palmeira Square"
+       license="public domain"
             url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
             
 ## Human vs Plant Time
@@ -29,9 +29,16 @@ Planting a  garden is very much imagining something that's not there...You're pu
 "To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
 and strive in time frames that often evade humans" (Forbes 49).
 
-#Appropriation of  Indigenous Botanical Knowledge
+       label="Time makes Plants"
+       description="Floral Clock, Edinburgh"
+       license="public domain"
+              url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
+       
 
-The long history of colonial botany is discussed by Mimi Sheller.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+# Appropriation of Plant Knowledge
+The long history of colonial botany is discussed by Mimi Sheller. 
+
+Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param ve-entity eid="Q16206929"> <!--Leone Ross-->
