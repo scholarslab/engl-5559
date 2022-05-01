@@ -99,7 +99,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 
 ## Mapping Wicked Weeds
 
-Mapping Time through Space
+Mapping Time through Space, Isadore is Haitian, but __
 <param ve-map center="Q790" zoom="11">
 
 ## Isadore's Travels
