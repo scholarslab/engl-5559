@@ -100,7 +100,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 ## Mapping Wicked Weeds
 
 Mapping Time through Space
-<param ve-map center="P1334" zoom="11">
+<param ve-map center="Q790" zoom="11">
                                             
 ## Midnight Robber's New Half-Way Tree
 Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
@@ -117,9 +117,9 @@ Written by Marcia Douglas, the axis mundi that controls time travel is the silk 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
 <param title="Marcia Douglas" eid="Q54999406">
 
-## Multiple viewers
+## Multiple Versions
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
+Compare the Editions
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
