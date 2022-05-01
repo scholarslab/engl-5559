@@ -100,7 +100,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 ## Mapping Wicked Weeds
 
 Mapping Time through Space
-<param ve-map center="19°12'23.364"N, 71°37'18.588"W" zoom="11">
+<param ve-map center="P1334" zoom="11">
                                             
 ## Midnight Robber's New Half-Way Tree
 Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
