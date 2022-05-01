@@ -65,8 +65,22 @@ Time and space are inherently interconnected
        label="Many Times, More Worlds, More Voices"
        description="Black Timescapes"
        url="New Times.jpg">
+## Hadriana
+This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons
+<param ve-image
+       label="Lemon Plant"
+       description="Citrus Tree"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
+       
+<param title="René Depestre" eid="Q59581">
+<param title="zombie" eid="Q9406">
 
-## Wicked Weeds
+# Hadriana Mapping
+Jacmel
+<param ve-map center="Q923362" zoom="11">
+
+# Wicked Weeds
 
 This work is by Pedro Cabiya
 <param ve-image
@@ -85,16 +99,7 @@ Mapping Time through Space, Isadore is Haitian, but __
 Cashew trees exist between these two countries, problematizing these borders
 <param ve-map center="Q786" zoom="11">
        
-## Hadriana
-This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons
-<param ve-image
-       label="Lemon Plant"
-       description="Citrus Tree"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
-       
-<param title="René Depestre" eid="Q59581">
-<param title="zombie" eid="Q9406">
+
               
 ## Popisho
 
