@@ -103,7 +103,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 
 Breadfruit is a plant specifically tied to the slave trade
 
-param ve-image
+<param ve-image
        label="Breadfruit"
        description="Artocarpus altilis by M.A. Burnett"
        license="Creative Commons"
