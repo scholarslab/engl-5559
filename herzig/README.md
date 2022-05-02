@@ -98,6 +98,16 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        description="Cassia Cinnamon"
        license="PD"
    url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
+   
+# Breadfruit
+
+Breadfruit is a plant specifically tied to the slave trade
+
+param ve-image
+       label="Breadfruit"
+       description="Artocarpus altilis by M.A. Burnett"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
 
 # Flora of the Caribbean
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
