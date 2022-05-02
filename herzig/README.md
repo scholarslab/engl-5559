@@ -89,7 +89,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        license="Creative Commmons Attribution"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
        
-# Leatherwood
+# Flora of the Caribbean
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
 In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176--FR)
 This is a completely different implication, because ornamental plants purely for the point of spectacle were key features of colonial botany
@@ -99,11 +99,15 @@ This is a completely different implication, because ornamental plants purely for
        description="Botanical Register"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Botanical_register_consisting_of_coloured_figures_of_%281815%29_%2814769978681%29.jpg">
-
+# Garden as Creole Space
 Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word garden" (Depestre 197)
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197). The garden becomes a liberating space of creolization and "adolescent dreams" (Depestre 197). Garden as a way of collapsing time and space, because "Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
 
-
+<param ve-image
+       label="Morning Glory Flower"
+       description"Ipomoea hederacea"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/da/Ipomoea_hederacea_Blanco1.66.jpg">
 
 # Caribbean as Eden Trope
 In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
