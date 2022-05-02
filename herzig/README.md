@@ -50,6 +50,7 @@ Complete [Documentation](https://juncture-digital.org/docs) and helpful [example
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param title="Mimi Sheller" eid="Q6862191">
+
 # The Chronotope
 
 Time and space are inherently interconnected
@@ -65,19 +66,17 @@ Time and space are inherently interconnected
        label="Many Times, More Worlds, More Voices"
        description="Black Timescapes"
        url="New Times.jpg">
+       
 ## Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons.
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
 "A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166)!
-
-[image](https://user-images.githubusercontent.com/102316948/166171791-87665ad7-d48b-42dd-82bb-d9a0ca5f0201.png)
 
 <param ve-image
        label="Lemon Plant"
        description="Citrus Tree"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
-       ![image](https://user-images.githubusercontent.com/102316948/166171830-bb3f5075-883f-4796-83e8-905c10986020.png)
 <param title="René Depestre" eid="Q59581">
 <param title="zombie" eid="Q9406">
 
@@ -92,17 +91,18 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
 
 
 
-# Hadriana Mapping
+# Caribbean as Eden Trope
 In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
 Playing on the trope of Caribbean as Eden
 Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13).
-<param ve-map center="Q923362" zoom="11">
+<param ve-image
+       label="Caribbean as Eden"
+       description="Thomas Cole's The Garden of Eden"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
 
-## Multiple Versions
-Jacmel as Eden
-
-<param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg"
+# Hadriana Mapping
+       Takes place in Jacmel
 <param ve-map center="Q923362" zoom="11">
 
 ## Mapping Wicked Weeds
