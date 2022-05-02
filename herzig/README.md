@@ -179,25 +179,9 @@ This work is by Pedro Cabiya
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
               
-## Popisho
-
-*Popisho* (also known as *This One Sky Day*) is written by Leone Ross.
-
-<param title="Leone Ross" eid="Q16206929">
-<param title="Popisho" eid="Q110892608">
-
-<param ve-image
-       url="Popisho.jpg">
-
                                             
-## Midnight Robber's New Half-Way Tree
-Nalo Hopkinson's work *Midnight Robber* is emblematic of space-time, or the chronotope
-
-<param title="Nalo Hopkinson" eid="Q270204">
-<param title="Midnight Robber" eid="Q15035019">
-
-## Marvelous Equations of the Dread's Half-Way Tree
-Written by Marcia Douglas, the axis mundi that controls time travel is the silk cotton tree here
+## Silk Cotton Tree
+The silk cotton tree referenced in Hadriana's garden is also similar to the axis mundi that controls time travel in Marcia Douglas' *The Marvelous Equations of the Dread*
 <param ve-image
        label="Douglas' Half-Way Tree"
        description="Silk Cotton Tree; Ceiba"
