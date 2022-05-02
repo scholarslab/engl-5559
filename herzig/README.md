@@ -27,9 +27,18 @@ and strive in time frames that often evade humans" (Forbes 49).
        license="public domain"
              url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
        
+# Tree Ferns
+Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
+ 
+ <param ve-image
+        label="Tree Ferns"
+        description="Malay Archipelago Tree Ferns"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+
 
 # Appropriation of Plant Knowledge
-The long history of colonial botany is discussed by Mimi Sheller. 
+ "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Sheller 17)
 
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
@@ -37,6 +46,7 @@ The long history of colonial botany is discussed by Mimi Sheller.
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
 <param title="Mimi Sheller" eid="Q6862191">
+
 
 # The Chronotope
 
@@ -106,8 +116,7 @@ This is a completely different implication, because ornamental plants purely for
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Coconuts_and_trees_%28Cocos_nucifera%29%2C_a_cinnamon_tree_%28Cinnam_Wellcome_V0043077.jpg">
        
 # Garden as Creole Space
-Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word garden" (Depestre 197)
-
+Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion.  "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word *garden*" (Depestre 197)
 
 <param ve-image
        label="Morning Glory Flower"
@@ -115,6 +124,7 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/d/da/Ipomoea_hederacea_Blanco1.66.jpg">
        
+
 # Plants as Liberatory
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
 
