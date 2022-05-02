@@ -81,7 +81,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 <param title="zombie" eid="Q9406">
 
 # Hadriana's Garden--Sea Grapes
-"For me, the magic would always begin in the  garden. My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles. Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular: from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
+"For me, the magic would always begin in the  garden. My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
 
 <param ve-image
        label="Sea Grape"
@@ -89,6 +89,16 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        license="Creative Commmons Attribution"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
        
+# Sample of Every Species
+
+"Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular: from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
+
+<param ve-image
+       label="Cinnamon bark"
+       description="Cassia Cinnamon"
+       license="PD"
+   url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
+
 # Flora of the Caribbean
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
 In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176--FR)
