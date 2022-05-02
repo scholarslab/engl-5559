@@ -75,6 +75,15 @@ Time and space are inherently interconnected
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
        
+# Botany
+This calls back to Sir Hans Sloane and the Chelsea Physic Garden
+
+<param ve-image
+       label="Wild Plantains"
+       description="Ribwort Plantain"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
+
 # Sample of Every Species
 
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular: from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
@@ -143,6 +152,16 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
         
+## Silk Cotton Tree
+The silk cotton tree referenced in Hadriana's garden is also similar to the axis mundi that controls time travel in Marcia Douglas' *The Marvelous Equations of the Dread*
+<param ve-image
+       label="Douglas' Half-Way Tree"
+       description="Silk Cotton Tree; Ceiba"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
+<param title="Marcia Douglas" eid="Q54999406">
+
+        
  ## Lemons in Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
@@ -167,7 +186,7 @@ Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
 
 # Hadriana Mapping
-       Takes place in Jacmel
+Takes place in Jacmel
 <param ve-map center="Q923362" zoom="11">
 
 ## Mapping Wicked Weeds
@@ -190,15 +209,6 @@ This work is by Pedro Cabiya
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
               
                                             
-## Silk Cotton Tree
-The silk cotton tree referenced in Hadriana's garden is also similar to the axis mundi that controls time travel in Marcia Douglas' *The Marvelous Equations of the Dread*
-<param ve-image
-       label="Douglas' Half-Way Tree"
-       description="Silk Cotton Tree; Ceiba"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
-<param title="Marcia Douglas" eid="Q54999406">
-
 
 
 # References
