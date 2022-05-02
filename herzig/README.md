@@ -86,13 +86,22 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden
 
 # Sample of Every Species
 
-"Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular: from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
+"Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
 
 <param ve-image
        label="Cinnamon bark"
        description="Cassia Cinnamon"
        license="PD"
    url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
+   
+# 37 Plants
+"from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
+
+<param ve-image
+       label="soursop"
+       description="Custard Apple (Sugar Apple or Sour Sop)"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Drawing%2C_album_%28BM_SL%2C5275.14%29.jpg">
 
 # My Companions
 "to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
