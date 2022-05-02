@@ -6,14 +6,6 @@
        layout="vertical">
      
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
 # Plants in Time and Space
 
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is borth entirely different from the thing which will arive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
