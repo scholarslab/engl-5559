@@ -49,13 +49,21 @@ Time and space are inherently interconnected
                 
 
 # Hadriana's Garden--Sea Grapes
-"For me, the magic would always begin in the  garden. My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
-
+"For me, the magic would always begin in the  garden" (Depestre 196).
 <param ve-image
        label="Sea Grape"
        description="Byam sea-side grape"
        license="Creative Commmons Attribution"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
+       
+# Botany as occupation
+        My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
+
+<param ve-image
+       label="Dwarf Palm"
+       description="Ravanea Hildibrandtii"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
        
 # Sample of Every Species
 
