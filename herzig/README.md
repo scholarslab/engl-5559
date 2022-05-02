@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Combatting the Clock: Plants as Time Machines in Caribbean Literature" 
+       title="Unmapping Botanical Knowledge in Caribbean Science Fiction" 
        banner="Butterfly_Clock.jpg" 
        layout="vertical">
      
