@@ -39,11 +39,6 @@ and strive in time frames that often evade humans" (Forbes 49).
 # Appropriation of Plant Knowledge
 The long history of colonial botany is discussed by Mimi Sheller. 
 
-Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
-<param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
-<param ve-entity eid="Q16206929"> <!--Leone Ross-->
-
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
        description="Clock Encased in Totara Burr Tree Bark" 
@@ -59,14 +54,7 @@ Time and space are inherently interconnected
        description="Salvador Dali's The Persistence of Memory"
        license="public domain"
            url="https://upload.wikimedia.org/wikipedia/commons/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png">
-           
-# New Times, New Spaces
-
-<param ve-image
-       label="Many Times, More Worlds, More Voices"
-       description="Black Timescapes"
-       url="New Times.jpg">
-       
+                
 
 # Hadriana's Garden--Sea Grapes
 "For me, the magic would always begin in the  garden. My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
@@ -89,7 +77,7 @@ Time and space are inherently interconnected
    
 # Breadfruit
 
-Breadfruit is a plant specifically tied to the slave trade
+Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
 
 <param ve-image
        label="Breadfruit"
@@ -99,14 +87,23 @@ Breadfruit is a plant specifically tied to the slave trade
 
 # Flora of the Caribbean
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
-In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176--FR)
-This is a completely different implication, because ornamental plants purely for the point of spectacle were key features of colonial botany
+
 
 <param ve-image
        label="Leatherwood"
        description="Botanical Register"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Botanical_register_consisting_of_coloured_figures_of_%281815%29_%2814769978681%29.jpg">
+       
+# Garden as Ornamental Spectacle
+In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176--FR)
+This is a completely different implication, because ornamental plants purely for the point of spectacle were key features of colonial botany
+
+<param ve-image
+       label="Scale of Coconuts and Trees"
+       description="oconuts and trees (Cocos nucifera), a cinnamon tree (Cinnamomum verum) and pinang tree (Areca catechu)"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/99/Coconuts_and_trees_%28Cocos_nucifera%29%2C_a_cinnamon_tree_%28Cinnam_Wellcome_V0043077.jpg">
        
 # Garden as Creole Space
 Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word garden" (Depestre 197)
