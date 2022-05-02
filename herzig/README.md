@@ -130,6 +130,15 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        description="Artocarpus altilis by M.A. Burnett"
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
+# Connections to Antebellum South
+"the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (Fett 62-63)
+
+<param ve-image
+       label="Guava"
+       description="Moth on a Guava Branch"
+       license="Public Domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Drawing%2C_album_%28BM_SL%2C5275.57%29.jpg">
+
 
 # Flora of the Caribbean
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
