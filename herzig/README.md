@@ -27,7 +27,7 @@ and strive in time frames that often evade humans" (Forbes 49).
        license="public domain"
              url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
        
-# Tree Ferns
+# Carl Linnaeus
 Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
 
 <param ve-image 
@@ -35,6 +35,15 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        description="Clock Encased in Totara Burr Tree Bark" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
+       
+# The Chronotope
+
+Time and space are inherently interconnected
+<param ve-image
+       label="Melted Time is Melted Space"
+       description="Salvador Dali's The Persistence of Memory"
+       license="public domain"
+           url="https://upload.wikimedia.org/wikipedia/commons/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png">
  
 
 # Appropriation of Plant Knowledge
@@ -47,17 +56,7 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
 
 <param title="Mimi Sheller" eid="Q6862191">
-
-
-# The Chronotope
-
-Time and space are inherently interconnected
-<param ve-image
-       label="Melted Time is Melted Space"
-       description="Salvador Dali's The Persistence of Memory"
-       license="public domain"
-           url="https://upload.wikimedia.org/wikipedia/commons/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png">
-                
+              
 
 # Hadriana's Garden--Sea Grapes
 "For me, the magic would always begin in the  garden" (Depestre 196).
