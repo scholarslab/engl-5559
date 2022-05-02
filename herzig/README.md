@@ -67,18 +67,6 @@ Time and space are inherently interconnected
        description="Black Timescapes"
        url="New Times.jpg">
        
-## Lemons in Hadriana
-This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons.
-"Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
-"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166)!
-
-<param ve-image
-       label="Lemon Plant"
-       description="Citrus Tree"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
-<param title="René Depestre" eid="Q59581">
-<param title="zombie" eid="Q9406">
 
 # Hadriana's Garden--Sea Grapes
 "For me, the magic would always begin in the  garden. My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
@@ -122,13 +110,22 @@ This is a completely different implication, because ornamental plants purely for
        
 # Garden as Creole Space
 Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word garden" (Depestre 197)
-"Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
+
 
 <param ve-image
        label="Morning Glory Flower"
        description="Ipomoea hederacea"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/d/da/Ipomoea_hederacea_Blanco1.66.jpg">
+       
+# Plants as Liberatory
+"Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
+
+<param ve-image
+       label="Bougainvillea"
+       description="Bougainvillea speciosa"
+       liscence="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/68/A_bougainvillea_plant_%28Bougainvillea_speciosa%29%3B_flowering_st_Wellcome_V0044424.jpg">
        
 # Garden and the Imagination
  The garden becomes a liberating space of creolization and "adolescent dreams" (Depestre 197). Garden as a way of collapsing time and space, because "Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
@@ -138,6 +135,19 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
         description="Cabbage Palmettos"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
+        
+ ## Lemons in Hadriana
+This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
+"Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
+"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166)!
+
+<param ve-image
+       label="Lemon Plant"
+       description="Citrus Tree"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
+<param title="René Depestre" eid="Q59581">
+<param title="zombie" eid="Q9406">
 
 # Caribbean as Eden Trope
 In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
