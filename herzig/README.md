@@ -93,12 +93,17 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
 
 
 # Hadriana Mapping
-Jacmel
-Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
+In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
 Playing on the trope of Caribbean as Eden
-Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁ nd a haven for relaxation, rejuvenation, and sensuous abandon (13).
+Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13).
 <param ve-map center="Q923362" zoom="11">
 
+## Multiple Versions
+Jacmel as Eden
+
+<param ve-image 
+       manifest="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg"
+<param ve-map center="Q923362" zoom="11">
 
 ## Mapping Wicked Weeds
 
@@ -145,12 +150,7 @@ Written by Marcia Douglas, the axis mundi that controls time travel is the silk 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
 <param title="Marcia Douglas" eid="Q54999406">
 
-## Multiple Versions
 
-Compare the Editions
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
