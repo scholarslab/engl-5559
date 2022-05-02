@@ -94,6 +94,15 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden
        license="PD"
    url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
 
+# My Companions
+"to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
+
+<param ve-image
+       label="Amaryllis"
+       description="Catalog Entry for Burbank's 'Giant Hybrid' Amaryllis"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/be/Burbank%27s_Giant_Hybrid_Amaryllis.jpg">
+
 # Removal from Natural Environment
 It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
 
