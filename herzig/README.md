@@ -77,16 +77,9 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        description="Citrus Tree"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
-       
+       ![image](https://user-images.githubusercontent.com/102316948/166171830-bb3f5075-883f-4796-83e8-905c10986020.png)
 <param title="René Depestre" eid="Q59581">
 <param title="zombie" eid="Q9406">
-
-# Hadriana Mapping
-Jacmel
-Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
-Playing on the trope of Caribbean as Eden
-Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁ nd a haven for relaxation, rejuvenation, and sensuous abandon (13).
-
 
 "For me, the magic would always begin in the  garden. My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles. Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular: from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
@@ -97,8 +90,13 @@ This is a completely different implication, because ornamental plants purely for
 Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word garden" (Depestre 197)
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197). The garden becomes a liberating space of creolization and "adolescent dreams" (Depestre 197). Garden as a way of collapsing time and space, because "Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
 
-![image](https://user-images.githubusercontent.com/102316948/166171830-bb3f5075-883f-4796-83e8-905c10986020.png)
 
+
+# Hadriana Mapping
+Jacmel
+Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
+Playing on the trope of Caribbean as Eden
+Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁ nd a haven for relaxation, rejuvenation, and sensuous abandon (13).
 <param ve-map center="Q923362" zoom="11">
 
 
