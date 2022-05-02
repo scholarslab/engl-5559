@@ -29,22 +29,23 @@ and strive in time frames that often evade humans" (Forbes 49).
        
 # Tree Ferns
 Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
- 
- <param ve-image
-        label="Tree Ferns"
-        description="Malay Archipelago Tree Ferns"
-        license="PD"
-        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
-
-
-# Appropriation of Plant Knowledge
- "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Sheller 17)
 
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
        description="Clock Encased in Totara Burr Tree Bark" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
+ 
+
+# Appropriation of Plant Knowledge
+ "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Sheller 17)
+
+ <param ve-image
+        label="Tree Ferns"
+        description="Malay Archipelago Tree Ferns"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+
 <param title="Mimi Sheller" eid="Q6862191">
 
 
