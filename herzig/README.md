@@ -198,6 +198,12 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        description="Miracle Leaf from Brasiliana Iconográfica"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/f/f9/%28Bryophyllum_pinnatum%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg">
+# Bryophyllum Pinnatum
+<param ve-image
+       label="Bryophyllum pinnatum at Peravoor by Vinayaraj (2017)"
+       description="Kannavam Reserve Forest and Peravoor"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">
 
 # Flora of the Caribbean
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
