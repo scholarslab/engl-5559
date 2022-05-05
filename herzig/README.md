@@ -76,7 +76,7 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
        
 # Botany
-This calls back to Sir Hans Sloane and the Chelsea Physic Garden
+This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is famous for.
 
 <param ve-image
        label="Anne Pratt's Ribwort Plantain (1857)"
@@ -164,8 +164,8 @@ In the French, however, it says instead of "most well-manicured garden" "de la f
 This is a completely different implication, because ornamental plants purely for the point of spectacle were key features of colonial botany
 
 <param ve-image
-       label="Scale of Coconuts and Trees"
-       description="oconuts and trees (Cocos nucifera), a cinnamon tree (Cinnamomum verum) and pinang tree (Areca catechu)"
+       label="A Tropical Landscape by Jean Nieuhoff (1618-1672)"
+       description="Coconuts and trees (Cocos nucifera), a cinnamon tree (Cinnamomum verum) and pinang tree (Areca catechu)"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Coconuts_and_trees_%28Cocos_nucifera%29%2C_a_cinnamon_tree_%28Cinnam_Wellcome_V0043077.jpg">
        
