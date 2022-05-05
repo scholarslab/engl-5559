@@ -245,6 +245,12 @@ Blackberries and Magnolia Grandiflora
 # Orchids
 # Spanish Lime
 # Orange Tree
+Orange tree
+<param ve-image
+       label="Orange branch bearing fruit from Merian's Drawings of Surinam Insects (1701-1705)"
+       description="Commentary on this drawing is much more focused on the caterpillar and moth than the tree itself"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Drawing%2C_album_%28BM_SL%2C5275.52%29.jpg">
 # Avocado Tree
 # Scarlet Plum Tree
 # Tamarind Tree
