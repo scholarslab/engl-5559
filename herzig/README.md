@@ -53,7 +53,6 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
-        
  # Ferns in Reality
  Ferns in the physical, lived realm
  
@@ -244,6 +243,7 @@ Blackberries and Magnolia Grandiflora
 # Climbing Jasmine
 # Orchids
 # Spanish Lime
+
 # Orange Tree
 Orange tree
 <param ve-image
@@ -258,6 +258,7 @@ Avocados used for the capitalistic commodification of cigarette ads
        description="George S. Harris & Sons under Prints/Ephemera in the Metropolitan Museum of Art"
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Avocado%2C_from_the_Fruits_series_%28N12%29_for_Allen_%26_Ginter_Cigarettes_Brands_MET_DP834605.jpg">
+       
 # Scarlet Plum Tree
 # Tamarind Tree
 # Gumbo-Limbo
