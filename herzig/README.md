@@ -239,7 +239,15 @@ Blackberries and Magnolia Grandiflora
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/Magnolia_Grandiflora_detail_from_Blackberries_and_Magnolia_Grandiflora_%28Boston_Public_Library%29_%28cropped%29.jpg">
        
 # Breaknail
+
 # Mountain Blueberry
+This naming is inherently a creolization, since there is no mountain blueberry, but a mountain laurel from the blueberry family.
+<param ve-image
+       label="Mountain Laurel by the Pennsylvania Department of Forestry (1901)"
+       description="Mountain Blueberry from the Penn State Library System"
+       license="No copyright restrictions, from Flickr"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Bulletin_%28Pennsylvania_Department_of_Forestry%29%2C_no._11_%281901%29_%2820313908088%29.jpg">
+       
 # Climbing Jasmine
 # Orchids
 # Spanish Lime
