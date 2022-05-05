@@ -98,10 +98,10 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
 "from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
 
 <param ve-image
-       label="soursop"
+       label="Annona muricata Blanc (Soursop) by Francisco Manuel Blanco (1880s)"
        description="Custard Apple (Sugar Apple or Sour Sop)"
        license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Drawing%2C_album_%28BM_SL%2C5275.14%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Annona_muricata_Blanco1.196-cropped.jpg">
 
 # My Companions
 "to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
