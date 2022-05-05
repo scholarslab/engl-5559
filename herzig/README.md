@@ -208,8 +208,8 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
 ## Silk Cotton Tree
 The silk cotton tree referenced in Hadriana's garden is also similar to the axis mundi that controls time travel in Marcia Douglas' *The Marvelous Equations of the Dread*
 <param ve-image
-       label="Douglas' Half-Way Tree"
-       description="Silk Cotton Tree; Ceiba"
+       label="Ceiba, or Silk Cotton Tree by Louis D. Powles (1888)"
+       description="From *The Land of the Pink Pearl, or recollections of life in the Bahamas*"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
 <param title="Marcia Douglas" eid="Q54999406">
