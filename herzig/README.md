@@ -230,7 +230,13 @@ This is a completely different implication, because ornamental plants purely for
        description="Coconuts and trees (Cocos nucifera), a cinnamon tree (Cinnamomum verum) and pinang tree (Areca catechu)"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Coconuts_and_trees_%28Cocos_nucifera%29%2C_a_cinnamon_tree_%28Cinnam_Wellcome_V0043077.jpg">
-       
+# Coconut Tree
+<param ve-image
+       label="Coconut Tree by Effulgence108 (2012)"
+       description="Alappuzha, Kerala, India"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b3/CoconutTree2.JPG">
+
 # Garden as Creole Space
 Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion.  "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word *garden*" (Depestre 197)
 
