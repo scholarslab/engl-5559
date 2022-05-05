@@ -89,8 +89,8 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
 
 <param ve-image
-       label="Cinnamon bark"
-       description="Cassia Cinnamon"
+       label="Gerald Alan Abbott, Albert Schneider, and William Kerr Higley draw Cassia Cinnamon (1914)"
+       description="Cinnamon bark"
        license="PD"
    url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
    
