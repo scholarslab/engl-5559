@@ -249,9 +249,23 @@ This naming is inherently a creolization, since there is no mountain blueberry, 
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Bulletin_%28Pennsylvania_Department_of_Forestry%29%2C_no._11_%281901%29_%2820313908088%29.jpg">
        
 # Climbing Jasmine
-# Orchids
-# Spanish Lime
 
+# Orchids
+Encyclia vitellina is the lating name used to identify this print, but Hadriana tends to use more common, vernacular names.
+<param ve-image
+       label="Encyclia vitellina by Miss S.A. Drake (1838-1841)"
+       description="Hand-colored engraving originally from John Lindley's Sertum orchidaceum"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Encyclia_vitellina_RHS.jpeg">
+       
+# Spanish Lime
+Is very particular, and 
+<param ve-image
+       label="Lime Tree by William Delamotte (1835)"
+       description="British Museum Lithograph of a lime tree set in fields, with sheep surrounding and figures on the right" 
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Lime_%28BM_1850%2C0413.69%29.jpg">
+       
 # Orange Tree
 Orange tree
 <param ve-image
