@@ -154,8 +154,8 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
 
 
 <param ve-image
-       label="Leatherwood"
-       description="Botanical Register"
+       label="Leatherwood from the Botanical Register consisting of Colored Figures (1815)"
+       description="Description of ornamental plants by Snydenham Edwards and John Talbot Shrewsbury"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Botanical_register_consisting_of_coloured_figures_of_%281815%29_%2814769978681%29.jpg">
        
