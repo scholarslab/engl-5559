@@ -23,7 +23,7 @@ Planting a  garden is very much imagining something that's not there...You're pu
        license="public domain"
             url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
             
-## Human vs Plant Time
+## Plant Time is not Human Time
 
 "To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
 and strive in time frames that often evade humans" (Forbes 49).
@@ -35,7 +35,7 @@ and strive in time frames that often evade humans" (Forbes 49).
              url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
              
        
-# Carl Linnaeus
+# Treatment of Plants is inseparable from treatment of humans
 Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
 
 <param ve-image 
@@ -44,8 +44,7 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
        
-
-       
+      
 # Appropriation of Plant Knowledge
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
 
