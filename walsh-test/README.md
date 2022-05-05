@@ -13,34 +13,5 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
-
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-
-# Basic usage
-
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-## Harrison test
-
-This is a test of Harrison Map
-<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-style="circle" stroke-width="0" fill-opacity="1">
-
-Test to see if it is building the site.
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+<param ve-compare curtain url=https://stor.artstor.org/stor/10970784-2155-498d-8b05-d8586b1f67d0 label="Cafe Nero High Street (2021)" description="Canterbury High Street 2021" attribution="Calum Elliot and Emma Molford" license="In Copyright">
+<param ve-compare url=https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d label="Cafe Nero High Street (pre 1918)" description="Canterbury High Street. Unposted and with no identifying features." license="No Known Copyright">
