@@ -135,8 +135,8 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
 "the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (Fett 62-63)
 
 <param ve-image
-       label="Guava"
-       description="Moth on a Guava Branch"
+       label="Butterfly on a Guava Tree by Cornelis Markée (1763)"
+       description="A second type of caterpillar on the guava tree, caught on this tree so I'm told, turns into this beautiful butterfly"
        license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Drawing%2C_album_%28BM_SL%2C5275.57%29.jpg">
 
