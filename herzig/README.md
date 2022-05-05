@@ -126,8 +126,8 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
 Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
 
 <param ve-image
-       label="Breadfruit"
-       description="Artocarpus altilis by M.A. Burnett"
+       label="Breadfruit (Artocarpus altilis) by M.A. Burnett; Gilbert Thomas Burnett (1853)"
+       description="Breadfruit: fruiting stem, leaf, fruit"
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
        
