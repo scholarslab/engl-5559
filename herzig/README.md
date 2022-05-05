@@ -233,8 +233,8 @@ In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden
 Playing on the trope of Caribbean as Eden
 Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13).
 <param ve-image
-       label="Caribbean as Eden"
-       description="Thomas Cole's The Garden of Eden"
+       label="Thomas Cole's The Garden of Eden (1828)"
+       description="Caribbean Spaces as Edenic to Colonizers"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
 
