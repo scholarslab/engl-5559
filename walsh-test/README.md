@@ -13,5 +13,11 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-<param ve-compare curtain url=https://stor.artstor.org/stor/10970784-2155-498d-8b05-d8586b1f67d0 label="Cafe Nero High Street (2021)" description="Canterbury High Street 2021" attribution="Calum Elliot and Emma Molford" license="In Copyright">
-<param ve-compare url=https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d label="Cafe Nero High Street (pre 1918)" description="Canterbury High Street. Unposted and with no identifying features." license="No Known Copyright">
+## Curtain Object 				       
+Multiple viewers may be defined for a single paragraph of text. The first viewer defined is displayed as the default viewer.			       
+<param ve-compare curtain url="https://stor.artstor.org/stor/10970784-2155-498d-8b05-d8586b1f67d0" label="Cafe Nero High Street (2021)" description="Canterbury High Street 2021" attribution="Calum Elliot and Emma Molford" license="In Copyright">
+<param ve-compare url="https://stor.artstor.org/stor/1420f054-9ba2-427b-b007-6aa22a7e785d" label="Cafe Nero High Street (pre 1918)" description="Canterbury High Street. Unposted and with no identifying features." license="No Known Copyright">			       
+
+# References
+
+[^1]: [Wikipedia: The Rime of the Ancient Mariner](https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner)
