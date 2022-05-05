@@ -56,9 +56,10 @@ Time and space are inherently interconnected
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
         
  <param ve-compare
-        label="Tree Ferns (2005)"
-        description="Tree Ferns in Golden Gate Park (San Fransisco)--Paul Downey"
-        url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tree_Ferns_%28psd%29.jpg">
+        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
+        description="Cyathea dregei--Andrew Massyn"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
 
 <param title="Mimi Sheller" eid="Q6862191">
               
