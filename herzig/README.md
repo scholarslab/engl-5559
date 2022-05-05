@@ -173,8 +173,8 @@ This is a completely different implication, because ornamental plants purely for
 Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion.  "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word *garden*" (Depestre 197)
 
 <param ve-image
-       label="Morning Glory Flower"
-       description="Ipomoea hederacea"
+       label="Ipomoea hederacea (Morning Glory Flower) by Francisco Manuel Blanco (1880s)"
+       description="From Flowers of the Philippines"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/d/da/Ipomoea_hederacea_Blanco1.66.jpg">
        
