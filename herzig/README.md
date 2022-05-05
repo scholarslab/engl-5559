@@ -288,6 +288,12 @@ Known under many names, this is for a pharmaceutical part of a botanical garden,
        url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Archiv_der_Pharmazie_%281835-1923.%29_%2819756403951%29.jpg">
 
 # Hibiscus
+Hibiscus flowers
+<param ve-image
+       label="Flower Hibiscus Rosa Linensis from Familiar Indian Flowers by Lena Lowis (1878)"
+       description="Familiar Indian Flowers with Colored Plates"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/de/Flower-hibiscus-rosa-linensis.png">
         
  ## Lemons in Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
