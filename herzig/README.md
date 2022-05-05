@@ -13,6 +13,12 @@
        description="Fruits of the West Indies by Lydia Byam"
        license="Creative Commmons Attribution"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
+# Sea Grapes
+<param ve-image
+       label="Sea Grape by Melissa McMasters (2012)"
+       description="In Memphis, TN"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
 
 # Plants are the Future
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
