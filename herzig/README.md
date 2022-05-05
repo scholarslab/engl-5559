@@ -137,6 +137,12 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
        description="Catalog Entry for Childs' rare flowers, vegetables, and fruit for 1906. From the Henry G. Gilbert Nursery and Seed Trade Catalog Collection at the National Agricultural Library"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/b/be/Burbank%27s_Giant_Hybrid_Amaryllis.jpg">
+# Amaryllis
+<param ve-image
+       label="Amaryllis belladonna at Vista Trail in Sonoma County, California by Krzysztof Ziarnek (2016)"
+       description="Ziarnek identifies as a Polish botanist"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Amaryllis_belladonna_kz03.jpg">
 
 # Removal from Natural Environment
 It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
