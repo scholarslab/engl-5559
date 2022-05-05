@@ -249,6 +249,12 @@ This naming is inherently a creolization, since there is no mountain blueberry, 
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Bulletin_%28Pennsylvania_Department_of_Forestry%29%2C_no._11_%281901%29_%2820313908088%29.jpg">
        
 # Climbing Jasmine
+Interestingly not portrayed as climbing, but rather as "hardy," "handsome," and "graceful."
+<param ve-image
+       label="Jasmine from Childs' rare flowers, vegetables, and fruits (1911) "
+       description="John Lewis Childs' catalog, Floral Park NY"
+       license="no copyright restrictions"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281911%29_%2820420947369%29.jpg">
 
 # Orchids
 Encyclia vitellina is the lating name used to identify this print, but Hadriana tends to use more common, vernacular names.
@@ -259,7 +265,7 @@ Encyclia vitellina is the lating name used to identify this print, but Hadriana 
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Encyclia_vitellina_RHS.jpeg">
        
 # Spanish Lime
-Is very particular, and 
+Is very particular, and obviously of a geographic region that is not native to Jacmel.
 <param ve-image
        label="Lime Tree by William Delamotte (1835)"
        description="British Museum Lithograph of a lime tree set in fields, with sheep surrounding and figures on the right" 
