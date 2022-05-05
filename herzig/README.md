@@ -9,7 +9,7 @@
 # Gardens Are Magic
 "For me, the magic would always begin in the garden" (Depestre 196).
 <param ve-image
-       label="Sea-Side Grape of the West Indies (1800)"
+       label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
        description="Fruits of the West Indies by Lydia Byam"
        license="Creative Commmons Attribution"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
@@ -107,8 +107,8 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
 "to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
 
 <param ve-image
-       label="Amaryllis"
-       description="Catalog Entry for Burbank's 'Giant Hybrid' Amaryllis"
+       label="Burbank's Giant Hybrid Amaryllis for Child's Rare Flowers Catalog (1906)"
+       description="Catalog Entry for Childs' rare flowers, vegetables, and fruit for 1906. From the Henry G. Gilbert Nursery and Seed Trade Catalog Collection at the National Agricultural Library"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/b/be/Burbank%27s_Giant_Hybrid_Amaryllis.jpg">
 
