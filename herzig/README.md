@@ -222,6 +222,30 @@ Mimosa
        description="From the book *A specimen of the botany of New Holland*"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Mimosa_myrtifolia_%28Sowerby%29.jpg">
+       
+# Cactus Pear
+Prickly plants, prickly people
+<param ve-image
+       label="Prickly Pear (Cactus Opuntia) with male bay-winged Bunting by J.J. Audubon (1840)"
+       description="Allegedly Drawn from Nature by Audubon, from NY Public Library"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/71/Bay-winged_Bunting._Male._%28Prickly_Pear._Cactus_Opuntia.%29_%28NYPL_b13559627-108418%29.tiff">
+       
+# All Manner of Magnolia
+# Breaknail
+# Mountain Blueberry
+# Climbing Jasmine
+# Orchids
+# Spanish Lime
+# Orange Tree
+# Avocado Tree
+# Scarlet Plum Tree
+# Tamarind Tree
+# Gumbo-Limbo
+# Water Mampoo
+# Ram Goat
+
+# Hibiscus
         
  ## Lemons in Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
