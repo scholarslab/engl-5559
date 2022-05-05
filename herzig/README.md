@@ -312,21 +312,31 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
         
 # Mimosa Plant
-Mimosa
 <param ve-image
        label="Mimosa myrtifolia (Mimosa) by James Sowerby (1793)"
        description="From the book *A specimen of the botany of New Holland*"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Mimosa_myrtifolia_%28Sowerby%29.jpg">
-       
+# Mimosa
+<param ve-image
+       label="Mimosa nuttallii by Eric Hunt (2016)"
+       description="Faulkner County, Arkansas"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mimosa_nuttallii.jpg">
+
 # Cactus Pear
-Prickly plants, prickly people
 <param ve-image
        label="Prickly Pear (Cactus Opuntia) with male bay-winged Bunting by J.J. Audubon (1840)"
        description="Allegedly Drawn from Nature by Audubon, from NY Public Library"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/7/71/Bay-winged_Bunting._Male._%28Prickly_Pear._Cactus_Opuntia.%29_%28NYPL_b13559627-108418%29.tiff">
-       
+# Cactus Pear
+<param ve-image
+       label="Prickly Pear Cacti by Chris Light (2007)"
+       description="Prickly Pear Cacti at Fort Laramie Nat'l Historic Site, Wyoming"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Prickly_Pear_Cacti_P7180336.jpg">
+
 # All Manner of Magnolia
 Blackberries and Magnolia Grandiflora
 <param ve-image
