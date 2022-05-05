@@ -70,8 +70,8 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
 "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
 
 <param ve-image
-       label="Ravenea hildebrandtii from L'Illustration horticole: Gand, Belgium :Imprimerie et lithographie de F. et E. Gyselnyck, 1854-1896"
-       description="Dwarf Palm"
+       label="Ravenea hildebrandtii from L'Illustration horticole: Gand, Belgium :Imprimerie et lithographie de F. et E. Gyselnyck (1854-1896)"
+       description="Dwarf Palm--Biodiversity Heritage Library"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
        
@@ -79,8 +79,8 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
 This calls back to Sir Hans Sloane and the Chelsea Physic Garden
 
 <param ve-image
-       label="Wild Plantains"
-       description="Ribwort Plantain"
+       label="Anne Pratt's Ribwort Plantain (1857)"
+       description="Wild Plantain"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
 
