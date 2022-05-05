@@ -168,7 +168,13 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        description="Breadfruit: fruiting stem, leaf, fruit"
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
-       
+# Breadfruit
+<param ve-image
+       label="Breadfruit by Ashay (2019)"
+       description="It is used as a dish in Dakshina Kannada Region according to the description"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
+
 # Connections to Antebellum South
 "the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (Fett 62-63)
 
