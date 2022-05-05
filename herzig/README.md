@@ -251,6 +251,7 @@ Orange tree
        description="Commentary on this drawing is much more focused on the caterpillar and moth than the tree itself"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/59/Drawing%2C_album_%28BM_SL%2C5275.52%29.jpg">
+       
 # Avocado Tree
 Avocados used for the capitalistic commodification of cigarette ads
 <param ve-image
@@ -260,6 +261,14 @@ Avocados used for the capitalistic commodification of cigarette ads
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Avocado%2C_from_the_Fruits_series_%28N12%29_for_Allen_%26_Ginter_Cigarettes_Brands_MET_DP834605.jpg">
        
 # Scarlet Plum Tree
+Removed from their natural environment, going so far as to remove the stems, tree, etc. to only concentrate on the literal fruits of the labor, this print descends from the legacy of colonial removal, the description even refers to it as a specimin.
+
+<param ve-image
+       label="Scarlet Plum variety of red mombins (Spondias purpurea) in Miami by Deborah Griscom Passmore (1904)"
+       description="From U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD" 
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pomological_Watercolor_POM00007552.jpg">
+                                                                                                       
 # Tamarind Tree
 # Gumbo-Limbo
 # Water Mampoo
