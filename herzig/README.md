@@ -46,6 +46,14 @@ Time and space are inherently interconnected
            url="https://upload.wikimedia.org/wikipedia/commons/6/64/Dargenta_%26_Salvador_Dali_The_persistance_of_Memory.png">
  
 
+# Hadriana's Garden--Sea Grapes
+"For me, the magic would always begin in the  garden" (Depestre 196).
+<param ve-image
+       label="Sea-Side Grape of the West Indies (1800)"
+       description="Fruits of the West Indies by Lydia Byam"
+       license="Creative Commmons Attribution"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
+       
 # Appropriation of Plant Knowledge
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
 
@@ -63,14 +71,6 @@ Time and space are inherently interconnected
 
 <param title="Mimi Sheller" eid="Q6862191">
               
-
-# Hadriana's Garden--Sea Grapes
-"For me, the magic would always begin in the  garden" (Depestre 196).
-<param ve-image
-       label="Sea-Side Grape of the West Indies (1800)"
-       description="Fruits of the West Indies by Lydia Byam"
-       license="Creative Commmons Attribution"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
        
 # Botany as occupation
 "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
