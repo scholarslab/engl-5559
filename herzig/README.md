@@ -245,7 +245,12 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        description="From Flowers of the Philippines"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/d/da/Ipomoea_hederacea_Blanco1.66.jpg">
-       
+ # Morning Glory Flower
+ <param ve-image
+        label="Ipomoea hederacea by A. Bower (2006)"
+        description="Morning Glory Flower"
+        license="CC"
+        url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Ipomoea_hederacea_004.jpg">
 
 # Plants as Liberatory
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
