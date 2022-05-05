@@ -215,6 +215,14 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
 <param title="Marcia Douglas" eid="Q54999406">
 
         
+# Mimosa Plant
+Mimosa
+<param ve-image
+       label="Mimosa myrtifolia (Mimosa) by James Sowerby (1793)"
+       description="From the book *A specimen of the botany of New Holland*"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Mimosa_myrtifolia_%28Sowerby%29.jpg">
+        
  ## Lemons in Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
