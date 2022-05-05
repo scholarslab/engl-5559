@@ -192,7 +192,7 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
 "Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
  
 <param ve-image
-       label="Rosebushes"
+       label="Rosebushes by Isaac Watts (1869)"
        description="19th Century Rose Bush Drawing"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/9/94/Vintage_Rose_Bush_Drawing.jpg">
