@@ -252,6 +252,12 @@ Orange tree
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/59/Drawing%2C_album_%28BM_SL%2C5275.52%29.jpg">
 # Avocado Tree
+Avocados used for the capitalistic commodification of cigarette ads
+<param ve-image
+       label="Avocado, from the Fruits series for Allen & Ginter Cigarettes Brands (1891)"
+       description="George S. Harris & Sons under Prints/Ephemera in the Metropolitan Museum of Art"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Avocado%2C_from_the_Fruits_series_%28N12%29_for_Allen_%26_Ginter_Cigarettes_Brands_MET_DP834605.jpg">
 # Scarlet Plum Tree
 # Tamarind Tree
 # Gumbo-Limbo
