@@ -67,8 +67,8 @@ Time and space are inherently interconnected
 # Hadriana's Garden--Sea Grapes
 "For me, the magic would always begin in the  garden" (Depestre 196).
 <param ve-image
-       label="Sea Grape"
-       description="Byam sea-side grape"
+       label="Sea-Side Grape of the West Indies (1800)"
+       description="Fruits of the West Indies by Lydia Byam"
        license="Creative Commmons Attribution"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
        
