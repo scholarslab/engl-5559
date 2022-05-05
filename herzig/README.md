@@ -280,6 +280,12 @@ Made to look small and insignificant compared to the squirrel, these trees are m
 # Gumbo-Limbo
 # Water Mampoo
 # Ram Goat
+Known under many names, this is for a pharmaceutical part of a botanical garden, the Ram Goat/Damania/Turnera aphrodisiaca coinciding with picture number four.
+<param ve-image
+       label="Archive of Pharmacy by the Deutscher Apotheker Verein (1882)"
+       description="From the NY Botanical Garden and LuEster Mertz Library"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Archiv_der_Pharmazie_%281835-1923.%29_%2819756403951%29.jpg">
 
 # Hibiscus
         
