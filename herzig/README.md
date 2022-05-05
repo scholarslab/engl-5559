@@ -270,6 +270,13 @@ Removed from their natural environment, going so far as to remove the stems, tre
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pomological_Watercolor_POM00007552.jpg">
                                                                                                        
 # Tamarind Tree
+Made to look small and insignificant compared to the squirrel, these trees are massive in their true physical form.
+<param ve-image
+       label="The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree by James Forbes (1812-1813)"
+       description="From Oriental Memoirs; Drawn and Painted around Bombay around 1779"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg">
+       
 # Gumbo-Limbo
 # Water Mampoo
 # Ram Goat
