@@ -286,6 +286,12 @@ Also known as the Bursera simaruba, this is apparently illustrated by two artist
        url="https://upload.wikimedia.org/wikipedia/commons/d/d1/The_North_American_sylva%3B_or%2C_A_description_of_the_forest_trees_of_the_United_States%2C_Canada_and_Nova_Scotia._Considered_particularly_with_respect_to_their_use_in_the_arts_and_their_introduction_into_%2814780020474%29.jpg">
        
 # Water Mampoo
+This is a specific type of Pisonia
+<param ve-image
+       label="Two types of cultivated Pisonia by Pierre Joseph Depannemaeker (1885)"
+       description="Chromolithographs with 'flowering and leafy shoots with separate numbered flower and fruit sections"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/88/Two_plants_%28Pisonia_sylvestris_and_Pisonia_alba_%29%3B_flowering_Wellcome_V0042701.jpg">
 
 # Ram Goat
 Known under many names, this is for a pharmaceutical part of a botanical garden, the Ram Goat/Damania/Turnera aphrodisiaca coinciding with picture number four.
