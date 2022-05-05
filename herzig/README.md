@@ -144,8 +144,8 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
 "The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
 
 <param ve-image
-       label="Miracle Leaf"
-       description="Bryophyllum pinnatum"
+       label="Bryophyllum pinnatum (Miracle Leaf) by José Carlos dos Reis Carvalho (1800-1872)"
+       description="Miracle Leaf from Brasiliana Iconográfica"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/f/f9/%28Bryophyllum_pinnatum%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg">
 
