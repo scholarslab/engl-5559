@@ -275,7 +275,13 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        description="19th Century Rose Bush Drawing"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/9/94/Vintage_Rose_Bush_Drawing.jpg">
-       
+# Rosebush
+<param ve-image
+       label="Red Rose Rosebush (2005)"
+       description="author unknown"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/68/Rosebush.jpg">
+
 # Garden and the Imagination--the Scale of Plants
  The garden becomes a liberating space of creolization and "adolescent dreams" (Depestre 197). 
  <param ve-image
@@ -283,7 +289,13 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
         description="Cabbage Palmettos (Cabbage Tree) from the book *The North American sylva, or A description of the forest trees of the United States, Canada and Nova Scotia*"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/2/25/NAS-101_Sabal_palmetto.png">
-        
+# Cabbage Palmettos
+<param ve-image
+       label="Cabbage Palmetto, from Robert N. Dennis collection of stereoscopic views (1868-1910)"
+       description="from the Stephen A. Schwarzman Building / Photography Collection, Miriam and Ira D. Wallach Division of Art, Prints and Photographs"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
+
 ## Silk Cotton Tree
 The silk cotton tree referenced in Hadriana's garden is also similar to the axis mundi that controls time travel in Marcia Douglas' *The Marvelous Equations of the Dread*
 <param ve-image
