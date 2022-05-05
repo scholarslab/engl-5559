@@ -304,7 +304,12 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
 <param title="Marcia Douglas" eid="Q54999406">
-
+# Silk Cotton Tree
+<param ve-image
+       label="White silk cotton tree by Sakthiarch (2016)"
+       description="White silk cotton tree (cabbage wood) in lal bagh garden, Bangalore, India"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
         
 # Mimosa Plant
 Mimosa
