@@ -258,9 +258,15 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
 <param ve-image
        label="Bougainvillea (Bougainvillea speciosa) by James Andrews (1861)"
        description="Bougainvillea speciosa: flowering stem from Iconographic Collections"
-       liscense="CC"
+       license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/6/68/A_bougainvillea_plant_%28Bougainvillea_speciosa%29%3B_flowering_st_Wellcome_V0044424.jpg">
-       
+# Bougainvillea
+<param ve-image
+       label="Bougainvillea flowers in Athens by George E. Koronaios (2019)"
+       description="Sotiros Street in Plaka, Athens, Greece"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Bougainvillea_flowers_in_Athens.jpg">
+
 # Garden Collapses Time and Space
 "Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
  
