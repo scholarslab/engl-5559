@@ -232,6 +232,13 @@ Prickly plants, prickly people
        url="https://upload.wikimedia.org/wikipedia/commons/7/71/Bay-winged_Bunting._Male._%28Prickly_Pear._Cactus_Opuntia.%29_%28NYPL_b13559627-108418%29.tiff">
        
 # All Manner of Magnolia
+Blackberries and Magnolia Grandiflora
+<param ve-image
+       label="Blackberries and Magnolia Grandiflora by Ellen Fisher (1861-1897)"
+       description="Chromolithographs; Still life prints; Proofs from the Boston Public Library"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Magnolia_Grandiflora_detail_from_Blackberries_and_Magnolia_Grandiflora_%28Boston_Public_Library%29_%28cropped%29.jpg">
+       
 # Breaknail
 # Mountain Blueberry
 # Climbing Jasmine
