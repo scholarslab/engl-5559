@@ -214,7 +214,13 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        description="Description of ornamental plants by Snydenham Edwards and John Talbot Shrewsbury"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Botanical_register_consisting_of_coloured_figures_of_%281815%29_%2814769978681%29.jpg">
-       
+# Leatherwood
+<param ve-image
+       label="Dirca occidentalis (Western Leatherwood) by Plant Image Library (2017)"
+       description="Plant Image Library, Boston MA"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dirca_occidentalis_%28Western_Leatherwood%29_%2833862595652%29.jpg">
+
 # Garden as Ornamental Spectacle
 In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176--FR)
 This is a completely different implication, because ornamental plants purely for the point of spectacle were key features of colonial botany
