@@ -116,7 +116,7 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
 It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
 
 <param ve-image
-       label="Laurus nobilis (Bay Laurels) by Köhler (1887)"
+       label="Laurus nobilis (Bay Laurels) by Franz Eugen Köhler (1887)"
        description="From the atlas of Köhler's Medicinal plants in realistic images"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurus_nobilis_%28K%C3%B6hler%29.jpg">
@@ -221,8 +221,8 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
 "A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166)!
 
 <param ve-image
-       label="Lemon Plant"
-       description="Citrus Tree"
+       label="Citron Tree by Franz Eugen Köhler (1897)"
+       description="Lemon Plant in Medicinal Plants Guide"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
 <param title="René Depestre" eid="Q59581">
