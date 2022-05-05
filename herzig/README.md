@@ -183,6 +183,12 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        description="A second type of caterpillar on the guava tree, caught on this tree so I'm told, turns into this beautiful butterfly"
        license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4a/KITLV_-_37A97_-_Mark%C3%A9e%2C_Cornelis_-_A_second_type_of_caterpillar_on_the_guava_tree%2C_caught_on_this_tree_so_i%27m_told%2C_turns_into_this_beautiful_butterfly-_-_Brush_drawing_-_Circa_1763.tif">
+# Guava
+<param ve-image
+       label="Guava Tree below the sky by Sabina Bajracharya (2020)"
+       description="Guava"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/16/Guava_Tree_below_the_sky_01.jpg">
 
 # Enlightenment Taxonomies
 "The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
