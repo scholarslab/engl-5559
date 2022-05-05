@@ -338,13 +338,18 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
        url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Prickly_Pear_Cacti_P7180336.jpg">
 
 # All Manner of Magnolia
-Blackberries and Magnolia Grandiflora
 <param ve-image
        label="Blackberries and Magnolia Grandiflora by Ellen Fisher (1861-1897)"
        description="Chromolithographs; Still life prints; Proofs from the Boston Public Library"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/Magnolia_Grandiflora_detail_from_Blackberries_and_Magnolia_Grandiflora_%28Boston_Public_Library%29_%28cropped%29.jpg">
-       
+# Magnolia
+<param ve-image
+       label="Magnolia Tree Blooming in Prospect Park by Allison Meier (2019)"
+       description="Between the Lake and the Peristyle in Prospect Park"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/12/Magnolia_Tree_Blooming_in_Prospect_Park.jpg">
+
 # Breaknail
 This plant is listed, but I cannot find any record of it existing as a real plant.
 
@@ -355,7 +360,13 @@ This naming is inherently a creolization, since there is no mountain blueberry, 
        description="Mountain Blueberry from the Penn State Library System"
        license="No copyright restrictions, from Flickr"
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Bulletin_%28Pennsylvania_Department_of_Forestry%29%2C_no._11_%281901%29_%2820313908088%29.jpg">
-       
+# Mountain Laurel
+<param ve-image
+       label="Mountain Laurel - Kalmia latifolia by Judy Gallagher (2020)"
+       description="Mason Neck State Park, Mason Neck, Virginia"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Mountain_Laurel_-_Kalmia_latifolia%2C_Mason_Neck_State_Park%2C_Mason_Neck%2C_Virginia%2C_May_20%2C_2020.jpg">
+
 # Climbing Jasmine
 Interestingly not portrayed as climbing, but rather as "hardy," "handsome," and "graceful."
 <param ve-image
@@ -473,21 +484,7 @@ Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of
        description="Caribbean Spaces as Edenic to Colonizers"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
-
-# Hadriana Mapping
-Takes place in Jacmel
-<param ve-map center="Q923362" zoom="11">
-      
-# Cashew
-
-Cashew Plant
-<param ve-image
-       label="Cashew Plant"
-       description="Anacardium"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anacardium_occidentalis_Blanco1.116-cropped.jpg">
-              
-                                            
+                                           
 
 
 # References
