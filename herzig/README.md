@@ -6,8 +6,15 @@
        layout="vertical">
      
 
-# Plants in Time and Space
+# Gardens Are Magic
+"For me, the magic would always begin in the garden" (Depestre 196).
+<param ve-image
+       label="Sea-Side Grape of the West Indies (1800)"
+       description="Fruits of the West Indies by Lydia Byam"
+       license="Creative Commmons Attribution"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
 
+# Plants are the Future
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
 
 <param ve-image
@@ -26,6 +33,7 @@ and strive in time frames that often evade humans" (Forbes 49).
        description="Floral Clock, Edinburgh"
        license="public domain"
              url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
+             
        
 # Carl Linnaeus
 Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
@@ -36,13 +44,7 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
        
-# Hadriana's Garden--Sea Grapes
-"For me, the magic would always begin in the  garden" (Depestre 196).
-<param ve-image
-       label="Sea-Side Grape of the West Indies (1800)"
-       description="Fruits of the West Indies by Lydia Byam"
-       license="Creative Commmons Attribution"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg">
+
        
 # Appropriation of Plant Knowledge
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
