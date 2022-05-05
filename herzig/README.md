@@ -45,7 +45,7 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
        
       
-# Appropriation of Plant Knowledge
+# Appropriation of Plant Knowledge--Ferns of the Imagination
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
 
  <param ve-image
@@ -54,9 +54,9 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
         
- # Ferns in Real Life
- Compare the 
-        
+ # Ferns in Reality
+ Ferns in the physical, lived realm
+ 
  <param ve-image
         label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
         description="Cyathea dregei--Andrew Massyn"
@@ -70,8 +70,8 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
 "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
 
 <param ve-image
-       label="Dwarf Palm"
-       description="Ravanea Hildibrandtii"
+       label="Ravenea hildebrandtii from L'Illustration horticole: Gand, Belgium :Imprimerie et lithographie de F. et E. Gyselnyck, 1854-1896"
+       description="Dwarf Palm"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
        
@@ -241,20 +241,10 @@ Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of
 # Hadriana Mapping
 Takes place in Jacmel
 <param ve-map center="Q923362" zoom="11">
+      
+# Cashew
 
-## Mapping Wicked Weeds
-
-Mapping Time through Space, Isadore is Haitian 
-<param ve-map center="Q790" zoom="11">
-
-## Isadore's Travels
- 
-Cashew trees exist between these two countries, problematizing these borders
-<param ve-map center="Q786" zoom="11">
-       
-# Wicked Weeds
-
-This work is by Pedro Cabiya
+Cashew Plant
 <param ve-image
        label="Cashew Plant"
        description="Anacardium"
