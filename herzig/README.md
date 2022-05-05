@@ -239,6 +239,7 @@ Blackberries and Magnolia Grandiflora
        url="https://upload.wikimedia.org/wikipedia/commons/2/28/Magnolia_Grandiflora_detail_from_Blackberries_and_Magnolia_Grandiflora_%28Boston_Public_Library%29_%28cropped%29.jpg">
        
 # Breaknail
+This plant is listed, but I cannot find any record of it existing as a real plant.
 
 # Mountain Blueberry
 This naming is inherently a creolization, since there is no mountain blueberry, but a mountain laurel from the blueberry family.
