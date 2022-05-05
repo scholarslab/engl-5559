@@ -49,11 +49,16 @@ Time and space are inherently interconnected
 # Appropriation of Plant Knowledge
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
 
- <param ve-image
+ <param ve-compare sync
         label="Polyathea--Strange Forest Tree--Tree Fern (1869)"
         description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+        
+ <param ve-compare
+        label="Tree Ferns (2005)"
+        description="Tree Ferns in Golden Gate Park (San Fransisco)--Paul Downey"
+        url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tree_Ferns_%28psd%29.jpg">
 
 <param title="Mimi Sheller" eid="Q6862191">
               
