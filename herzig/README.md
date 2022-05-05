@@ -122,7 +122,13 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
        description="Custard Apple (Sugar Apple or Sour Sop)"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Annona_muricata_Blanco1.196-cropped.jpg">
-
+# Soursop
+<param ve-image
+       label="Annona muricata (Soursop) by David Lytle (2007)"
+       description="Description reads that it is a tree with fruits"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/62/Annona_muricata_%28Soursop%29_-_tree_with_fruits.jpg">
+       
 # My Companions
 "to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
 
