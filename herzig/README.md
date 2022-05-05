@@ -183,8 +183,8 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
 
 <param ve-image
-       label="Bougainvillea"
-       description="Bougainvillea speciosa"
+       label="Bougainvillea (Bougainvillea speciosa) by James Andrews (1861)"
+       description="Bougainvillea speciosa: flowering stem from Iconographic Collections"
        liscense="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/6/68/A_bougainvillea_plant_%28Bougainvillea_speciosa%29%3B_flowering_st_Wellcome_V0044424.jpg">
        
