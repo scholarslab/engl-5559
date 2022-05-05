@@ -152,6 +152,12 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
        description="From the atlas of Köhler's Medicinal plants in realistic images"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurus_nobilis_%28K%C3%B6hler%29.jpg">
+# Lauris Noblis
+<param ve-image
+       label="Laurus nobilis by Marija Gajic (2015)"
+       description="Description reads that this is a 'romatic evergreen tree or large shrub with green, glossy leaves, native to the Mediterranean region'"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
 
 # Breadfruit
 
