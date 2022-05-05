@@ -94,17 +94,26 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
        description="Wild Plantain"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
+# Ribwort Plantain in Real Life
+<param ve-image
+       label="Plantago lanceolata (Ribwort Plantain) by Luis Fernández García (2014)"
+       description="In Losar de la Vera, Spain"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Plantago_lanceolata_20140416a.jpg">
 
 # Sample of Every Species
-
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
-
 <param ve-image
        label="Gerald Alan Abbott, Albert Schneider, and William Kerr Higley draw Cassia Cinnamon (1914)"
        description="Cinnamon bark"
+       license="PD"   url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
+# Cinnamon
+<param ve-image
+       label="Cinnamomum verum (Cinnamon tree) by Marion Schneider & Christoph Aistleitner (2008)"
+       description="Curieuse Island, Seychelles"
        license="PD"
-   url="https://upload.wikimedia.org/wikipedia/commons/7/78/Nature_neighbors%2C_embracing_birds%2C_plants%2C_animals%2C_minerals%2C_in_natural_colors_by_color_photography%2C_containing_articles_by_Gerald_Alan_Abbott%2C_Dr._Albert_Schneider%2C_William_Kerr_Higley...and_other_%2814565288359%29.jpg">
-   
+       url="https://upload.wikimedia.org/wikipedia/commons/6/64/Cinnamomum_verum_sey.jpg">
+
 # 37 Plants
 "from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
 
