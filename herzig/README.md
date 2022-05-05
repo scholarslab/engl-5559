@@ -79,6 +79,12 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        description="Dwarf Palm--Biodiversity Heritage Library"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
+# Dwarf Palm
+<param ve-image
+       label="Manila Dwarf Coconut Palm by Scott Bauer (2005)"
+       description="Tropical Agriculture Research Station, Puerto Rico"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Manila_dwarf_coconut_palm.jpg">
        
 # Botany
 This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is famous for.
