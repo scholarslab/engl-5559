@@ -282,7 +282,7 @@ Ornamental plants purely for the point of spectacle were key features of colonia
        url="https://upload.wikimedia.org/wikipedia/commons/1/12/Magnolia_Tree_Blooming_in_Prospect_Park.jpg">
 
 # Garden as Creole Space
-Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. Hadriana purposefully uses common names as much as possible for the naming of the plants, and sometimes even mixes the scientific and vernacular names, but always situating the common name as primary. 
+Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. 
 
 <param ve-image
        label="Ipomoea hederacea (Morning Glory Flower) by Francisco Manuel Blanco (1880s)"
@@ -295,6 +295,20 @@ Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by
         description="Morning Glory Flower"
         license="CC"
         url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Ipomoea_hederacea_004.jpg">
+#
+Hadriana purposefully uses common names as much as possible for the naming of the plants, and sometimes even mixes the scientific and vernacular names, but always situating the common name as primary. 
+
+<param ve-image
+       label="Prickly Pear (Cactus Opuntia) with male bay-winged Bunting by J.J. Audubon (1840)"
+       description="Allegedly Drawn from Nature by Audubon, from NY Public Library"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/71/Bay-winged_Bunting._Male._%28Prickly_Pear._Cactus_Opuntia.%29_%28NYPL_b13559627-108418%29.tiff">
+# Cactus Pear
+<param ve-image
+       label="Prickly Pear Cacti by Chris Light (2007)"
+       description="Prickly Pear Cacti at Fort Laramie Nat'l Historic Site, Wyoming"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Prickly_Pear_Cacti_P7180336.jpg">
 
 # 
 "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word *garden*" (Depestre 197). 
@@ -359,22 +373,6 @@ Silk Cotton Tree
        description="White silk cotton tree (cabbage wood) in lal bagh garden, Bangalore, India"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
-
-
-
-# 
-Cactus Pear
-<param ve-image
-       label="Prickly Pear (Cactus Opuntia) with male bay-winged Bunting by J.J. Audubon (1840)"
-       description="Allegedly Drawn from Nature by Audubon, from NY Public Library"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/7/71/Bay-winged_Bunting._Male._%28Prickly_Pear._Cactus_Opuntia.%29_%28NYPL_b13559627-108418%29.tiff">
-# Cactus Pear
-<param ve-image
-       label="Prickly Pear Cacti by Chris Light (2007)"
-       description="Prickly Pear Cacti at Fort Laramie Nat'l Historic Site, Wyoming"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Prickly_Pear_Cacti_P7180336.jpg">
 
 
 
