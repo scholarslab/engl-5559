@@ -24,7 +24,7 @@ In this visual essay, I will (un)catalog Hadriana's father's garden by visualizi
              
        
 # Appropriation and Categorization of Plant Knowledge: Plant problems are human problems
-Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
+Carl Linnaeus, the founder of European botanical taxonomies, "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
 
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
@@ -47,6 +47,16 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         description="Cyathea dregei--Andrew Massyn"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
+ 
+       
+ # 
+Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13). Depestre acknowledges this Edenic setting, when the character Balthazar projects "in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41). 
+
+<param ve-image
+       label="Thomas Cole's The Garden of Eden (1828)"
+       description="Caribbean Spaces as Edenic to Colonizers"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
  
  # Removal from Natural Environment
 It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
@@ -92,15 +102,7 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
        description="Kannavam Reserve Forest and Peravoor"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">   
-       
- # 
-Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13). Depestre acknowledges this Edenic setting, when the character Balthazar projects "in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
-
-<param ve-image
-       label="Thomas Cole's The Garden of Eden (1828)"
-       description="Caribbean Spaces as Edenic to Colonizers"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
+ 
        
  # Plants transform Human Bodies
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
