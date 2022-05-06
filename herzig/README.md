@@ -406,12 +406,11 @@ Silk Cotton Tree
 
 
 
-# 
-Breaknail
+# Amazing Glitches in the Garden
+## Breaknail
 This plant is listed, but I cannot find any record of it existing as a real plant.
 
-# 
-Mountain Blueberry
+## Mountain Blueberry
 This naming is inherently a creolization, since there is no mountain blueberry, but a mountain laurel from the blueberry family.
 <param ve-image
        label="Mountain Laurel by the Pennsylvania Department of Forestry (1901)"
