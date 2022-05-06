@@ -251,9 +251,9 @@ With its hundreds of species, our garden was a sort of botanical feast--as repre
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mimosa_nuttallii.jpg">
 
-# Garden as Ornamental Spectacle
-In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176)
-This is a completely different implication, the literal French translation means "of the forest of ornamental plants." Ornamental plants purely for the point of spectacle were key features of colonial botany, and futher reveals Hadriana's father's creation of a garden as inseparable from a colonial project.
+# 
+In the French, however, instead of "most well-manicured garden," it reads "de la forêt des plantes ornementales" (Depestre 176)
+This is a completely different implication, as the literal French translation means "of the forest of ornamental plants." 
 
 <param ve-image
        label="A Tropical Landscape by Jean Nieuhoff (1618-1672)"
@@ -266,6 +266,20 @@ This is a completely different implication, the literal French translation means
        description="Alappuzha, Kerala, India"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b3/CoconutTree2.JPG">
+       
+#
+Ornamental plants purely for the point of spectacle were key features of colonial botany, and futher reveals Hadriana's father's creation of a garden as inseparable from a colonial project.
+<param ve-image
+       label="Blackberries and Magnolia Grandiflora by Ellen Fisher (1861-1897)"
+       description="Chromolithographs; Still life prints; Proofs from the Boston Public Library"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Magnolia_Grandiflora_detail_from_Blackberries_and_Magnolia_Grandiflora_%28Boston_Public_Library%29_%28cropped%29.jpg">
+# Magnolia
+<param ve-image
+       label="Magnolia Tree Blooming in Prospect Park by Allison Meier (2019)"
+       description="Between the Lake and the Peristyle in Prospect Park"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/12/Magnolia_Tree_Blooming_in_Prospect_Park.jpg">
 
 # Garden as Creole Space
 Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. Hadriana purposefully uses common names as much as possible for the naming of the plants, and sometimes even mixes the scientific and vernacular names, but always situating the common name as primary. 
@@ -362,19 +376,7 @@ Cactus Pear
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Prickly_Pear_Cacti_P7180336.jpg">
 
-# 
-Magnolia
-<param ve-image
-       label="Blackberries and Magnolia Grandiflora by Ellen Fisher (1861-1897)"
-       description="Chromolithographs; Still life prints; Proofs from the Boston Public Library"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/28/Magnolia_Grandiflora_detail_from_Blackberries_and_Magnolia_Grandiflora_%28Boston_Public_Library%29_%28cropped%29.jpg">
-# Magnolia
-<param ve-image
-       label="Magnolia Tree Blooming in Prospect Park by Allison Meier (2019)"
-       description="Between the Lake and the Peristyle in Prospect Park"
-       license="Creative Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/12/Magnolia_Tree_Blooming_in_Prospect_Park.jpg">
+
 
 # 
 Breaknail
