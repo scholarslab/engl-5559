@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Unmapping Botanical Knowledge in Caribbean Science Fiction" 
+       title="Unmapping Botanical Knowledge in René Depestre's *Hadriana in All My Dreams*" 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Phipps_Conservatory_Sunken_Garden_fall_2015.jpg" 
        layout="vertical">
      
@@ -15,7 +15,7 @@
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg">
 
 # 
-In this visual essay, I will (un)catalog Hadriana's father's garden by visualizing each of the plants listed with a colonial print indicating the imperialist imagination of nature as removed in contrast with a twenty-first century photograph that will illustrate how the plants look in real life. I will begin by giving background into how botanical science is historically rooted in racial hierarchies of colonialism, transitioning to the plants themselves, and culminating by considering Hadriana's reimagination of her father's garden as a creole space.
+In this visual essay, I will (un)catalog Hadriana's father's garden by visualizing each of the plants listed firstly with a colonial print, which indicates the imperialist imagination of plants as separate from their natural environment, thus rationalizing their extraction and appropriation. I will subsequently provide a twenty-first century photograph that will contrast how the plants look in real life (this can be accessed by clicking on the secondary image for each slide). I will begin by providing background into how botanical science is historically rooted in racial hierarchies of colonialism, transitioning to the plants themselves, and culminating by considering Hadriana's reimagination of her father's garden as a creole space.
 <param ve-image
        label="Ritsurin Garden, Japan by Sei F (2019)"
        description="Takamatsu, Kawaga Prefecture"
@@ -48,10 +48,9 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
         
- # Caribbean as Eden Trope
-In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
-Playing on the trope of Caribbean as Eden
-Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13).
+ # 
+Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13). Depestre acknowledges this Edenic setting, when the character Balthazar projects "in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
+
 <param ve-image
        label="Thomas Cole's The Garden of Eden (1828)"
        description="Caribbean Spaces as Edenic to Colonizers"
