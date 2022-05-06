@@ -14,19 +14,6 @@
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg">
 
-#
-Sea Grapes
-<param ve-image
-       label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
-       description="Fruits of the West Indies by Lydia Byam"
-       license="Creative Commmons Attribution"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
-# Sea Grapes
-<param ve-image
-       label="Sea Grape by Melissa McMasters (2012)"
-       description="In Memphis, TN"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
 
 # Plant Time is Not Human Time
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
@@ -101,19 +88,6 @@ Dwarf Palm
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Manila_dwarf_coconut_palm.jpg">
        
-# 
-Wild Plantain
-<param ve-image
-       label="Anne Pratt's Ribwort Plantain (1857)"
-       description="Wild Plantain"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
-# Ribwort Plantain in Real Life
-<param ve-image
-       label="Plantago lanceolata (Ribwort Plantain) by Luis Fernández García (2014)"
-       description="In Losar de la Vera, Spain"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Plantago_lanceolata_20140416a.jpg">
 
 # 
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
@@ -312,6 +286,36 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        description="from the Stephen A. Schwarzman Building / Photography Collection, Miriam and Ira D. Wallach Division of Art, Prints and Photographs"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
+
+# 
+Wild Plantain
+<param ve-image
+       label="Anne Pratt's Ribwort Plantain (1857)"
+       description="Wild Plantain"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
+# Ribwort Plantain in Real Life
+<param ve-image
+       label="Plantago lanceolata (Ribwort Plantain) by Luis Fernández García (2014)"
+       description="In Losar de la Vera, Spain"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Plantago_lanceolata_20140416a.jpg">
+
+
+#
+Sea Grapes
+<param ve-image
+       label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
+       description="Fruits of the West Indies by Lydia Byam"
+       license="Creative Commmons Attribution"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
+# Sea Grapes
+<param ve-image
+       label="Sea Grape by Melissa McMasters (2012)"
+       description="In Memphis, TN"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
+
 
 #
 Silk Cotton Tree 
