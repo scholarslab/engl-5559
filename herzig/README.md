@@ -20,7 +20,7 @@
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
 
-# Plants are the Future
+# Plant Time is Not Human Time
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
 
 <param ve-image
@@ -28,9 +28,8 @@ Planting a  garden is very much imagining something that's not there...You're pu
        description="Flora Clock, Palmeira Square"
        license="public domain"
             url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
-            
-## Plant Time is not Human Time
-
+    
+#
 "To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
 and strive in time frames that often evade humans" (Forbes 49).
 
