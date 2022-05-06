@@ -157,7 +157,7 @@ In an embodiement of this philosophy, this advertisement for cigarettes from the
 
 # Breadfruit
 
-Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
+Breadfruit, a plant specifically mentioned in Hadriana's father's garden, futher reveals the connections to colonial domination. Breadfruit is a plant specifically tied to the slave trade, as Juliane Braun traces how British colonizers marketed breadfruit as inexpensive food for slaves but then how later American officials  "cast the plant as a quintessentially democratic crop, only later to revert to familiar British positions of propogating breadruit as an ideal plantation staple" (644).
 
 <param ve-image
        label="Breadfruit (Artocarpus altilis) by M.A. Burnett; Gilbert Thomas Burnett (1853)"
