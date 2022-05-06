@@ -57,6 +57,13 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+ #
+ 
+ <param ve-image
+        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
+        description="Cyathea dregei--Andrew Massyn"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
         
  # Caribbean as Eden Trope
 In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
@@ -68,16 +75,7 @@ Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
        
- # 
- Tree Ferns
- <param ve-image
-        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
-        description="Cyathea dregei--Andrew Massyn"
-        license="PD"
-        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
-
-
-              
+             
        
 # Flora from all over the Caribbean
 "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
