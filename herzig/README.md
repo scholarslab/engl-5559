@@ -222,7 +222,7 @@ This purloining of plants reflects typical colonial attitudes of taking plants f
 
 
 # Botanical Feast
-"All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
+"All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night (Depestre 197).
 
 
 <param ve-image
@@ -236,6 +236,20 @@ This purloining of plants reflects typical colonial attitudes of taking plants f
        description="Plant Image Library, Boston MA"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dirca_occidentalis_%28Western_Leatherwood%29_%2833862595652%29.jpg">
+
+#
+With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
+<param ve-image
+       label="Mimosa myrtifolia (Mimosa) by James Sowerby (1793)"
+       description="From the book *A specimen of the botany of New Holland*"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Mimosa_myrtifolia_%28Sowerby%29.jpg">
+# Mimosa
+<param ve-image
+       label="Mimosa nuttallii by Eric Hunt (2016)"
+       description="Faulkner County, Arkansas"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mimosa_nuttallii.jpg">
 
 # Garden as Ornamental Spectacle
 In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176)
@@ -333,19 +347,6 @@ Silk Cotton Tree
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
 
 
-# 
-Mimosa Plant
-<param ve-image
-       label="Mimosa myrtifolia (Mimosa) by James Sowerby (1793)"
-       description="From the book *A specimen of the botany of New Holland*"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Mimosa_myrtifolia_%28Sowerby%29.jpg">
-# Mimosa
-<param ve-image
-       label="Mimosa nuttallii by Eric Hunt (2016)"
-       description="Faulkner County, Arkansas"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mimosa_nuttallii.jpg">
 
 # 
 Cactus Pear
