@@ -65,7 +65,23 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
        description="Description reads that this is a 'romatic evergreen tree or large shrub with green, glossy leaves, native to the Mediterranean region'"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
-       
+ 
+ 
+ # 
+Going so far as to remove the stems, tree, and any other indicators of an environmental context to solely acknowledge the literal fruits of the labor that benefit humans, this print descends from this legacy of colonial removal. The description refers to this scarlet plum as a specimin, furthering the purposeful dehumanization.
+
+<param ve-image
+       label="Scarlet Plum variety of red mombins (Spondias purpurea) in Miami by Deborah Griscom Passmore (1904)"
+       description="From U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD" 
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pomological_Watercolor_POM00007552.jpg">
+# Plum Tree
+<param ve-image
+       label="Plums on tree by Erin Silversmith (2005)"
+       description="Plum Tree"
+       license="GNU Free Documentation License"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5a/Plums_on_tree.jpg">
+ 
  # Connections to Antebellum South
 It is important to note that this these racial heirarchies linked to the stealing of indigenous knowledge are not unique to the Caribbean, and certainly did not escape the founding of the United States. 
 
@@ -94,6 +110,20 @@ S.M. Fett explains that "the colonization of the Americas initiated a global mov
        description="Guadeloupe National Park, a 'tropical landscape'"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Hibiscus_Guadeloupe.jpg">
+
+# 
+In an embodiement of this philosophy, this advertisement for cigarettes from the late nineteenth century illustrates the capitalistic commodification of plants, in this case, an ornamental avocado.
+<param ve-image
+       label="Avocado, from the Fruits series for Allen & Ginter Cigarettes Brands (1891)"
+       description="George S. Harris & Sons under Prints/Ephemera in the Metropolitan Museum of Art"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Avocado%2C_from_the_Fruits_series_%28N12%29_for_Allen_%26_Ginter_Cigarettes_Brands_MET_DP834605.jpg">
+# Avocado
+<param ve-image
+       label="Avocado Tree by Joachim Huber (2007)"
+       description="from Flickr"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/61/Avocado_Tree_%282473587957%29.jpg">
 
 # 
 "The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
@@ -451,20 +481,7 @@ Orange Tree
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/59/Orange-tree-1117423.jpg">
 
-# 
-Avocado
-Used for the capitalistic commodification of cigarette ads
-<param ve-image
-       label="Avocado, from the Fruits series for Allen & Ginter Cigarettes Brands (1891)"
-       description="George S. Harris & Sons under Prints/Ephemera in the Metropolitan Museum of Art"
-       license="Creative Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Avocado%2C_from_the_Fruits_series_%28N12%29_for_Allen_%26_Ginter_Cigarettes_Brands_MET_DP834605.jpg">
-# Avocado
-<param ve-image
-       label="Avocado Tree by Joachim Huber (2007)"
-       description="from Flickr"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/61/Avocado_Tree_%282473587957%29.jpg">
+
 
 
 # Breadfruit
@@ -483,20 +500,7 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
 
-# Scarlet Plum Tree
-Removed from their natural environment, going so far as to remove the stems, tree, etc. to only concentrate on the literal fruits of the labor, this print descends from the legacy of colonial removal, the description even refers to it as a specimin.
 
-<param ve-image
-       label="Scarlet Plum variety of red mombins (Spondias purpurea) in Miami by Deborah Griscom Passmore (1904)"
-       description="From U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD" 
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pomological_Watercolor_POM00007552.jpg">
-# Plum Tree
-<param ve-image
-       label="Plums on tree by Erin Silversmith (2005)"
-       description="Plum Tree"
-       license="GNU Free Documentation License"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/5a/Plums_on_tree.jpg">
 
 # 
 Tamarind
