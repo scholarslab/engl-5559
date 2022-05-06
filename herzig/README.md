@@ -573,6 +573,8 @@ and strive in time frames that often evade humans" (Forbes 49).
 
 "Black Timescapes, Time Travel + Temporal Displacement." Black Quantum Futurism, 14 Apr. 2020.
 
+Braun, Juliane. "Bioprospecting Breadfruit: Imperial Botany, Transoceanic Relations, and the Politics of Translation." Early American Literature, vol. 54, no. 3, 2019, pp. 634-71.
+
 Casid, Jill H. Sowing Empire: Lanscape and Colonization. Minneapolis, U of Minnesota P, 2005.
 
 Depestre, René. Hadriana Dans Tous Mes Rêves. Gallimard, 1988.
