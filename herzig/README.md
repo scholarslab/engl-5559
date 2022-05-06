@@ -2,7 +2,7 @@
 
 
 <param ve-config 
-       title="Unmapping Botanical Knowledge in René Depestre's Hadriana in All My Dreams; Visual Essay by Marissa Herzig" 
+       title="Unmapping Botanical Knowledge in René Depestre's Hadriana in All My Dreams--Marissa Herzig" 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Phipps_Conservatory_Sunken_Garden_fall_2015.jpg" 
        layout="vertical">
      
