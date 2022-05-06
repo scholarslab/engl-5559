@@ -51,8 +51,8 @@ Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
  
- # Removal from Natural Environment
-It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
+ # Removal from Natural Environment, the beginning an artificial Garden of Delight
+It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. The beginning of the un/de/recataloguing begins with this image.
 
 <param ve-image
        label="Laurus nobilis (Bay Laurels) by Franz Eugen Köhler (1887)"
