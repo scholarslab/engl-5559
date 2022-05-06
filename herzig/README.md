@@ -116,8 +116,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">             
        
 # Flora from all over the Caribbean
-The central garden in *Hadriana in All My Dreams* is not a local one, but rather an assemblage steming from Hadriana's father's occupation as French botanist. "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196). This purloining of plants reflects typical colonial attitudes of taking plants from colonized spaces for one's own garden. 
-
+The central garden in *Hadriana in All My Dreams* is not a local one, but rather an assemblage steming from Hadriana's father's occupation as French botanist. 
 <param ve-image
        label="Ravenea hildebrandtii from L'Illustration horticole: Gand, Belgium :Imprimerie et lithographie de F. et E. Gyselnyck (1854-1896)"
        description="Dwarf Palm--Biodiversity Heritage Library"
@@ -131,6 +130,21 @@ Dwarf Palm
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Manila_dwarf_coconut_palm.jpg">
        
+#
+This purloining of plants reflects typical colonial attitudes of taking plants from colonized spaces for one's own garden, as Hadriana rationalizes, "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196). 
+
+<param ve-image
+       label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
+       description="Fruits of the West Indies by Lydia Byam"
+       license="Creative Commmons Attribution"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
+# Sea Grapes
+<param ve-image
+       label="Sea Grape by Melissa McMasters (2012)"
+       description="In Memphis, TN"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
+
 
 # 
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
@@ -163,7 +177,7 @@ Dwarf Palm
        url="https://upload.wikimedia.org/wikipedia/commons/6/62/Annona_muricata_%28Soursop%29_-_tree_with_fruits.jpg">
        
 # 
-"from miracle leaf to wild plantain; not to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
+"from miracle leaf to wild plantain; not to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind"( Depestre 196-197).
 
 <param ve-image
        label="Burbank's Giant Hybrid Amaryllis for Child's Rare Flowers Catalog (1906)"
@@ -177,6 +191,20 @@ Dwarf Palm
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/45/Amaryllis_belladonna_kz03.jpg">
 
+# 
+ "and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197)
+ <param ve-image
+        label="Polyathea--Strange Forest Tree--Tree Fern (1869)"
+        description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+ #
+ 
+ <param ve-image
+        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
+        description="Cyathea dregei--Andrew Massyn"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
 
 
 # Botanical Feast
@@ -287,19 +315,6 @@ Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by
 
 
 
-#
-Sea Grapes
-<param ve-image
-       label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
-       description="Fruits of the West Indies by Lydia Byam"
-       license="Creative Commmons Attribution"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Byam_Sea-side_grape.jpg"># Plants in Time and Space
-# Sea Grapes
-<param ve-image
-       label="Sea Grape by Melissa McMasters (2012)"
-       description="In Memphis, TN"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
 
 
 #
@@ -317,20 +332,6 @@ Silk Cotton Tree
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
 
-# 
-Tree Ferns
- <param ve-image
-        label="Polyathea--Strange Forest Tree--Tree Fern (1869)"
-        description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
-        license="PD"
-        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
- #
- 
- <param ve-image
-        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
-        description="Cyathea dregei--Andrew Massyn"
-        license="PD"
-        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
 
 # 
 Mimosa Plant
