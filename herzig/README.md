@@ -458,7 +458,13 @@ Made to look small and insignificant compared to the squirrel, these trees are m
        description="From Oriental Memoirs; Drawn and Painted around Bombay around 1779"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg">
-       
+# Tamarind
+<param ve-image
+       label="Branches of a Tamarind tree by Kawishka Chathurya (2020)"
+       description="Captiion reads 'Tamarind (Tamarindus indica) is a leguminous tree (family Fabaceae) bearing edible fruit that is indigenous to tropical Africa'"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c1/Branches_of_a_Tamarind_tree.jpg">
+
 # Gumbo-Limbo
 Also known as the Bursera simaruba, this is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
 <param ve-image
@@ -466,7 +472,12 @@ Also known as the Bursera simaruba, this is apparently illustrated by two artist
        description="From The North American sylva; or, A description of the forest trees of the United States, Canada and Nova Scotia made possible by the University of Pittsburgh Library System"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d1/The_North_American_sylva%3B_or%2C_A_description_of_the_forest_trees_of_the_United_States%2C_Canada_and_Nova_Scotia._Considered_particularly_with_respect_to_their_use_in_the_arts_and_their_introduction_into_%2814780020474%29.jpg">
-       
+# Gumbo Limbo
+<param ve-image
+       label="Gumbo Limbo Tree by Yinan Chen (2013)"
+       license="Creative Commons Public Domain Dedication"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gfp-gumbo-limbo-tree.jpg">
+
 # Water Mampoo
 This is a specific type of Pisonia
 <param ve-image
