@@ -52,7 +52,7 @@ Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
  
  # Removal from Natural Environment, the beginning an artificial Garden of Delight
-It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. The beginning of the un/de/recataloguing begins with this image.
+Colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. The beginning of the un/de/recataloguing begins with this image.
 
 <param ve-image
        label="Laurus nobilis (Bay Laurels) by Franz Eugen Köhler (1887)"
@@ -65,6 +65,20 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
        description="Description reads that this is a 'romatic evergreen tree or large shrub with green, glossy leaves, native to the Mediterranean region'"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
+ 
+ #
+ It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. 
+<param ve-image
+       label="The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree by James Forbes (1812-1813)"
+       description="From Oriental Memoirs; Drawn and Painted around Bombay around 1779"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg">
+# Tamarind
+<param ve-image
+       label="Branches of a Tamarind tree by Kawishka Chathurya (2020)"
+       description="Captiion reads 'Tamarind (Tamarindus indica) is a leguminous tree (family Fabaceae) bearing edible fruit that is indigenous to tropical Africa'"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c1/Branches_of_a_Tamarind_tree.jpg">
  
  
  # 
@@ -493,22 +507,6 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        description="It is used as a dish in Dakshina Kannada Region according to the description"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
-
-
-
-# 
-Tamarind
-<param ve-image
-       label="The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree by James Forbes (1812-1813)"
-       description="From Oriental Memoirs; Drawn and Painted around Bombay around 1779"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b9/SquirrelTamarind.jpg">
-# Tamarind
-<param ve-image
-       label="Branches of a Tamarind tree by Kawishka Chathurya (2020)"
-       description="Captiion reads 'Tamarind (Tamarindus indica) is a leguminous tree (family Fabaceae) bearing edible fruit that is indigenous to tropical Africa'"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c1/Branches_of_a_Tamarind_tree.jpg">
 
 # 
 Gumbo Limbo (Bursera simaruba)'s first print is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
