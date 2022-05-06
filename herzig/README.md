@@ -67,7 +67,7 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
        url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
        
  # Connections to Antebellum South
-"the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (Fett 62-63)
+It is important to note that this these racial heirarchies linked to the stealing of indigenous knowledge are not unique to the Caribbean, and certainly did not escape the founding of the United States. S.M. Fett explains that "the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (62-63)
 
 <param ve-image
        label="Butterfly on a Guava Tree by Cornelis Markée (1763)"
