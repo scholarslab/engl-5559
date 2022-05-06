@@ -174,7 +174,6 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
  # Anxieties surrounding the Power of Plants
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant specifically located in her father's botanical garden.
 
-
 <param ve-image
        label="Citron Tree by Franz Eugen Köhler (1897)"
        description="Lemon Plant in Medicinal Plants Guide"
@@ -190,20 +189,35 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        
 #       
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
-"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
 
 <param ve-image
        label="Ceiba, or Silk Cotton Tree by Louis D. Powles (1888)"
        description="From *The Land of the Pink Pearl, or recollections of life in the Bahamas*"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
-
 # 
 <param ve-image
        label="White silk cotton tree by Sakthiarch (2016)"
        description="White silk cotton tree (cabbage wood) in lal bagh garden, Bangalore, India"
        license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">       
+       url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">   
+
+
+#
+"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
+
+<param ve-image
+       label="Lime Tree by William Delamotte (1835)"
+       description="British Museum Lithograph of a lime tree set in fields, with sheep surrounding and figures on the right" 
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Lime_%28BM_1850%2C0413.69%29.jpg">
+# Lime Tree
+<param ve-image
+       label="Lime Tree by Jagseer S. Sidhu (2019)"
+       description="In a home garden"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Lime_tree_in_Punjab.jpg">
+    
        
 # Flora from all over the Caribbean
 The central garden in *Hadriana in All My Dreams* is not a local one, but rather an assemblage steming from Hadriana's father's occupation as French botanist. 
@@ -464,21 +478,6 @@ Climbing Jasmine
        url="https://upload.wikimedia.org/wikipedia/commons/1/11/%27Jasminum_officinale%27_Fiona_Sunrise_or_Golden_Poet%27s_Jasmine_at_Nuthurst%2C_West_Sussex%2C_England.JPG">
 
       
-# 
-(Spanish) Lime
-<param ve-image
-       label="Lime Tree by William Delamotte (1835)"
-       description="British Museum Lithograph of a lime tree set in fields, with sheep surrounding and figures on the right" 
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Lime_%28BM_1850%2C0413.69%29.jpg">
-# Lime Tree
-<param ve-image
-       label="Lime Tree by Jagseer S. Sidhu (2019)"
-       description="In a home garden"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Lime_tree_in_Punjab.jpg">
-
-
 # 
 Gumbo Limbo (Bursera simaruba)'s first print is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
 <param ve-image
