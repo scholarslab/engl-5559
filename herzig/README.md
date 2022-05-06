@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Unmapping Botanical Knowledge in René Depestre's *Hadriana in All My Dreams*" 
+       title="Unmapping Botanical Knowledge in René Depestre's Hadriana in All My Dreams" 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Phipps_Conservatory_Sunken_Garden_fall_2015.jpg" 
        layout="vertical">
      
