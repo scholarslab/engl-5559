@@ -396,21 +396,32 @@ Encyclia vitellina is the lating name used to identify this print, but Hadriana 
        url="https://upload.wikimedia.org/wikipedia/commons/2/20/Orchid_3983.jpg">
        
 # Spanish Lime
-Is very particular, and obviously of a geographic region that is not native to Jacmel.
+Spanish descriptor further indicates that these plants are not native to Jacmel.
 <param ve-image
        label="Lime Tree by William Delamotte (1835)"
        description="British Museum Lithograph of a lime tree set in fields, with sheep surrounding and figures on the right" 
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Lime_%28BM_1850%2C0413.69%29.jpg">
-       
+# Lime Tree
+<param ve-image
+       label="Lime Tree by Jagseer S. Sidhu (2019)"
+       description="In a home garden"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/34/Lime_tree_in_Punjab.jpg">
+
 # Orange Tree
-Orange tree
 <param ve-image
        label="Orange branch bearing fruit from Merian's Drawings of Surinam Insects (1701-1705)"
        description="Commentary on this drawing is much more focused on the caterpillar and moth than the tree itself"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/59/Drawing%2C_album_%28BM_SL%2C5275.52%29.jpg">
-       
+# Orange Tree
+<param ve-image
+       label="Orange Tree by Hans Braxmeier (2015)"
+       description="Orange Gove"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Orange-tree-1117423.jpg">
+
 # Avocado Tree
 Avocados used for the capitalistic commodification of cigarette ads
 <param ve-image
