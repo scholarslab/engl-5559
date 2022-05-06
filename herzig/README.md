@@ -154,7 +154,23 @@ In an embodiement of this philosophy, this advertisement for cigarettes from the
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">   
  
-       
+
+# Breadfruit
+
+Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
+
+<param ve-image
+       label="Breadfruit (Artocarpus altilis) by M.A. Burnett; Gilbert Thomas Burnett (1853)"
+       description="Breadfruit: fruiting stem, leaf, fruit"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
+# Breadfruit
+<param ve-image
+       label="Breadfruit by Ashay (2019)"
+       description="It is used as a dish in Dakshina Kannada Region according to the description"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
+
  # Anxieties surrounding the Power of Plants
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant specifically located in her father's botanical garden.
 
@@ -447,20 +463,7 @@ Climbing Jasmine
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/1/11/%27Jasminum_officinale%27_Fiona_Sunrise_or_Golden_Poet%27s_Jasmine_at_Nuthurst%2C_West_Sussex%2C_England.JPG">
 
-# 
-Orchids 
-<param ve-image
-       label="Encyclia vitellina by Miss S.A. Drake (1838-1841)"
-       description="Hand-colored engraving originally from John Lindley's Sertum orchidaceum"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Encyclia_vitellina_RHS.jpeg">
-# Orchids in Real Life
-<param ve-image
-       label="Orchid (2018)"
-       description="By Ronincmc"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/20/Orchid_3983.jpg">
-       
+      
 # 
 (Spanish) Lime
 <param ve-image
@@ -475,38 +478,6 @@ Orchids
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Lime_tree_in_Punjab.jpg">
 
-# 
-Orange Tree
-<param ve-image
-       label="Orange branch bearing fruit from Merian's Drawings of Surinam Insects (1701-1705)"
-       description="Commentary on this drawing is much more focused on the caterpillar and moth than the tree itself"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Drawing%2C_album_%28BM_SL%2C5275.52%29.jpg">
-# Orange Tree
-<param ve-image
-       label="Orange Tree by Hans Braxmeier (2015)"
-       description="Orange Gove"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Orange-tree-1117423.jpg">
-
-
-
-
-# Breadfruit
-
-Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
-
-<param ve-image
-       label="Breadfruit (Artocarpus altilis) by M.A. Burnett; Gilbert Thomas Burnett (1853)"
-       description="Breadfruit: fruiting stem, leaf, fruit"
-       license="Creative Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
-# Breadfruit
-<param ve-image
-       label="Breadfruit by Ashay (2019)"
-       description="It is used as a dish in Dakshina Kannada Region according to the description"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
 
 # 
 Gumbo Limbo (Bursera simaruba)'s first print is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
@@ -569,24 +540,34 @@ Ram Goat/ Damania/Turnera aphrodisiaca
 
 # In Conclusion: What are the Provocations that Plants Propose?
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
-
+ 
 <param ve-image
-       label="Plants make Time"
-       description="Flora Clock, Palmeira Square"
-       license="public domain"
-            url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
+       label="Encyclia vitellina by Miss S.A. Drake (1838-1841)"
+       description="Hand-colored engraving originally from John Lindley's Sertum orchidaceum"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/83/Encyclia_vitellina_RHS.jpeg">
+# Orchids in Real Life
+<param ve-image
+       label="Orchid (2018)"
+       description="By Ronincmc"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/2/20/Orchid_3983.jpg">            
     
 #
 "To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
 and strive in time frames that often evade humans" (Forbes 49).
 
 <param ve-image
-       label="Time makes Plants"
-       description="Floral Clock, Edinburgh"
-       license="public domain"
-             url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
-                                           
-
+       label="Orange branch bearing fruit from Merian's Drawings of Surinam Insects (1701-1705)"
+       description="Commentary on this drawing is much more focused on the caterpillar and moth than the tree itself"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Drawing%2C_album_%28BM_SL%2C5275.52%29.jpg">
+# Orange Tree
+<param ve-image
+       label="Orange Tree by Hans Braxmeier (2015)"
+       description="Orange Gove"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/59/Orange-tree-1117423.jpg">
 
 # Bibliography
 
