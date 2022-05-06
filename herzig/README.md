@@ -2,11 +2,11 @@
 
 <param ve-config 
        title="Unmapping Botanical Knowledge in Caribbean Science Fiction" 
-       banner="Butterfly_Clock.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Phipps_Conservatory_Sunken_Garden_fall_2015.jpg" 
        layout="vertical">
      
 
-# Gardens Are Magic
+#
 "For me, the magic would always begin in the garden" (Depestre 196).
 <param ve-image
        label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
