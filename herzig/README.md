@@ -235,7 +235,7 @@ Dwarf Palm
        url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Manila_dwarf_coconut_palm.jpg">
        
 #
-This purloining of plants reflects typical colonial attitudes of taking plants from colonized spaces for one's own garden, as Hadriana rationalizes, "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196). 
+This purloining of plants reflects typical colonial attitudes of taking plants from colonized spaces for one's own garden. 
 
 <param ve-image
        label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
@@ -249,6 +249,20 @@ This purloining of plants reflects typical colonial attitudes of taking plants f
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea_grapes_%2825439058190%29.jpg">
 
+# 
+Hadriana rationalizes, "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196). 
+
+<param ve-image
+       label="Jasmine from Childs' rare flowers, vegetables, and fruits (1911) "
+       description="John Lewis Childs' catalog, Floral Park NY describes it as hardy, handsome, and graceful"
+       license="no copyright restrictions"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281911%29_%2820420947369%29.jpg">
+# Jasmine
+<param ve-image
+       label="Jasminum officinale' Fiona Sunrise or Golden Poet's Jasmine by Acabashi (2015)"
+       description="Nuthurst, West Sussex, England"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/11/%27Jasminum_officinale%27_Fiona_Sunrise_or_Golden_Poet%27s_Jasmine_at_Nuthurst%2C_West_Sussex%2C_England.JPG">
 
 # 
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
@@ -463,23 +477,10 @@ This naming is inherently a creolization, since there is no mountain blueberry, 
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/5/52/Mountain_Laurel_-_Kalmia_latifolia%2C_Mason_Neck_State_Park%2C_Mason_Neck%2C_Virginia%2C_May_20%2C_2020.jpg">
 
-# 
-Climbing Jasmine
-<param ve-image
-       label="Jasmine from Childs' rare flowers, vegetables, and fruits (1911) "
-       description="John Lewis Childs' catalog, Floral Park NY describes it as hardy, handsome, and graceful"
-       license="no copyright restrictions"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281911%29_%2820420947369%29.jpg">
-# Jasmine
-<param ve-image
-       label="Jasminum officinale' Fiona Sunrise or Golden Poet's Jasmine by Acabashi (2015)"
-       description="Nuthurst, West Sussex, England"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/11/%27Jasminum_officinale%27_Fiona_Sunrise_or_Golden_Poet%27s_Jasmine_at_Nuthurst%2C_West_Sussex%2C_England.JPG">
 
       
-# 
-Gumbo Limbo (Bursera simaruba)'s first print is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
+# Gumbo Limbo
+Gumbo Limbo, mainly only searchable with the scientific name, Bursera simaruba, is illustrated here in the first print by two artists and John Jay. John Jay, who became the U.S. Supreme Court's first chief justice, illustrates how botany shapes all spheres of politics.
 <param ve-image
        label="Bursera Gummifera by François André Michaux, Thomas Nuttall, and Jay J. Smith, (John Jay) (1865)"
        description="From The North American sylva; or, A description of the forest trees of the United States, Canada and Nova Scotia made possible by the University of Pittsburgh Library System"
@@ -491,8 +492,8 @@ Gumbo Limbo (Bursera simaruba)'s first print is apparently illustrated by two ar
        license="Creative Commons Public Domain Dedication"
        url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gfp-gumbo-limbo-tree.jpg">
 
-# 
-Water Mamapoo (a specific type of Pisonia)
+# Water Mampoo
+This plant is a a specific type of Pisonia, and difficult to find under this common, niche name.
 <param ve-image
        label="Two types of cultivated Pisonia by Pierre Joseph Depannemaeker (1885)"
        description="Chromolithographs with 'flowering and leafy shoots with separate numbered flower and fruit sections"
@@ -505,8 +506,8 @@ Water Mamapoo (a specific type of Pisonia)
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/7/78/Vostok_AKK_Pisonia.jpg">
 
-# 
-Ram Goat/ Damania/Turnera aphrodisiaca
+# Ram Goat
+Ram Goat is a common name of Damania, which is a common name of Turnera aphrodisiaca. An extremely rare plant, this naming illustrates a triple layering of botanical knowledge, and Hadriana's choice to use a common name is revelatory, as it completely ignores the pharmaceutical, practical, scientific qualities of the plant. Even the name Ram Goat is already a creolization of two separate beings.
 <param ve-image
        label="Archive of Pharmacy by the Deutscher Apotheker Verein (1882)"
        description="From the NY Botanical Garden and LuEster Mertz Library"
