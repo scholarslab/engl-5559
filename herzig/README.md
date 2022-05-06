@@ -40,17 +40,16 @@ and strive in time frames that often evade humans" (Forbes 49).
              url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
              
        
-# Treatment of Plants is inseparable from treatment of humans
+# Appropriation and Categorization of Plant Knowledge: Plant problems are human problems
 Carl Linnaeus "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
 
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
        description="Clock Encased in Totara Burr Tree Bark" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">
-       
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a1/Clock_and_clockcase_%28AM_1979.202-1%29.jpg">  
       
-# Appropriation of Plant Knowledge--Ferns of the Imagination
+# 
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
 
  <param ve-image
@@ -59,7 +58,6 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
  # Ferns in Reality
- Ferns in the physical, lived realm
  
  <param ve-image
         label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
@@ -70,7 +68,7 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
 <param title="Mimi Sheller" eid="Q6862191">
               
        
-# Botany as occupation
+# Flora from all over the Caribbean
 "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
 
 <param ve-image
@@ -78,16 +76,16 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
        description="Dwarf Palm--Biodiversity Heritage Library"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ravenea_hildebrandtii.jpg">
-# Dwarf Palm
+# 
+Dwarf Palm
 <param ve-image
        label="Manila Dwarf Coconut Palm by Scott Bauer (2005)"
        description="Tropical Agriculture Research Station, Puerto Rico"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Manila_dwarf_coconut_palm.jpg">
        
-# Botany
-This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is famous for.
-
+# 
+Wild Plantain
 <param ve-image
        label="Anne Pratt's Ribwort Plantain (1857)"
        description="Wild Plantain"
@@ -100,7 +98,7 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/9/94/Plantago_lanceolata_20140416a.jpg">
 
-# Sample of Every Species
+# 
 "Thus there was a sample of each and every species of flowering plant blossoming outside our house, from the most humble to the most spectacular" (Depestre 196) 
 <param ve-image
        label="Gerald Alan Abbott, Albert Schneider, and William Kerr Higley draw Cassia Cinnamon (1914)"
@@ -113,7 +111,10 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/6/64/Cinnamomum_verum_sey.jpg">
 
-# 37 Plants
+# 
+In this visual essay, I will (un)catalog Hadriana's father's garden by visualizing each of the plants listed there with a colonial print indicating the imperialist imagination of nature as removed in contrast with a twenty-first century photograph that will illustrate how the plants look in real life.
+
+#
 "from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
 
 <param ve-image
@@ -128,7 +129,7 @@ This calls back to Sir Hans Sloane and the Chelsea Physic Garden which he is fam
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/6/62/Annona_muricata_%28Soursop%29_-_tree_with_fruits.jpg">
        
-# My Companions
+# 
 "to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
 
 <param ve-image
@@ -189,7 +190,7 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/1/16/Guava_Tree_below_the_sky_01.jpg">
 
-# Enlightenment Taxonomies
+# 
 "The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
 
 <param ve-image
@@ -204,7 +205,7 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">
 
-# Flora of the Caribbean
+# Botanical Feast
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
 
 
@@ -251,7 +252,7 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
         license="CC"
         url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Ipomoea_hederacea_004.jpg">
 
-# Plants as Liberatory
+# 
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
 
 <param ve-image
@@ -281,7 +282,7 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/6/68/Rosebush.jpg">
 
-# Garden and the Imagination--the Scale of Plants
+# 
  The garden becomes a liberating space of creolization and "adolescent dreams" (Depestre 197). 
  <param ve-image
         label="Sabal palmetto by Adèle Riché (1819)"
@@ -310,7 +311,8 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
         
-# Mimosa Plant
+# 
+Mimosa Plant
 <param ve-image
        label="Mimosa myrtifolia (Mimosa) by James Sowerby (1793)"
        description="From the book *A specimen of the botany of New Holland*"
@@ -323,7 +325,8 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Mimosa_nuttallii.jpg">
 
-# Cactus Pear
+# 
+Cactus Pear
 <param ve-image
        label="Prickly Pear (Cactus Opuntia) with male bay-winged Bunting by J.J. Audubon (1840)"
        description="Allegedly Drawn from Nature by Audubon, from NY Public Library"
@@ -336,7 +339,8 @@ The silk cotton tree referenced in Hadriana's garden is also similar to the axis
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Prickly_Pear_Cacti_P7180336.jpg">
 
-# All Manner of Magnolia
+# 
+Magnolia
 <param ve-image
        label="Blackberries and Magnolia Grandiflora by Ellen Fisher (1861-1897)"
        description="Chromolithographs; Still life prints; Proofs from the Boston Public Library"
