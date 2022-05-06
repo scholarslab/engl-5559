@@ -143,8 +143,7 @@ In an embodiement of this philosophy, this advertisement for cigarettes from the
        
  # Anxieties surrounding the Power of Plants
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant specifically located in her father's botanical garden.
-"Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
-"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
+
 
 <param ve-image
        label="Citron Tree by Franz Eugen Köhler (1897)"
@@ -158,6 +157,23 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        label="Lemon Tree by Kilmaree (2016)"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">             
+       
+#       
+"Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
+"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
+
+<param ve-image
+       label="Ceiba, or Silk Cotton Tree by Louis D. Powles (1888)"
+       description="From *The Land of the Pink Pearl, or recollections of life in the Bahamas*"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
+
+# 
+<param ve-image
+       label="White silk cotton tree by Sakthiarch (2016)"
+       description="White silk cotton tree (cabbage wood) in lal bagh garden, Bangalore, India"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">       
        
 # Flora from all over the Caribbean
 The central garden in *Hadriana in All My Dreams* is not a local one, but rather an assemblage steming from Hadriana's father's occupation as French botanist. 
@@ -384,27 +400,6 @@ Hadriana purposefully uses common names as much as possible for the naming of th
        description="from the Stephen A. Schwarzman Building / Photography Collection, Miriam and Ira D. Wallach Division of Art, Prints and Photographs"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
-
-
-
-
-
-#
-Silk Cotton Tree 
-<param ve-image
-       label="Ceiba, or Silk Cotton Tree by Louis D. Powles (1888)"
-       description="From *The Land of the Pink Pearl, or recollections of life in the Bahamas*"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
-
-# 
-<param ve-image
-       label="White silk cotton tree by Sakthiarch (2016)"
-       description="White silk cotton tree (cabbage wood) in lal bagh garden, Bangalore, India"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
-
-
 
 # Amazing Glitches in the Garden
 ## Breaknail
