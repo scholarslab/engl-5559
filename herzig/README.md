@@ -97,8 +97,8 @@ It is important to note that this these racial heirarchies linked to the stealin
        url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">   
  
        
- # Plants transform Human Bodies
-This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
+ # Anxieties surrounding the Power of Plants
+This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant specifically located in her father's botanical garden.
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
 "A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
 
