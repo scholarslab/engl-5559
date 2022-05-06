@@ -429,7 +429,13 @@ Avocados used for the capitalistic commodification of cigarette ads
        description="George S. Harris & Sons under Prints/Ephemera in the Metropolitan Museum of Art"
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/8/83/Avocado%2C_from_the_Fruits_series_%28N12%29_for_Allen_%26_Ginter_Cigarettes_Brands_MET_DP834605.jpg">
-       
+# Avocado
+<param ve-image
+       label="Avocado Tree by Joachim Huber (2007)"
+       description="from Flickr"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/61/Avocado_Tree_%282473587957%29.jpg">
+
 # Scarlet Plum Tree
 Removed from their natural environment, going so far as to remove the stems, tree, etc. to only concentrate on the literal fruits of the labor, this print descends from the legacy of colonial removal, the description even refers to it as a specimin.
 
@@ -438,7 +444,13 @@ Removed from their natural environment, going so far as to remove the stems, tre
        description="From U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD" 
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Pomological_Watercolor_POM00007552.jpg">
-                                                                                                       
+# Plum Tree
+<param ve-image
+       label="Plums on tree by Erin Silversmith (2005)"
+       description="Plum Tree"
+       license="GNU Free Documentation License"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5a/Plums_on_tree.jpg">
+
 # Tamarind Tree
 Made to look small and insignificant compared to the squirrel, these trees are massive in their true physical form.
 <param ve-image
