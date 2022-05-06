@@ -47,7 +47,52 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         description="Cyathea dregei--Andrew Massyn"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
-        
+ 
+ # Removal from Natural Environment
+It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
+
+<param ve-image
+       label="Laurus nobilis (Bay Laurels) by Franz Eugen Köhler (1887)"
+       description="From the atlas of Köhler's Medicinal plants in realistic images"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurus_nobilis_%28K%C3%B6hler%29.jpg">
+ # Lauris Noblis
+<param ve-image
+       label="Laurus nobilis by Marija Gajic (2015)"
+       description="Description reads that this is a 'romatic evergreen tree or large shrub with green, glossy leaves, native to the Mediterranean region'"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
+       
+ # Connections to Antebellum South
+"the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (Fett 62-63)
+
+<param ve-image
+       label="Butterfly on a Guava Tree by Cornelis Markée (1763)"
+       description="A second type of caterpillar on the guava tree, caught on this tree so I'm told, turns into this beautiful butterfly"
+       license="Public Domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/KITLV_-_37A97_-_Mark%C3%A9e%2C_Cornelis_-_A_second_type_of_caterpillar_on_the_guava_tree%2C_caught_on_this_tree_so_i%27m_told%2C_turns_into_this_beautiful_butterfly-_-_Brush_drawing_-_Circa_1763.tif">
+# Guava
+<param ve-image
+       label="Guava Tree below the sky by Sabina Bajracharya (2020)"
+       description="Guava"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/16/Guava_Tree_below_the_sky_01.jpg">
+
+# 
+"The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
+
+<param ve-image
+       label="Bryophyllum pinnatum (Miracle Leaf) by José Carlos dos Reis Carvalho (1800-1872)"
+       description="Miracle Leaf from Brasiliana Iconográfica"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f9/%28Bryophyllum_pinnatum%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg">
+# Bryophyllum Pinnatum
+<param ve-image
+       label="Bryophyllum pinnatum at Peravoor by Vinayaraj (2017)"
+       description="Kannavam Reserve Forest and Peravoor"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">   
+       
  # 
 Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13). Depestre acknowledges this Edenic setting, when the character Balthazar projects "in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
 
@@ -57,7 +102,7 @@ Playing on the colonialist trope of Caribbean as Eden, Mimi Sheller explains how
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
        
- # Lemons in Hadriana
+ # Plants transform Human Bodies
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
 "A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
@@ -137,20 +182,8 @@ Dwarf Palm
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/45/Amaryllis_belladonna_kz03.jpg">
 
-# Removal from Natural Environment
-It is thus to the interest and benefit of colonial botanical projects of domination to purposefully remove plants from their natural environment. In other words, colonial imagery is an intentional project of time and space in which the illusion is that these plants exist outside time and space, when, in reality, they are inextricably rooted in colonial forms of domination. 
 
-<param ve-image
-       label="Laurus nobilis (Bay Laurels) by Franz Eugen Köhler (1887)"
-       description="From the atlas of Köhler's Medicinal plants in realistic images"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurus_nobilis_%28K%C3%B6hler%29.jpg">
-# Lauris Noblis
-<param ve-image
-       label="Laurus nobilis by Marija Gajic (2015)"
-       description="Description reads that this is a 'romatic evergreen tree or large shrub with green, glossy leaves, native to the Mediterranean region'"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
+
 
 # Breadfruit
 
@@ -168,35 +201,7 @@ Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
 
-# Connections to Antebellum South
-"the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (Fett 62-63)
 
-<param ve-image
-       label="Butterfly on a Guava Tree by Cornelis Markée (1763)"
-       description="A second type of caterpillar on the guava tree, caught on this tree so I'm told, turns into this beautiful butterfly"
-       license="Public Domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/KITLV_-_37A97_-_Mark%C3%A9e%2C_Cornelis_-_A_second_type_of_caterpillar_on_the_guava_tree%2C_caught_on_this_tree_so_i%27m_told%2C_turns_into_this_beautiful_butterfly-_-_Brush_drawing_-_Circa_1763.tif">
-# Guava
-<param ve-image
-       label="Guava Tree below the sky by Sabina Bajracharya (2020)"
-       description="Guava"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/16/Guava_Tree_below_the_sky_01.jpg">
-
-# 
-"The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
-
-<param ve-image
-       label="Bryophyllum pinnatum (Miracle Leaf) by José Carlos dos Reis Carvalho (1800-1872)"
-       description="Miracle Leaf from Brasiliana Iconográfica"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f9/%28Bryophyllum_pinnatum%29%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg">
-# Bryophyllum Pinnatum
-<param ve-image
-       label="Bryophyllum pinnatum at Peravoor by Vinayaraj (2017)"
-       description="Kannavam Reserve Forest and Peravoor"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bryophyllum_pinnatum_at_Peravoor_%282%29.jpg">
 
 # Botanical Feast
 "All the flora of the Caribbean imaginary was in my sight and within my reach, leaving me susceptible to their intoxicating fragrances from morning till night. With its hundreds of species, our garden was a sort of botanical feast--as representative of the coast of the mountains, the wildest forest as of the tamest, most well-manicured garden" (Depestre 197).
