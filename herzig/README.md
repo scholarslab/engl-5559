@@ -374,6 +374,12 @@ Interestingly not portrayed as climbing, but rather as "hardy," "handsome," and 
        description="John Lewis Childs' catalog, Floral Park NY"
        license="no copyright restrictions"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281911%29_%2820420947369%29.jpg">
+# Jasmine
+<param ve-image
+       label="Jasminum officinale' Fiona Sunrise or Golden Poet's Jasmine by Acabashi (2015)"
+       description="Nuthurst, West Sussex, England"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/11/%27Jasminum_officinale%27_Fiona_Sunrise_or_Golden_Poet%27s_Jasmine_at_Nuthurst%2C_West_Sussex%2C_England.JPG">
 
 # Orchids
 Encyclia vitellina is the lating name used to identify this print, but Hadriana tends to use more common, vernacular names.
