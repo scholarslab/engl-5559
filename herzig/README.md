@@ -507,13 +507,18 @@ Known under many names, this is for a pharmaceutical part of a botanical garden,
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Turnera_diffusa_var._aphrodisiaca_001.JPG">
 
 # Hibiscus
-Hibiscus flowers
 <param ve-image
        label="Flower Hibiscus Rosa Linensis from Familiar Indian Flowers by Lena Lowis (1878)"
        description="Familiar Indian Flowers with Colored Plates"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/d/de/Flower-hibiscus-rosa-linensis.png">
-        
+# Hibiscus    
+<param ve-image
+       label="Hibiscus Guadeloupe by Kevin Charpentier (2018)"
+       description="Guadeloupe National Park, a 'tropical landscape'"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Hibiscus_Guadeloupe.jpg">
+       
  ## Lemons in Hadriana
 This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
 "Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
@@ -526,6 +531,11 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
 <param title="René Depestre" eid="Q59581">
 <param title="zombie" eid="Q9406">
+# Lemon Tree
+<param ve-image
+       label="Lemon Tree by Kilmaree (2016)"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">
 
 # Caribbean as Eden Trope
 In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
