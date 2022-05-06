@@ -305,14 +305,14 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
 
-## Silk Cotton Tree
-The silk cotton tree referenced in Hadriana's garden is also similar to the axis mundi that controls time travel in Marcia Douglas' *The Marvelous Equations of the Dread*
+#
+Silk Cotton Tree 
 <param ve-image
        label="Ceiba, or Silk Cotton Tree by Louis D. Powles (1888)"
        description="From *The Land of the Pink Pearl, or recollections of life in the Bahamas*"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Ceiba%2C_or_silk_cotton_tree.jpg">
-<param title="Marcia Douglas" eid="Q54999406">
+
 # Silk Cotton Tree
 <param ve-image
        label="White silk cotton tree by Sakthiarch (2016)"
@@ -362,10 +362,12 @@ Magnolia
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/1/12/Magnolia_Tree_Blooming_in_Prospect_Park.jpg">
 
-# Breaknail
+# 
+Breaknail
 This plant is listed, but I cannot find any record of it existing as a real plant.
 
-# Mountain Blueberry
+# 
+Mountain Blueberry
 This naming is inherently a creolization, since there is no mountain blueberry, but a mountain laurel from the blueberry family.
 <param ve-image
        label="Mountain Laurel by the Pennsylvania Department of Forestry (1901)"
@@ -379,11 +381,11 @@ This naming is inherently a creolization, since there is no mountain blueberry, 
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/5/52/Mountain_Laurel_-_Kalmia_latifolia%2C_Mason_Neck_State_Park%2C_Mason_Neck%2C_Virginia%2C_May_20%2C_2020.jpg">
 
-# Climbing Jasmine
-Interestingly not portrayed as climbing, but rather as "hardy," "handsome," and "graceful."
+# 
+Climbing Jasmine
 <param ve-image
        label="Jasmine from Childs' rare flowers, vegetables, and fruits (1911) "
-       description="John Lewis Childs' catalog, Floral Park NY"
+       description="John Lewis Childs' catalog, Floral Park NY describes it as hardy, handsome, and graceful"
        license="no copyright restrictions"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281911%29_%2820420947369%29.jpg">
 # Jasmine
