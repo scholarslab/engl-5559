@@ -479,7 +479,7 @@ This naming is inherently a creolization, since there is no mountain blueberry, 
 
 
       
-# Gumbo Limbo
+## Gumbo Limbo
 Gumbo Limbo, mainly only searchable with the scientific name, Bursera simaruba, is illustrated here in the first print by two artists and John Jay. John Jay, who became the U.S. Supreme Court's first chief justice, illustrates how botany shapes all spheres of politics.
 <param ve-image
        label="Bursera Gummifera by François André Michaux, Thomas Nuttall, and Jay J. Smith, (John Jay) (1865)"
@@ -492,7 +492,7 @@ Gumbo Limbo, mainly only searchable with the scientific name, Bursera simaruba, 
        license="Creative Commons Public Domain Dedication"
        url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gfp-gumbo-limbo-tree.jpg">
 
-# Water Mampoo
+## Water Mampoo
 This plant is a a specific type of Pisonia, and difficult to find under this common, niche name.
 <param ve-image
        label="Two types of cultivated Pisonia by Pierre Joseph Depannemaeker (1885)"
@@ -506,7 +506,7 @@ This plant is a a specific type of Pisonia, and difficult to find under this com
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/7/78/Vostok_AKK_Pisonia.jpg">
 
-# Ram Goat
+## Ram Goat
 Ram Goat is a common name of Damania, which is a common name of Turnera aphrodisiaca. An extremely rare plant, this naming illustrates a triple layering of botanical knowledge, and Hadriana's choice to use a common name is revelatory, as it completely ignores the pharmaceutical, practical, scientific qualities of the plant. Even the name Ram Goat is already a creolization of two separate beings.
 <param ve-image
        label="Archive of Pharmacy by the Deutscher Apotheker Verein (1882)"
