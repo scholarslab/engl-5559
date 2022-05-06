@@ -57,6 +57,17 @@ Carl Linnaeus "not only categorized plants but also animals and within the gener
         description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+        
+ # Caribbean as Eden Trope
+In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
+Playing on the trope of Caribbean as Eden
+Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13).
+<param ve-image
+       label="Thomas Cole's The Garden of Eden (1828)"
+       description="Caribbean Spaces as Edenic to Colonizers"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
+       
  # Ferns in Reality
  
  <param ve-image
@@ -540,30 +551,35 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">
 
-# Caribbean as Eden Trope
-In Jacmel Balthazar "let her see in a dream the space between purgatory and Eden, a bay whose beauty resembled the area carved out by the Caribbean Sea in the Jacmelian coastline" (Depestre 41).
-Playing on the trope of Caribbean as Eden
-Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of Eden in which visitors can indulge all their desires and ﬁnd a haven for relaxation, rejuvenation, and sensuous abandon (13).
-<param ve-image
-       label="Thomas Cole's The Garden of Eden (1828)"
-       description="Caribbean Spaces as Edenic to Colonizers"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
+
                                            
 
 
 # Bibliography
+
 "Black Timescapes, Time Travel + Temporal Displacement." Black Quantum Futurism, 14 Apr. 2020.
+
 Casid, Jill H. Sowing Empire: Lanscape and Colonization. Minneapolis, U of Minnesota P, 2005.
+
 Depestre, René. Hadriana Dans Tous Mes Rêves. Gallimard, 1988.
+
 Depestre, Rene. Hadriana in All My Dreams. Translated by Kaiama L. Glover, London, Jacaranda Books Art Music, 2020.
+
 Douglas, Marcia. The Marvellous Equations of the Dread: A Novel in Bass Riddim. New York City, New Directions, 2018.
+
 Fett, S.M. "Sacred Plants." Working Cures: Healing, Health, and Power on Southern Slave Plantations, U of North Carolina P, 2002, pp. 60-83.
+
 Forbes, Erin E. "Vegetative Politics from Crèvecoeur to Hawthorne." J19: The Journal of Nineteenth-Century Americanists, vol. 8 no. 1, 2020, pp. 43-66. Project MUSE, doi:10.1353/jnc.2020.0009.
+
 Gay, Ross. "Wild Love: Ross Gay on the connections between gardening and poetry." Interview by Kyla Marshell. Poetry Foundation, 27 Oct. 2015.
+
 Leigh Goffe, Tao. "Unmapping the Caribbean: Toward a Digital Praxis of Archapelagic Sounding." Archipelagos, no. 5, 2020, archipelagosjournal.org/issue05/goffe-unmapping.html.
 Mann, Adam. "What is space-time?" Live Science, 20 May 2021.
+
 Phillips, Rasheedah. "Placing Time, Timing Space: Dismantling the Master's Map and Clock." The Funambulist, 5 July 2018.
+
 Posmentier, Sonya. Cultivation and Catastrophe: The Lyric Ecology of Modern Black Literature. Baltimore, Johns Hopkins UP, 2017.
+
 Sheller, Mimi. Consuming the Caribbean: From Arawaks to Zombies. Taylor and Francis Group, 2003. ProQuest Ebook Central.
+
 Vice, Sue. "The chronotope: fleshing out time." Introducing Bakhtin, Manchester UP, 1997, pp. 200-29.
