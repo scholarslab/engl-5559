@@ -24,7 +24,7 @@ In this visual essay, I will (un)catalog Hadriana's father's garden by visualizi
              
        
 # Appropriation and Categorization of Plant Knowledge: Plant problems are human problems
-Carl Linnaeus, the founder of European botanical taxonomies, "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Casid 3). 
+Carl Linnaeus, the founder of European botanical taxonomies, "not only categorized plants but also animals and within the general category of animal, 'homo sapiens'…not merely of 'type' but also of value, breaking down the unit 'homo' into not just Homo Sapins and Homo monstrous but six varieties: wild man, American, European, Asiatic, African, and monsters including 'man-made ones'"(Jill Casid 3). 
 
 <param ve-image 
        label="Clock Encased in Totara Burr Tree Bark" 
@@ -34,19 +34,12 @@ Carl Linnaeus, the founder of European botanical taxonomies, "not only categoriz
       
 # 
  "In fact in collecting plants, Sloane and other European collectors depended on the local knowledge of both aboriginal peoples and African slaves who passed on information on the speciﬁc medical uses of exotic plants unknown to Europeans" (Mimi Sheller 17)
+<param ve-image
+       label="Trebah Gardens by Rod Allday (2011)"
+       description="Mawan, UK"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/06/Trebah_Gardens_-_geograph.org.uk_-_2354987.jpg">
 
- <param ve-image
-        label="Polyathea--Strange Forest Tree--Tree Fern (1869)"
-        description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
-        license="PD"
-        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
- #
- 
- <param ve-image
-        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
-        description="Cyathea dregei--Andrew Massyn"
-        license="PD"
-        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
  
        
  # 
@@ -322,7 +315,20 @@ Silk Cotton Tree
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/White_silk_cotton_tree.jpg">
 
-
+# 
+Tree Ferns
+ <param ve-image
+        label="Polyathea--Strange Forest Tree--Tree Fern (1869)"
+        description="Malay Archipelago Remarkable Forest--drawn on wood by Fitch"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Malay_Archipelago_Remarkable_Forest-trees.jpg">
+ #
+ 
+ <param ve-image
+        label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
+        description="Cyathea dregei--Andrew Massyn"
+        license="PD"
+        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
 
 # 
 Mimosa Plant
