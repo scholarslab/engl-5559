@@ -14,6 +14,8 @@
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg">
 
+# 
+In this visual essay, I will (un)catalog Hadriana's father's garden by visualizing each of the plants listed with a colonial print indicating the imperialist imagination of nature as removed in contrast with a twenty-first century photograph that will illustrate how the plants look in real life. I will begin by giving background into how botanical science is historically rooted in racial hierarchies of colonialism, transitioning to the plants themselves, and culminating by considering Hadriana's reimagination of her father's garden as a creole space.
 
 # Plant Time is Not Human Time
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
@@ -102,8 +104,7 @@ Dwarf Palm
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/6/64/Cinnamomum_verum_sey.jpg">
 
-# 
-In this visual essay, I will (un)catalog Hadriana's father's garden by visualizing each of the plants listed there with a colonial print indicating the imperialist imagination of nature as removed in contrast with a twenty-first century photograph that will illustrate how the plants look in real life.
+
 
 #
 "from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
