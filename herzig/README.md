@@ -21,25 +21,6 @@ In this visual essay, I will (un)catalog Hadriana's father's garden by visualizi
        description="Takamatsu, Kawaga Prefecture"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ritsurin_Garden%2C_Kagawa_Prefecture%3B_November_2019_%2804%29.jpg">
-
-# Plant Time is Not Human Time
-Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
-
-<param ve-image
-       label="Plants make Time"
-       description="Flora Clock, Palmeira Square"
-       license="public domain"
-            url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
-    
-#
-"To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
-and strive in time frames that often evade humans" (Forbes 49).
-
-<param ve-image
-       label="Time makes Plants"
-       description="Floral Clock, Edinburgh"
-       license="public domain"
-             url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
              
        
 # Appropriation and Categorization of Plant Knowledge: Plant problems are human problems
@@ -77,7 +58,23 @@ Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
        
-             
+ # Lemons in Hadriana
+This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
+"Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
+"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166).
+
+<param ve-image
+       label="Citron Tree by Franz Eugen Köhler (1897)"
+       description="Lemon Plant in Medicinal Plants Guide"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
+<param title="René Depestre" eid="Q59581">
+<param title="zombie" eid="Q9406">
+# Lemon Tree
+<param ve-image
+       label="Lemon Tree by Kilmaree (2016)"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">             
        
 # Flora from all over the Caribbean
 "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
@@ -556,25 +553,27 @@ Hibiscus
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Hibiscus_Guadeloupe.jpg">
        
- ## Lemons in Hadriana
-This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is transformed into a zombie by lemons--a plant found in her father's botanical garden.
-"Truth be told, my false death had begun half an hour before I cried out in the church" (Depestre 165).
-"A pitcher of lemonade awaited me on the oak dresser, plain as day. I poured myself a tumbler-full, then a second, then a third, drinking each glass to the very last drop until my thirst was entirely quenched. In the heat of that nuptial oven, the cool lemonade was intoxicating" (Depestre 165-166)!
+
+
+
+# In Conclusion: What are the Provocations that Plants Propose?
+Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
 
 <param ve-image
-       label="Citron Tree by Franz Eugen Köhler (1897)"
-       description="Lemon Plant in Medicinal Plants Guide"
+       label="Plants make Time"
+       description="Flora Clock, Palmeira Square"
        license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg">
-<param title="René Depestre" eid="Q59581">
-<param title="zombie" eid="Q9406">
-# Lemon Tree
+            url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Floral_Clock%2C_Palmeira_Square%2C_Hove_%28May_2019%29.JPG">
+    
+#
+"To human observers, plants’ temporalities appear out of sync, simultaneously fresh and primordial..plants live, move, 
+and strive in time frames that often evade humans" (Forbes 49).
+
 <param ve-image
-       label="Lemon Tree by Kilmaree (2016)"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">
-
-
+       label="Time makes Plants"
+       description="Floral Clock, Edinburgh"
+       license="public domain"
+             url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Floral_Clock%2C_Edinburgh%2C_Scotland_%2850143175336%29.jpg">
                                            
 
 
