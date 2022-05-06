@@ -68,15 +68,15 @@ Mimi Sheller explains how the Caribbean "is represented as a perpetual Garden of
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Thomas_Cole_-_The_Garden_of_Eden_%281828%29.jpg">
        
- # Ferns in Reality
- 
+ # 
+ Tree Ferns
  <param ve-image
         label="Tree Ferns Kirstenbosch Gardens Cape Town (2007)"
         description="Cyathea dregei--Andrew Massyn"
         license="PD"
         url="https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_fern_2.jpg">
 
-<param title="Mimi Sheller" eid="Q6862191">
+
               
        
 # Flora from all over the Caribbean
