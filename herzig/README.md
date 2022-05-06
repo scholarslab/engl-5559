@@ -67,7 +67,7 @@ It is thus to the interest and benefit of colonial botanical projects of dominat
        url="https://upload.wikimedia.org/wikipedia/commons/3/38/Laurus_nobilis_%283%29.JPG">
        
  # Connections to Antebellum South
-It is important to note that this these racial heirarchies linked to the stealing of indigenous knowledge are not unique to the Caribbean, and certainly did not escape the founding of the United States. S.M. Fett explains that "the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (62-63)
+It is important to note that this these racial heirarchies linked to the stealing of indigenous knowledge are not unique to the Caribbean, and certainly did not escape the founding of the United States. 
 
 <param ve-image
        label="Butterfly on a Guava Tree by Cornelis Markée (1763)"
@@ -80,6 +80,20 @@ It is important to note that this these racial heirarchies linked to the stealin
        description="Guava"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/1/16/Guava_Tree_below_the_sky_01.jpg">
+
+# 
+S.M. Fett explains that "the colonization of the Americas initiated a global movement of plants as well as of peoples and diseases. Early European colonists set out to document and collect new plant species from the Americas, hoping to find new commodities and make their American colonies less dependent on European medicines" (62-63)
+<param ve-image
+       label="Flower Hibiscus Rosa Linensis from Familiar Indian Flowers by Lena Lowis (1878)"
+       description="Familiar Indian Flowers with Colored Plates"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/de/Flower-hibiscus-rosa-linensis.png">
+# Hibiscus    
+<param ve-image
+       label="Hibiscus Guadeloupe by Kevin Charpentier (2018)"
+       description="Guadeloupe National Park, a 'tropical landscape'"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Hibiscus_Guadeloupe.jpg">
 
 # 
 "The Enlightenment project of European botanical classification emerged in part from the collection of exotic plants that accompanied colonization of Native American lands and the forced transportation of Africans to plantation labor" (Fett 63).
@@ -284,20 +298,6 @@ Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Bougainvillea_flowers_in_Athens.jpg">
 
-# Garden Collapses Time and Space
-"Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
- 
-<param ve-image
-       label="Rosebushes by Isaac Watts (1869)"
-       description="19th Century Rose Bush Drawing"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Vintage_Rose_Bush_Drawing.jpg">
-# Rosebush
-<param ve-image
-       label="Red Rose Rosebush (2005)"
-       description="author unknown"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/68/Rosebush.jpg">
 
 # 
  The garden becomes a liberating space of creolization and "adolescent dreams" (Depestre 197). 
@@ -552,22 +552,23 @@ Ram Goat/ Damania/Turnera aphrodisiaca
        license="GNU"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Turnera_diffusa_var._aphrodisiaca_001.JPG">
 
-# 
-Hibiscus
-<param ve-image
-       label="Flower Hibiscus Rosa Linensis from Familiar Indian Flowers by Lena Lowis (1878)"
-       description="Familiar Indian Flowers with Colored Plates"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/de/Flower-hibiscus-rosa-linensis.png">
-# Hibiscus    
-<param ve-image
-       label="Hibiscus Guadeloupe by Kevin Charpentier (2018)"
-       description="Guadeloupe National Park, a 'tropical landscape'"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Hibiscus_Guadeloupe.jpg">
+
        
 
-
+# Garden Collapses Time and Space
+"Just as others might head aimlessly down any number of roads, testing their vagabond love of life by visiting diverse climates, all I needed to do sample all of life's finest and most joyful passions was head down to our garden!" (Depestre 197-198).
+ 
+<param ve-image
+       label="Rosebushes by Isaac Watts (1869)"
+       description="19th Century Rose Bush Drawing"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Vintage_Rose_Bush_Drawing.jpg">
+# Rosebush
+<param ve-image
+       label="Red Rose Rosebush (2005)"
+       description="author unknown"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/68/Rosebush.jpg">
 
 # In Conclusion: What are the Provocations that Plants Propose?
 Planting a  garden is very much imagining something that's not there...You're putting something in the ground that is both entirely different from the thing which will arrive and entirely the same. It's preciesely two things or more at once. It's like time travel too. Which is what metaphor is. It's saying that these two things are true, simultaneously" ("Wild Love")
