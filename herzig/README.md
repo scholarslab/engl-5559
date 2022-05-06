@@ -485,6 +485,12 @@ This is a specific type of Pisonia
        description="Chromolithographs with 'flowering and leafy shoots with separate numbered flower and fruit sections"
        license="Creative Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/8/88/Two_plants_%28Pisonia_sylvestris_and_Pisonia_alba_%29%3B_flowering_Wellcome_V0042701.jpg">
+# Pisonia
+<param ve-image
+       label="Pisonia trees by Angela K. Kepler (no date)"
+       description="Vostok Island's interior forest is predominantly Pisonia trees (Pisonia grandis), Line Islands, Kiribati"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/78/Vostok_AKK_Pisonia.jpg">
 
 # Ram Goat
 Known under many names, this is for a pharmaceutical part of a botanical garden, the Ram Goat/Damania/Turnera aphrodisiaca coinciding with picture number four.
@@ -493,6 +499,12 @@ Known under many names, this is for a pharmaceutical part of a botanical garden,
        description="From the NY Botanical Garden and LuEster Mertz Library"
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Archiv_der_Pharmazie_%281835-1923.%29_%2819756403951%29.jpg">
+# Turnera aphrodisiaca
+<param ve-image
+       label="Turnera diffusa var. aphrodisiaca by H. Zell (2010)"
+       description="Damania flowers"
+       license="GNU"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Turnera_diffusa_var._aphrodisiaca_001.JPG">
 
 # Hibiscus
 Hibiscus flowers
