@@ -1,11 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
+
 <param ve-config 
        title="Unmapping Botanical Knowledge in René Depestre's Hadriana in All My Dreams" 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Phipps_Conservatory_Sunken_Garden_fall_2015.jpg" 
        layout="vertical">
      
-
 #
 "For me, the magic would always begin in the garden" (Depestre 196).
 <param ve-image
@@ -181,25 +181,6 @@ Dwarf Palm
        description="Ziarnek identifies as a Polish botanist"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/4/45/Amaryllis_belladonna_kz03.jpg">
-
-
-
-
-# Breadfruit
-
-Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
-
-<param ve-image
-       label="Breadfruit (Artocarpus altilis) by M.A. Burnett; Gilbert Thomas Burnett (1853)"
-       description="Breadfruit: fruiting stem, leaf, fruit"
-       license="Creative Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
-# Breadfruit
-<param ve-image
-       label="Breadfruit by Ashay (2019)"
-       description="It is used as a dish in Dakshina Kannada Region according to the description"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
 
 
 
@@ -472,6 +453,23 @@ Used for the capitalistic commodification of cigarette ads
        description="from Flickr"
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/6/61/Avocado_Tree_%282473587957%29.jpg">
+
+
+# Breadfruit
+
+Breadfruit is a plant specifically tied to the slave trade that is in Hadriana's father's garden
+
+<param ve-image
+       label="Breadfruit (Artocarpus altilis) by M.A. Burnett; Gilbert Thomas Burnett (1853)"
+       description="Breadfruit: fruiting stem, leaf, fruit"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Breadfruit_%28Artocarpus_altilis%29%3B_fruiting_stem_with_separate_Wellcome_V0043949.jpg">
+# Breadfruit
+<param ve-image
+       label="Breadfruit by Ashay (2019)"
+       description="It is used as a dish in Dakshina Kannada Region according to the description"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg">
 
 # Scarlet Plum Tree
 Removed from their natural environment, going so far as to remove the stems, tree, etc. to only concentrate on the literal fruits of the labor, this print descends from the legacy of colonial removal, the description even refers to it as a specimin.
