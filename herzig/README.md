@@ -9,6 +9,14 @@
 #
 "For me, the magic would always begin in the garden" (Depestre 196).
 <param ve-image
+       label="Zen Garden at the Temple of the Silver Pavilion, Japan"
+       description="By Basil Morin (2019)"
+       license="Creative Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dry-sand_Zen_garden_made_of_beige_stripes_a_sunny_day_at_Higashiyama_Jisho-ji_Buddhist_temple_Ginkaku-ji_Kyoto_Japan.jpg">
+
+#
+Sea Grapes
+<param ve-image
        label="Sea-Side Grape of the West Indies (1800) by Lydia Byam"
        description="Fruits of the West Indies by Lydia Byam"
        license="Creative Commmons Attribution"
