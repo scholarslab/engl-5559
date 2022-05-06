@@ -395,8 +395,8 @@ Interestingly not portrayed as climbing, but rather as "hardy," "handsome," and 
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/1/11/%27Jasminum_officinale%27_Fiona_Sunrise_or_Golden_Poet%27s_Jasmine_at_Nuthurst%2C_West_Sussex%2C_England.JPG">
 
-# Orchids
-Encyclia vitellina is the lating name used to identify this print, but Hadriana tends to use more common, vernacular names.
+# 
+Orchids 
 <param ve-image
        label="Encyclia vitellina by Miss S.A. Drake (1838-1841)"
        description="Hand-colored engraving originally from John Lindley's Sertum orchidaceum"
@@ -409,8 +409,8 @@ Encyclia vitellina is the lating name used to identify this print, but Hadriana 
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/2/20/Orchid_3983.jpg">
        
-# Spanish Lime
-Spanish descriptor further indicates that these plants are not native to Jacmel.
+# 
+(Spanish) Lime
 <param ve-image
        label="Lime Tree by William Delamotte (1835)"
        description="British Museum Lithograph of a lime tree set in fields, with sheep surrounding and figures on the right" 
@@ -423,7 +423,8 @@ Spanish descriptor further indicates that these plants are not native to Jacmel.
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/3/34/Lime_tree_in_Punjab.jpg">
 
-# Orange Tree
+# 
+Orange Tree
 <param ve-image
        label="Orange branch bearing fruit from Merian's Drawings of Surinam Insects (1701-1705)"
        description="Commentary on this drawing is much more focused on the caterpillar and moth than the tree itself"
@@ -436,8 +437,9 @@ Spanish descriptor further indicates that these plants are not native to Jacmel.
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/59/Orange-tree-1117423.jpg">
 
-# Avocado Tree
-Avocados used for the capitalistic commodification of cigarette ads
+# 
+Avocado
+Used for the capitalistic commodification of cigarette ads
 <param ve-image
        label="Avocado, from the Fruits series for Allen & Ginter Cigarettes Brands (1891)"
        description="George S. Harris & Sons under Prints/Ephemera in the Metropolitan Museum of Art"
@@ -465,8 +467,8 @@ Removed from their natural environment, going so far as to remove the stems, tre
        license="GNU Free Documentation License"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5a/Plums_on_tree.jpg">
 
-# Tamarind Tree
-Made to look small and insignificant compared to the squirrel, these trees are massive in their true physical form.
+# 
+Tamarind
 <param ve-image
        label="The Common Striped Squirrel (Palm Squirrel) Funambulus palmarum on a Tamarind Tree by James Forbes (1812-1813)"
        description="From Oriental Memoirs; Drawn and Painted around Bombay around 1779"
@@ -479,8 +481,8 @@ Made to look small and insignificant compared to the squirrel, these trees are m
        license="CC"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c1/Branches_of_a_Tamarind_tree.jpg">
 
-# Gumbo-Limbo
-Also known as the Bursera simaruba, this is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
+# 
+Gumbo Limbo (Bursera simaruba)'s first print is apparently illustrated by two artists and John Jay, who became the U.S. Supreme Court's first chief justice.
 <param ve-image
        label="Bursera Gummifera by François André Michaux, Thomas Nuttall, and Jay J. Smith, (John Jay) (1865)"
        description="From The North American sylva; or, A description of the forest trees of the United States, Canada and Nova Scotia made possible by the University of Pittsburgh Library System"
@@ -492,8 +494,8 @@ Also known as the Bursera simaruba, this is apparently illustrated by two artist
        license="Creative Commons Public Domain Dedication"
        url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gfp-gumbo-limbo-tree.jpg">
 
-# Water Mampoo
-This is a specific type of Pisonia
+# 
+Water Mamapoo (a specific type of Pisonia)
 <param ve-image
        label="Two types of cultivated Pisonia by Pierre Joseph Depannemaeker (1885)"
        description="Chromolithographs with 'flowering and leafy shoots with separate numbered flower and fruit sections"
@@ -506,8 +508,8 @@ This is a specific type of Pisonia
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/7/78/Vostok_AKK_Pisonia.jpg">
 
-# Ram Goat
-Known under many names, this is for a pharmaceutical part of a botanical garden, the Ram Goat/Damania/Turnera aphrodisiaca coinciding with picture number four.
+# 
+Ram Goat/ Damania/Turnera aphrodisiaca
 <param ve-image
        label="Archive of Pharmacy by the Deutscher Apotheker Verein (1882)"
        description="From the NY Botanical Garden and LuEster Mertz Library"
@@ -520,7 +522,8 @@ Known under many names, this is for a pharmaceutical part of a botanical garden,
        license="GNU"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Turnera_diffusa_var._aphrodisiaca_001.JPG">
 
-# Hibiscus
+# 
+Hibiscus
 <param ve-image
        label="Flower Hibiscus Rosa Linensis from Familiar Indian Flowers by Lena Lowis (1878)"
        description="Familiar Indian Flowers with Colored Plates"
