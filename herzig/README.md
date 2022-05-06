@@ -116,7 +116,7 @@ This work, *Hadriana in All My Dreams*, is by René Depestre, and Hadriana is tr
        url="https://upload.wikimedia.org/wikipedia/commons/1/17/Lemon_Tree_1.jpg">             
        
 # Flora from all over the Caribbean
-"My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196) 
+The central garden in *Hadriana in All My Dreams* is not a local one, but rather an assemblage steming from Hadriana's father's occupation as French botanist. "My father, an amateur botanist, had wanted to please us by cultivating not only the plant life particular to Haiti and the Dominican Republic, but flora from all over the Caribbean, from Cuba to Trinidad, passing by Jamaica, Martinique, Guadeloupe, and the entirety of the French Antilles" (Depestre 196). This purloining of plants reflects typical colonial attitudes of taking plants from colonized spaces for one's own garden. 
 
 <param ve-image
        label="Ravenea hildebrandtii from L'Illustration horticole: Gand, Belgium :Imprimerie et lithographie de F. et E. Gyselnyck (1854-1896)"
@@ -148,7 +148,7 @@ Dwarf Palm
 
 
 #
-"from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis" (Depestre 196).
+"from sea grape to leatherwood; from morning glories to cabbage palmettos; from cinnamon bark, with its smell of cassis, to tree ferns" (Depestre 196).
 
 <param ve-image
        label="Annona muricata Blanc (Soursop) by Francisco Manuel Blanco (1880s)"
@@ -163,7 +163,7 @@ Dwarf Palm
        url="https://upload.wikimedia.org/wikipedia/commons/6/62/Annona_muricata_%28Soursop%29_-_tree_with_fruits.jpg">
        
 # 
-"to tree ferns; from miracle leaf to wild plantain; not  to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
+"from miracle leaf to wild plantain; not to mention the silk-cotton trees, bay laurels, amaryllis, rosebushes, orchids, bougainvillea, and climbing jasmine, hibiscus, and dwarf palms; and not counting the fruit trees--coconut, guava, Spanish lime, sourop, breadfruit, mango, star apple, lemon, orange, avocado, scarlet plum, tamarind, and so many other species that I counted among my companions--gumbo-limbo, water mampoo, ram goat, cactus pear, mimosa, all manner of magnolia, breaknail, and mountain blueberry"( Depestre 196-197).
 
 <param ve-image
        label="Burbank's Giant Hybrid Amaryllis for Child's Rare Flowers Catalog (1906)"
@@ -196,8 +196,8 @@ Dwarf Palm
        url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Dirca_occidentalis_%28Western_Leatherwood%29_%2833862595652%29.jpg">
 
 # Garden as Ornamental Spectacle
-In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176--FR)
-This is a completely different implication, because ornamental plants purely for the point of spectacle were key features of colonial botany
+In the French, however, it says instead of "most well-manicured garden" "de la forêt des plantes ornementales" (Depestre 176)
+This is a completely different implication, the literal French translation means "of the forest of ornamental plants." Ornamental plants purely for the point of spectacle were key features of colonial botany, and futher reveals Hadriana's father's creation of a garden as inseparable from a colonial project.
 
 <param ve-image
        label="A Tropical Landscape by Jean Nieuhoff (1618-1672)"
@@ -212,7 +212,7 @@ This is a completely different implication, because ornamental plants purely for
        url="https://upload.wikimedia.org/wikipedia/commons/b/b3/CoconutTree2.JPG">
 
 # Garden as Creole Space
-Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion.  "If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word *garden*" (Depestre 197)
+Nevertheless, Hadriana subverts the colonial origin and legacy of this garden by pinpointing it as a source of her rebellion, imagination, and passion. Hadriana purposefully uses common names as much as possible for the naming of the plants, and sometimes even mixes the scientific and vernacular names, but always situating the common name as primary. 
 
 <param ve-image
        label="Ipomoea hederacea (Morning Glory Flower) by Francisco Manuel Blanco (1880s)"
@@ -225,6 +225,21 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
         description="Morning Glory Flower"
         license="CC"
         url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Ipomoea_hederacea_004.jpg">
+
+# 
+"If there was anything strange about the young girl, about her wandering and vagabond nature, it easily could have been summed up in the two syllables of the word *garden*" (Depestre 197). 
+<param ve-image
+       label="Anne Pratt's Ribwort Plantain (1857)"
+       description="Wild Plantain"
+       license="PD"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
+# Ribwort Plantain in Real Life
+<param ve-image
+       label="Plantago lanceolata (Ribwort Plantain) by Luis Fernández García (2014)"
+       description="In Losar de la Vera, Spain"
+       license="CC"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Plantago_lanceolata_20140416a.jpg">
+
 
 # 
 "Everything in me--the spirit of childhood, a voracious sensuality, the Haitian gift for wonderment, the impulsive humour of the French, all my joy at being in the world…there before the trees and the sun-drenched hedges of our garden" (Depestre 197).
@@ -270,19 +285,6 @@ Hadriana subverts the colonial origin and legacy of this garden by pinpointing i
        license="PD"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cabbage_Palmetto%2C_from_Robert_N._Dennis_collection_of_stereoscopic_views_2.jpg">
 
-# 
-Wild Plantain
-<param ve-image
-       label="Anne Pratt's Ribwort Plantain (1857)"
-       description="Wild Plantain"
-       license="PD"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/33/Wild_flowers_%28Pl._52%29_%288512689911%29.jpg">
-# Ribwort Plantain in Real Life
-<param ve-image
-       label="Plantago lanceolata (Ribwort Plantain) by Luis Fernández García (2014)"
-       description="In Losar de la Vera, Spain"
-       license="CC"
-       url="https://upload.wikimedia.org/wikipedia/commons/9/94/Plantago_lanceolata_20140416a.jpg">
 
 
 #
