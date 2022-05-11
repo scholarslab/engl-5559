@@ -78,13 +78,15 @@ It is time to wind back to the Blackie print of “an Indian plantation” “in
        url="https://iiif.wellcomecollection.org/image/b11831224_0001.jp2/full/full/0/default.jpg">
 
 ## Notes
+
 [^1]: The Henry Wellcome Collection dated the Blackie print to 1850s, but I argue that it was made at least a decade later. The “New Station” scene seems to be a faithful reproduction of [Oscar Jean-Baptiste Mallitte’s photograph of a tea garden near Cachar taken in the 1860s](http://www.bl.uk/onlinegallery/onlineex/apac/photocoll/t/019pho000000913u00033000.html). Therefore the Blackie print could hardly predate 1860s.
 [^2]: In Empire of Tea, Ellis et al. point out that the undated poem was published posthumously, first appearing in print in 1690, and suggest that it was composed in the early 1680s (Ellis et al, 39). 
 [^3]: This account was contested by Rappaport. She demonstrates how tea-drinking had already been practiced among Royalists during exile and how the East India Company bribed Charles II with tea for his favor before his marriage with Catherine. Another unattested yet widespread historical account of aristocratic introduction of tea to England was that Lords Arlington and Ossory of Holland brought tea to the island in 1666, and tea-drinking was then favorably and fashionably received by the upper-class British women with endorsement from their wives (Hanway 215). Ellis et al. sorted out three strands of early British encounter with tea between 1650s and 1660s, i.e. naturalists and physicians, merchants, and the aforesaid female aristocrats (31). 
 
----
+
 
 # Works Cited and Consulted
+
 Bland, James. *An Essay in Praise of Women: or, a Looking-Glass for Ladies to See Their Perfections in*. London, 1733.	
 
 Broadbent, Humphrey. *The Domestick Coffee-Man, Shewing the True Way of Preparing And Making of Chocolate, Coffee And Tea*. London, 1722.
