@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title=" "*A Denizen of England:*" Anglicizing Tea in the Early Modern Britain" 
+       title="A Denizen of England: Anglicizing Tea in the Early Modern Britain" 
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
@@ -51,14 +51,8 @@ The eighteenth was the century of the East India Company’s monopoly of and hea
 
 It is time to wind back to the Blackie print of “an Indian plantation” “in Assam” and take an even closer look — “New Station” reflects the colonial, racial, and social choreography of hierarchy: two sober-suited English-looking gentlemen in the foreground, a vested and booted overseer gesturing from a distance at an Indian laborer clothed in nothing but a white turban and white shorts, several other Indian laborers in miniature interspersed in the field of tea bushes and vaguely indicated by the black-and-white contrast between their trunks and their turbans and shorts, across the field thatched pavilions dwarfed by the clusters of gigantic buildings in the background. “Coolies Assam” is a carte-de-visite portrait of three variously-clad Indian laborers, singled out and brought to the fore as a token colonial subject. To the left in the first scene, “Preparing the Ground for the Seed,” is an opium-pipe holding Qing male, embodying Britain’s recent colonial defeat of and encroachment on China. For the Chinese scenes, the seven paintings are captioned with prominence given to the verbs delineating the process of tea cultivation and preparation, effacing the many subjects of Chinese laborers engaging and entailed in that exact process. Yet for the audience of the print in “London, Glasgow, Edinburgh & Dublin,” the print must have looked pastoral and organized, showing exotic subjects refined by the British civility laboring for the cultivation and preparation of “Tea” — or, it goes without saying, English Tea.
 
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # Notes
-[^1]: The Henry Wellcome Collection dated the Blackie print to 1850s, but I argue that it was made at least a decade later. The “New Station” scene seems to be a faithful reproduction of Oscar Jean-Baptiste Mallitte’s photograph of a tea garden near Cachar taken in the 1860s. Therefore the Blackie print could hardly predate 1860s.
-[^2]: In Empire of Tea, Ellis et al. point out that the undated poem was published posthumously, first appearing in print in 1690, and suggest that it was composed in the early 1680s (Ellis et al, 39). 
+[^1]: The Henry Wellcome Collection dated the Blackie print to 1850s, but I argue that it was made at least a decade later. The “New Station” scene seems to be a faithful reproduction of [Oscar Jean-Baptiste Mallitte’s photograph of a tea garden near Cachar taken in the 1860s] (http://www.bl.uk/onlinegallery/onlineex/apac/photocoll/t/largeimage57783.html). Therefore the Blackie print could hardly predate 1860s.
+[^2]: In *Empire of Tea*, Ellis et al. point out that the undated poem was published posthumously, first appearing in print in 1690, and suggest that it was composed in the early 1680s (Ellis et al, 39). 
 [^3]: This account was contested by Rappaport. She demonstrates how tea-drinking had already been practiced among Royalists during exile and how the East India Company bribed Charles II with tea for his favor before his marriage with Catherine. Another unattested yet widespread historical account of aristocratic introduction of tea to England was that Lords Arlington and Ossory of Holland brought tea to the island in 1666, and tea-drinking was then favorably and fashionably received by the upper-class British women with endorsement from their wives (Hanway 215). Ellis et al. sorted out three strands of early British encounter with tea between 1650s and 1660s, i.e. naturalists and physicians, merchants, and the aforesaid female aristocrats (31). 
