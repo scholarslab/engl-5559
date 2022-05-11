@@ -77,7 +77,7 @@ It is time to wind back to the Blackie print of “an Indian plantation” “in
        license="public domain"
        url="https://iiif.wellcomecollection.org/image/b11831224_0001.jp2/full/full/0/default.jpg">
 
-## Notes
+##Notes
 
 [^1]: The Henry Wellcome Collection dated the Blackie print to 1850s, but I argue that it was made at least a decade later. The “New Station” scene seems to be a faithful reproduction of [Oscar Jean-Baptiste Mallitte’s photograph of a tea garden near Cachar taken in the 1860s](http://www.bl.uk/onlinegallery/onlineex/apac/photocoll/t/019pho000000913u00033000.html). Therefore the Blackie print could hardly predate 1860s.
 [^2]: In Empire of Tea, Ellis et al. point out that the undated poem was published posthumously, first appearing in print in 1690, and suggest that it was composed in the early 1680s (Ellis et al, 39). 
