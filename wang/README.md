@@ -1,17 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title=" "*A Denizen of England:*" Anglicizing Tea in the Early Modern Britain" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="A Denizen of England: Anglicizing Tea in the Early Modern Britain" 
+       banner="https://iiif.wellcomecollection.org/image/b28038605_0006.jp2/full/full/0/default.jpg"
        layout="vertical">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # "A Denizen of England:" Anglicizing Tea in the Early Modern Britain
 
@@ -94,23 +86,44 @@ It is time to wind back to the Blackie print of “an Indian plantation” “in
 
 # Works Cited and Consulted
 Bland, James. *An Essay in Praise of Women: or, a Looking-Glass for Ladies to See Their Perfections in*. London, 1733.	
+
 Broadbent, Humphrey. *The Domestick Coffee-Man, Shewing the True Way of Preparing And Making of Chocolate, Coffee And Tea*. London, 1722.
+
 Chamberlayne, John. *The Natural History of Coffee, Thee, Chocolate, Tobacco*. London, 1682.
+
 Chatterjee, Piya. *A Time for Tea: Women, Labor, and Post/Colonial Politics on an Indian Plantation*. Duke UP, 2001.
+
 Defoe, Daniel, et al. *Daniel Defoe: His Life and Recently Discovered Writings: Extending From 1716 to 1729*. London, 1869.
+
 Digby, Kenelm. *The Closet of the Eminently Learned Sir Kenelme Digbie Kt. Opened*. London, 1669.
+
 Ellis, Markman, et al. *Empire of Tea: The Asian Leaf That Conquered the World*. Reaktion Books, 2015.
+
 Hanway, Jonas. *A Journal of Eight Days Journey from Postsmouth to Kingston upon Thames, through Southampton, Wiltshire, &c*. London, 1756.
+
 Haywood, Eliza. *The Tea-Table: Or, a Conversation Between Some Polite Persons of Both Sexes*. London, 1725.
+
 Hill, John. *Exotic Botany Illustrated*. London, 1759.
+
 Hogarth, William. *William Wollaston and His Family in a Grand Interior*. 1730, Leicester Museum & Art Gallery.
+
 Johnson, Samuel. *The Works of Samuel Johnson, LL.D. vol. 2*. London, 1810.
+
 Lettsom, John Coakley. *The Natural History of the Tea-Tree*. London, 1772.
-Martin, Ann. “Tea Tables Overturned: Rituals of Power and Place in Colonial America.” *Furnishing the Eighteenth Century: What Furniture Can Tell Us about the European and American Past*, edited by Dena Goodman and Kathryn Norberg, Routledge, 2007, pp. 169–181.
+
+Martin, Ann. “Tea Tables Overturned: Rituals of Power and Place in Colonial America.” *Furnishing the Eighteenth Century: What Furniture Can Tell Us about 
+the European and American Past*, edited by Dena Goodman and Kathryn Norberg, Routledge, 2007, pp. 169–181.
+
 Ovington, John. *A Voyage to Suratt in the Year 1689*. London, 1696.
+
 ---. *An Essay Upon the Nature and Qualities of Tea*. London, 1699.
+
 Rappaport, Erika Diane. *A Thirst for Empire: How Tea Shaped the Modern World*. Princeton UP, 2017.
+
 Schuchard, Marsha Keith. *Emanuel Swedenborg, Secret Agent on Earth and in Heaven: Jacobites, Jews and Freemasons in Early Modern Sweden*. Brill, 2012, p. 46.
+
 *The Ladies Exercise At Tea: With the Rise And Progress Therof, Or the Metamorphosis of a Set of Ladies Into a Set of China Tea-Cups*. Dublin, reprinted in Coke, 1729. 
+
 Waller, Edmund. *The Works of Edmund Waller in Verse and Prose*. London, 1729.
+
 Williams, Joseph Lionel. Nine Scenes Showing Tea Cultivation and Preparation on an Indian Plantation*. c. 1860s, London, Wellcome Library.
