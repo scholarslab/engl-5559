@@ -81,7 +81,7 @@ It is time to wind back to the Blackie print of “an Indian plantation” “in
 [^2]: In Empire of Tea, Ellis et al. point out that the undated poem was published posthumously, first appearing in print in 1690, and suggest that it was composed in the early 1680s (Ellis et al, 39). 
 [^3]: This account was contested by Rappaport. She demonstrates how tea-drinking had already been practiced among Royalists during exile and how the East India Company bribed Charles II with tea for his favor before his marriage with Catherine. Another unattested yet widespread historical account of aristocratic introduction of tea to England was that Lords Arlington and Ossory of Holland brought tea to the island in 1666, and tea-drinking was then favorably and fashionably received by the upper-class British women with endorsement from their wives (Hanway 215). Ellis et al. sorted out three strands of early British encounter with tea between 1650s and 1660s, i.e. naturalists and physicians, merchants, and the aforesaid female aristocrats (31). 
 
-## Works Cited and Consulted
+## Notes and Works Cited and Consulted
 
 Bland, James. *An Essay in Praise of Women: or, a Looking-Glass for Ladies to See Their Perfections in*. London, 1733.	
 
